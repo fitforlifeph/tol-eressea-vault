@@ -27833,6 +27833,13 @@
       ],
       "status": "complete",
       "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+    },
+    {
+      "filename": "2026-03-08-readwise-assets.s3.amazonaws.com-media-wisereads-articles-ai-hu.md",
+      "title": "Untitled (extraction failed)",
+      "url": "https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/ai-hurtles-ahead/1160.pdf",
+      "status": "incomplete",
+      "embedding": []
     }
   ]
 }
