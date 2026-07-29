@@ -8,6 +8,8 @@ source: "https://danwang.co/2025-letter/"
 estimated_pages: 52
 status: complete
 draft: false
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-11-2025-letter-dan-wang.pdf"
+archive_url: "https://web.archive.org/web/https://danwang.co/2025-letter/"
 tags: []
 ---
 
