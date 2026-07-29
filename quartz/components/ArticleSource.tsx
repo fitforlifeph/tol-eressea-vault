@@ -7,9 +7,11 @@ const ArticleSource: QuartzComponent = ({ fileData, displayClass }: QuartzCompon
   // Support both 'source' and 'url' fields for original article link
   const source = (fileData.frontmatter?.source || fileData.frontmatter?.url) as string | undefined
   const pdfUrl = fileData.frontmatter?.pdf_url as string | undefined
+  const archiveUrl = fileData.frontmatter?.archive_url as string | undefined
+  const mediaUrl = fileData.frontmatter?.media_url as string | undefined
 
   // Only show if we have at least one field
-  if (!author && !publication && !source && !pdfUrl) {
+  if (!author && !publication && !source && !pdfUrl && !mediaUrl) {
     return null
   }
 
@@ -37,7 +39,13 @@ const ArticleSource: QuartzComponent = ({ fileData, displayClass }: QuartzCompon
             View PDF ↗
           </a>
         )}
+        {archiveUrl && (
+          <a href={archiveUrl} target="_blank" rel="noopener noreferrer" class="archive-link">
+            Wayback ↗
+          </a>
+        )}
       </div>
+      {mediaUrl && <audio controls preload="none" src={mediaUrl} class="media-player" />}
     </div>
   )
 }
@@ -68,6 +76,17 @@ ArticleSource.css = `
 
 .article-source .source-links .pdf-link {
   color: var(--tertiary);
+}
+
+.article-source .source-links .archive-link {
+  color: var(--gray);
+}
+
+.article-source .media-player {
+  margin-top: 0.75rem;
+  width: 100%;
+  max-width: 32rem;
+  display: block;
 }
 `
 
