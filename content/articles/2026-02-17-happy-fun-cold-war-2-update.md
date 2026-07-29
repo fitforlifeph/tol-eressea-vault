@@ -8,6 +8,8 @@ source: "https://www.noahpinion.blog/p/happy-fun-cold-war-2-update"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-02-17-happy-fun-cold-war-2-update.pdf"
+archive_url: "https://web.archive.org/web/https://www.noahpinion.blog/p/happy-fun-cold-war-2-update"
 tags: []
 ---
 
