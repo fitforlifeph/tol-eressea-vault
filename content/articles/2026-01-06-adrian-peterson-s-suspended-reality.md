@@ -9,6 +9,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-06-adrian-peterson-s-suspended-reality.pdf"
+archive_url: "https://web.archive.org/web/https://www.espn.com/nfl/story/_/id/13432433/adrian-peterson-living-own-world"
 tags: []
 ---
 
