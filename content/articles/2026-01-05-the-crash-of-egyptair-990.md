@@ -6,6 +6,8 @@ published: 2001-11-01
 saved: 2026-01-05T23:21:06.141285+00:00
 source: "https://www.theatlantic.com/magazine/archive/2001/11/the-crash-of-egyptair-990/302332/"
 estimated_pages: 40
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-05-the-crash-of-egyptair-990.pdf"
+archive_url: "https://web.archive.org/web/https://www.theatlantic.com/magazine/archive/2001/11/the-crash-of-egyptair-990/302332/"
 tags: []
 ---
 
