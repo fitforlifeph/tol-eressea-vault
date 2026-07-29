@@ -8,6 +8,8 @@ source: "https://www.theatlantic.com/ideas/2026/02/boredom-parenthood-father/686
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-03-08-boredom-is-the-price-we-pay-for-meaning.pdf"
+archive_url: "https://web.archive.org/web/https://www.theatlantic.com/ideas/2026/02/boredom-parenthood-father/686158/"
 tags: []
 ---
 
