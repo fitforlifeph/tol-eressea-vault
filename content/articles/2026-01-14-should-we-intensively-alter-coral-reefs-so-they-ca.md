@@ -9,6 +9,7 @@ estimated_pages: 16
 status: complete
 draft: false
 pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-14-should-we-intensively-alter-coral-reefs-so-they-ca.pdf"
+archive_url: "https://web.archive.org/web/https://aeon.co/essays/should-we-intensively-alter-coral-reefs-so-they-can-survive-the-heat"
 tags: []
 ---
 
