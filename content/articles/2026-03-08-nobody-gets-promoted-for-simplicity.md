@@ -8,6 +8,7 @@ source: "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simpli
 estimated_pages: 6
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
 tags: []
 ---
 
