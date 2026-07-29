@@ -8,6 +8,8 @@ source: "https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed"
 estimated_pages: 28
 status: complete
 draft: false
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-02-04-david-runciman-are-we-doomed-the-end-of-the-specie.pdf"
+archive_url: "https://web.archive.org/web/https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed"
 tags: []
 ---
 
