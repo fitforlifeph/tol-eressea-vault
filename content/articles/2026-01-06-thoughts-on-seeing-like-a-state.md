@@ -6,6 +6,8 @@ published: 2024-07-22
 saved: 2026-01-06T01:52:26.035677+00:00
 source: "https://www.markkoyama.com/p/thoughts-on-seeing-like-a-state"
 estimated_pages: 5
+pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-06-thoughts-on-seeing-like-a-state.pdf"
+archive_url: "https://web.archive.org/web/https://www.markkoyama.com/p/thoughts-on-seeing-like-a-state"
 tags: []
 ---
 
