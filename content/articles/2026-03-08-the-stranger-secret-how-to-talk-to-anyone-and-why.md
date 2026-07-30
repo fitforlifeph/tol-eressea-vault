@@ -6,8 +6,8 @@ published: 2026-02-24
 saved: 2026-03-08T23:56:20.728056+00:00
 source: "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
 estimated_pages: 7
-status: incomplete
-draft: true
+status: complete
+draft: false
 pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-03-08-the-stranger-secret-how-to-talk-to-anyone-and-why.pdf"
 archive_url: "https://web.archive.org/web/https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
 tags: []
