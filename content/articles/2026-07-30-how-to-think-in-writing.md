@@ -9,6 +9,7 @@ estimated_pages: 11
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.henrikkarlsson.xyz/p/writing-to-think"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-07-30-how-to-think-in-writing.pdf"
 tags: []
 ---
 
