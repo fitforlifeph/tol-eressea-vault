@@ -8,6 +8,8 @@ source: "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-07-30-the-future-worth-building-is-human.pdf"
+archive_url: "https://web.archive.org/web/https://thinkingmachines.ai/blog/the-future-worth-building-is-human/"
 tags: []
 ---
 
