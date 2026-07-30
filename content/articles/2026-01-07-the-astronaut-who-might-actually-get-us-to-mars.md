@@ -8,7 +8,7 @@ source: "https://www.texasmonthly.com/articles/the-astronaut-who-might-actually-
 estimated_pages: 18
 status: complete
 draft: false
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-07-the-astronaut-who-might-actually-get-us-to-mars.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-01-07-the-astronaut-who-might-actually-get-us-to-mars.pdf"
 archive_url: "https://web.archive.org/web/https://www.texasmonthly.com/articles/the-astronaut-who-might-actually-get-us-to-mars/"
 tags: []
 ---

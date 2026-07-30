@@ -8,7 +8,7 @@ source: "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-ho
 estimated_pages: 7
 status: complete
 draft: false
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-03-08-the-stranger-secret-how-to-talk-to-anyone-and-why.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-03-08-the-stranger-secret-how-to-talk-to-anyone-and-why.pdf"
 archive_url: "https://web.archive.org/web/https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
 tags: []
 ---

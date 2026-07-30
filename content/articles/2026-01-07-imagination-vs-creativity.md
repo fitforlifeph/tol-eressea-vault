@@ -8,7 +8,7 @@ source: "https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/"
 estimated_pages: 9
 status: complete
 draft: false
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-07-imagination-vs-creativity.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-01-07-imagination-vs-creativity.pdf"
 archive_url: "https://web.archive.org/web/https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/"
 tags: []
 ---

@@ -9,7 +9,7 @@ estimated_pages: 6
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-03-08-nobody-gets-promoted-for-simplicity.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-03-08-nobody-gets-promoted-for-simplicity.pdf"
 tags: []
 ---
 

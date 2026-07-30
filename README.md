@@ -6,7 +6,7 @@ Articles are saved via the [Tol Eressea Telegram bot](https://github.com/movewit
 
 ## Live Site
 
-https://fitforlifeph.github.io/tol-eressea-vault
+https://library.javierpgomez.com
 
 ## Structure
 

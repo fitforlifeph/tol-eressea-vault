@@ -8,7 +8,7 @@ source: "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glit
 estimated_pages: 11
 status: complete
 draft: false
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-14-using-ai-mathematicians-find-hidden-glitches-in-fl.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-01-14-using-ai-mathematicians-find-hidden-glitches-in-fl.pdf"
 archive_url: "https://web.archive.org/web/https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/"
 tags: []
 ---

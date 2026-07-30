@@ -8,7 +8,7 @@ source: "https://sublimeinternet.substack.com/p/how-to-have-a-pov"
 estimated_pages: 10
 status: complete
 draft: false
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-18-how-to-have-a-pov.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-01-18-how-to-have-a-pov.pdf"
 archive_url: "https://web.archive.org/web/https://sublimeinternet.substack.com/p/how-to-have-a-pov"
 tags: []
 ---

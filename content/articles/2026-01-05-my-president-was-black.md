@@ -6,7 +6,7 @@ published: 2016-12-13
 saved: 2026-01-05T23:17:12.423282+00:00
 source: "https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/"
 estimated_pages: 61
-pdf_url: "https://pub-fdd20d3ed85a472382626f4582604400.r2.dev/articles/2026-01-05-my-president-was-black.pdf"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-01-05-my-president-was-black.pdf"
 archive_url: "https://web.archive.org/web/https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/"
 tags: []
 ---
