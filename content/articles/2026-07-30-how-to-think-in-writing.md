@@ -8,6 +8,7 @@ source: "https://www.henrikkarlsson.xyz/p/writing-to-think"
 estimated_pages: 11
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.henrikkarlsson.xyz/p/writing-to-think"
 tags: []
 ---
 
