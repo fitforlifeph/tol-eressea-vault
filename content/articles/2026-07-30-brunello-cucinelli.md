@@ -8,6 +8,8 @@ source: "https://om.co/2015/04/27/brunello-cucinelli-2/"
 estimated_pages: 23
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-07-30-brunello-cucinelli.pdf"
+archive_url: "https://web.archive.org/web/https://om.co/2015/04/27/brunello-cucinelli-2/"
 tags: []
 ---
 
