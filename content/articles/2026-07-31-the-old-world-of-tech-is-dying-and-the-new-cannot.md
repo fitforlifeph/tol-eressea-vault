@@ -8,6 +8,7 @@ source: "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
 estimated_pages: 16
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
 tags: []
 ---
 
