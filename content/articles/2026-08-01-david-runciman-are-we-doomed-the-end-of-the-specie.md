@@ -9,6 +9,7 @@ estimated_pages: 28
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed/"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-01-david-runciman-are-we-doomed-the-end-of-the-specie.pdf"
 tags: []
 ---
 
