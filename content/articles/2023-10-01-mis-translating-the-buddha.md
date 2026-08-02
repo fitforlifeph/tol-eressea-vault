@@ -9,6 +9,7 @@ source: "https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-bud
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-01-mis-translating-the-buddha.pdf"
 tags: []
 ---
 
