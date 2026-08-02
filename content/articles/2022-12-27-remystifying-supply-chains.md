@@ -10,6 +10,7 @@ estimated_pages: 15
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-remystifying-supply-chains.pdf"
+archive_url: "https://web.archive.org/web/https://studio.ribbonfarm.com/p/remystifying-supply-chains"
 tags: []
 ---
 
