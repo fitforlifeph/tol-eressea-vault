@@ -9,6 +9,7 @@ source: "https://escapingflatland.substack.com/p/scene-creation-engines"
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-25-scene-creation-engines-and-apprenticeships.pdf"
 tags: []
 ---
 
