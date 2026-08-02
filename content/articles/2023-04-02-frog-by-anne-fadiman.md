@@ -9,6 +9,7 @@ source: "https://harpers.org/archive/2023/03/frog-what-happens-to-the-pets-that-
 estimated_pages: 22
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://harpers.org/archive/2023/03/frog-what-happens-to-the-pets-that-happen-to-you/"
 tags: []
 ---
 
