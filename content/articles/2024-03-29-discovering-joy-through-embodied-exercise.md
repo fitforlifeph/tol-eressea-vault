@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-03-29-discovering-joy-through-embodied-exercise.pdf"
+archive_url: "https://web.archive.org/web/https://newsletter.samsager.com/p/embodied-exercise?publication_id=1271070&post_id=142826649&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
