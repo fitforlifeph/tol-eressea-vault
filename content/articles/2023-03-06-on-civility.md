@@ -9,6 +9,7 @@ source: "https://engelsbergideas.com/essays/on-civility/"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-06-on-civility.pdf"
 tags: []
 ---
 
