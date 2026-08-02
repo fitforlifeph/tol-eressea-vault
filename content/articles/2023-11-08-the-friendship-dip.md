@@ -9,6 +9,7 @@ source: "https://annehelen.substack.com/p/the-friendship-dip"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-08-the-friendship-dip.pdf"
 tags: []
 ---
 
