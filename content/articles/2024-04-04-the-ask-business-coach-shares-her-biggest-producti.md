@@ -9,6 +9,7 @@ source: "https://the-ask.uk/blog/productivity-practices-2024"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-the-ask-business-coach-shares-her-biggest-producti.pdf"
 tags: []
 ---
 
