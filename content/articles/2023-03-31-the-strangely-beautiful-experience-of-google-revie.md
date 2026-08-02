@@ -9,6 +9,7 @@ source: "https://longreads.com/2023/01/03/the-strangely-beautiful-experience-of-
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-31-the-strangely-beautiful-experience-of-google-revie.pdf"
 tags: []
 ---
 
