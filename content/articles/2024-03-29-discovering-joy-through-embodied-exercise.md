@@ -9,6 +9,7 @@ source: "https://newsletter.samsager.com/p/embodied-exercise?publication_id=1271
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-29-discovering-joy-through-embodied-exercise.pdf"
 tags: []
 ---
 
