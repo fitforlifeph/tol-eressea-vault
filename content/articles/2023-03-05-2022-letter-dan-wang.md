@@ -3,8 +3,8 @@ title: "2022 letter | Dan Wang"
 author: "Dan Wang"
 publication: "Dan Wang"
 published: 2023-03-04
-saved: 2023-03-05T12:40:40.151117+00:00
-created: 2023-03-05T12:40:40.151117+00:00
+saved: 2023-03-05T00:00:00+00:00
+created: 2023-03-05T00:00:00+00:00
 source: "https://danwang.co/2022-letter/"
 estimated_pages: 40
 status: incomplete
