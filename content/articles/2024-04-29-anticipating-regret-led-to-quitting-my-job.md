@@ -9,6 +9,7 @@ source: "https://hulry.com/anticipated-regret/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-29-anticipating-regret-led-to-quitting-my-job.pdf"
 tags: []
 ---
 
