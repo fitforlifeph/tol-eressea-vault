@@ -9,6 +9,7 @@ source: "https://blog.nateliason.com/p/this-moment?publication_id=882098&post_id
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-07-this-moment-is-your-life.pdf"
 tags: []
 ---
 
