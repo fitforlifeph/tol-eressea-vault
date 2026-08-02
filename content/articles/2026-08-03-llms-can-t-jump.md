@@ -17,6 +17,8 @@ tags: []
 
 By Tom Zahavy
 
+In a personal position paper, Google DeepMind researcher Tom Zahavy argues that scientific discovery takes a cognitive leap LLMs can't make. "How do we fundamentally discover new things? In a letter to Maurice Solovine, Albert Einstein conceptualized discovery as a cyclical process involving an intuitive 'jump' from sensory experience to axioms, followed by logical deduction. While Generative AI has mastered Induction (statistical pattern matching) and is rapidly conquering Deduction (formal proof), we argue it lacks the mechanism for Abduction—the generation of novel explanatory hypotheses."
+
 This is a PDF; the full text is in the attached file rather than on this page.
 
 Original: https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/llms-can-t-jump/1365.pdf
