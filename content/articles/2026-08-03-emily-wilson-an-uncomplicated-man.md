@@ -9,6 +9,7 @@ source: "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-m
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-03-emily-wilson-an-uncomplicated-man.pdf"
 tags: []
 ---
 
