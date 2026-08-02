@@ -9,6 +9,7 @@ source: "https://www.notboring.co/p/discord-imagine-a-place"
 estimated_pages: 34
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.notboring.co/p/discord-imagine-a-place"
 tags: []
 ---
 
