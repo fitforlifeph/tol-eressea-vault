@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/lifeandstyle/2024/oct/31/experts-dentists-2
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/lifeandstyle/2024/oct/31/experts-dentists-22-quick-easy-ways-to-care-for-your-teeth"
 tags: []
 ---
 
