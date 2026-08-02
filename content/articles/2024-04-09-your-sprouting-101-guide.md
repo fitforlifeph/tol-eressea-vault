@@ -9,6 +9,7 @@ source: "https://theproof.com/why-we-should-all-be-sprouting/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-09-your-sprouting-101-guide.pdf"
 tags: []
 ---
 
