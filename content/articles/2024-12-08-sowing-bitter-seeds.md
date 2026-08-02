@@ -10,6 +10,7 @@ estimated_pages: 10
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-08-sowing-bitter-seeds.pdf"
+archive_url: "https://web.archive.org/web/https://news.thin-ink.net/p/sowing-bitter-seeds?publication_id=265967&post_id=152323766&isFreemail=true&r=m02zp&triedRedirect=true&__readwiseLocation="
 tags: []
 ---
 
