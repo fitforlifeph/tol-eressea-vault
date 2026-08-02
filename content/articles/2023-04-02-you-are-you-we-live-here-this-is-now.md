@@ -9,6 +9,7 @@ source: "https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is"
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is"
 tags: []
 ---
 
