@@ -9,6 +9,7 @@ source: "https://niemanstoryboard.org/stories/david-grann-narrative-nonfiction-i
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-23-david-grann-part-2-craft-wisdom-and-breaking-into.pdf"
 tags: []
 ---
 
