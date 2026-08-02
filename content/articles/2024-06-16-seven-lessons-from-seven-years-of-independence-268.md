@@ -9,6 +9,7 @@ source: "https://newsletter.pathlesspath.com/p/seven-lessons-from-seven-years-of
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-16-seven-lessons-from-seven-years-of-independence-268.pdf"
 tags: []
 ---
 
