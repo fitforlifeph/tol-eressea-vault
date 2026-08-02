@@ -10,6 +10,7 @@ estimated_pages: 31
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.strongerbyscience.com/goal-setting/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-an-evidence-based-approach-to-goal-setting-and-beh.pdf"
 tags: []
 ---
 
