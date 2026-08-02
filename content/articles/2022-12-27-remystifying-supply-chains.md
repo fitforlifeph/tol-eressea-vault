@@ -9,6 +9,7 @@ source: "https://studio.ribbonfarm.com/p/remystifying-supply-chains"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-remystifying-supply-chains.pdf"
 tags: []
 ---
 
