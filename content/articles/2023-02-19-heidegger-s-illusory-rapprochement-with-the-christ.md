@@ -9,6 +9,7 @@ source: "https://churchlifejournal.nd.edu/articles/an-apocalyptic-double-bind-an
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-19-heidegger-s-illusory-rapprochement-with-the-christ.pdf"
 tags: []
 ---
 
