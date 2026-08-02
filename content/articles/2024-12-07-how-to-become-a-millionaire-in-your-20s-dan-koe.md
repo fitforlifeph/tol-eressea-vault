@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-how-to-become-a-millionaire-in-your-20s-dan-koe.pdf"
+archive_url: "https://web.archive.org/web/https://thedankoe.com/letters/how-to-become-a-millionaire-in-your-20s/?kuid=b840f236-4528-4d1c-834b-fc9ca027fde8-1733563089&lid=84362&kref=POUwA4NdI8Yf"
 tags: []
 ---
 
