@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2025-01-14-your-phone-a-user-s-guide.pdf"
+archive_url: "https://web.archive.org/web/https://technosapiens.substack.com/p/your-phone-a-users-guide?publication_id=534060&post_id=154639509&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
