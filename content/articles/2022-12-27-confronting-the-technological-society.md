@@ -9,6 +9,7 @@ source: "https://www.thenewatlantis.com/publications/confronting-the-technologic
 estimated_pages: 31
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-confronting-the-technological-society.pdf"
 tags: []
 ---
 
