@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://unherd.com/2020/06/let-them-eat-mutton-a-compassionate-carnivores-manifesto/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-a-compassionate-carnivore-s-manifesto.pdf"
 tags: []
 ---
 
