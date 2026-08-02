@@ -10,6 +10,7 @@ estimated_pages: 20
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-seeing-like-an-algorithm-remains-of-the-day.pdf"
+archive_url: "https://web.archive.org/web/https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm"
 tags: []
 ---
 
