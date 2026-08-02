@@ -9,6 +9,7 @@ source: "https://www.noahpinion.blog/p/climate-is-just-one-piece-of-industrial?p
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-climate-is-just-one-piece-of-industrial-policy.pdf"
 tags: []
 ---
 
