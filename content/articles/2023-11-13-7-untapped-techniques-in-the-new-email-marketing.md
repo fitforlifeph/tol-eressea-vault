@@ -9,6 +9,7 @@ source: "https://www.linkedin.com/pulse/7-untapped-techniques-new-email-marketin
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-13-7-untapped-techniques-in-the-new-email-marketing.pdf"
 tags: []
 ---
 
