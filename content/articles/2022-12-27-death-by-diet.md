@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/http://news.trust.org/package/death-by-diet/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-death-by-diet.pdf"
 tags: []
 ---
 
