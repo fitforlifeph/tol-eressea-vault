@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-spotting-talent.pdf"
+archive_url: "https://web.archive.org/web/https://www.city-journal.org/spotting-talent"
 tags: []
 ---
 
