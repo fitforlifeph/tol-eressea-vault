@@ -9,6 +9,7 @@ source: "https://www.gq.com/story/dan-buettner-real-life-diet"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-20-the-real-life-diet-of-blue-zones-founder-dan-buett.pdf"
 tags: []
 ---
 
