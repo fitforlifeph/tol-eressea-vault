@@ -9,6 +9,7 @@ source: "https://www.anildash.com/2024/03/10/make-better-documents/"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-23-make-better-documents-anil-dash.pdf"
 tags: []
 ---
 
