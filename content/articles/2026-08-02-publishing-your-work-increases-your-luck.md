@@ -8,6 +8,7 @@ source: "https://github.com/readme/guides/publishing-your-work/"
 estimated_pages: 8
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://github.com/readme/guides/publishing-your-work/"
 tags: []
 ---
 
