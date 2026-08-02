@@ -9,6 +9,7 @@ source: "http://catholicphilly.com/2014/04/think-tank/homilies-speeches/without-
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-without-gloss-francis-of-assisi-and-western-cathol.pdf"
 tags: []
 ---
 
