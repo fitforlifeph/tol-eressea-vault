@@ -9,6 +9,7 @@ source: "https://lostworldsnfts.medium.com/the-ultimate-beginners-guide-to-avala
 estimated_pages: 26
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://lostworldsnfts.medium.com/the-ultimate-beginners-guide-to-avalanche-9b533551bd0d"
 tags: []
 ---
 
