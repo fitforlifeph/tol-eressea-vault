@@ -9,6 +9,7 @@ source: "https://behavioralscientist.org/can-we-create-a-pattern-language-for-be
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-08-08-can-we-create-a-pattern-language-for-behavioral-de.pdf"
 tags: []
 ---
 
