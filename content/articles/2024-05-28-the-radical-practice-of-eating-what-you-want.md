@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/wellness/article/2024/may/20/intuitive-eati
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-28-the-radical-practice-of-eating-what-you-want.pdf"
 tags: []
 ---
 
