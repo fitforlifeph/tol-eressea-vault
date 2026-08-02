@@ -9,6 +9,7 @@ source: "http://www.paulgraham.com/love.html"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-08-08-how-to-do-what-you-love.pdf"
 tags: []
 ---
 
