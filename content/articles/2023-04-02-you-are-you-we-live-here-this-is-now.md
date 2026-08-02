@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-02-you-are-you-we-live-here-this-is-now.pdf"
 tags: []
 ---
 
