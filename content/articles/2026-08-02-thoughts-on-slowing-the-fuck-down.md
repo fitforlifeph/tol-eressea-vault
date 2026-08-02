@@ -8,6 +8,7 @@ source: "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-d
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-thoughts-on-slowing-the-fuck-down.pdf"
 tags: []
 ---
 
