@@ -9,6 +9,7 @@ source: "https://www.scienceofpeople.com/motivational-interview-techniques/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-12-7-motivational-interviewing-techniques-for-profess.pdf"
 tags: []
 ---
 
