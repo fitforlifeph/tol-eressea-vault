@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-people-are-the-new-platforms.pdf"
+archive_url: "https://web.archive.org/web/https://davidphelps.substack.com/p/people-are-the-new-platforms"
 tags: []
 ---
 
