@@ -9,6 +9,7 @@ source: "https://www.theverge.com/features/23931789/seo-search-engine-optimizati
 estimated_pages: 32
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-13-the-people-who-ruined-the-internet.pdf"
 tags: []
 ---
 
