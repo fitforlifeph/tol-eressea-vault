@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/a-full-guide-to-reinvent-your-life-in-6-1
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-07-20-a-full-guide-to-reinvent-your-life-in-6-12-months.pdf"
 tags: []
 ---
 
