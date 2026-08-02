@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/how-to-become-a-millionaire-in-your-20s/?
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-how-to-become-a-millionaire-in-your-20s-dan-koe.pdf"
 tags: []
 ---
 
