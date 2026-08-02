@@ -9,6 +9,7 @@ source: "https://web.archive.org/web/20110221094204/http://blog.bumblebeelabs.co
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-12-social-software-sundays-2-the-evaporative-cooling.pdf"
 tags: []
 ---
 
