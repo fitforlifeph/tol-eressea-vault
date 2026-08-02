@@ -9,6 +9,7 @@ source: "https://eriktorenberg.substack.com/p/truth-status-and-tribes"
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-07-truth-status-and-tribes.pdf"
 tags: []
 ---
 
