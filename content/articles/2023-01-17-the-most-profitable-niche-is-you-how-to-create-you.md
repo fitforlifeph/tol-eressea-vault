@@ -3,8 +3,8 @@ title: "The Most Profitable Niche Is You (How To Create Your Niche) - Dan Koe"
 author: ""
 publication: "Dan Koe"
 published: 2023-05-16
-saved: 2023-01-17T12:59:47.475261+00:00
-created: 2023-01-17T12:59:47.475261+00:00
+saved: 2023-01-17T00:00:00+00:00
+created: 2023-01-17T00:00:00+00:00
 source: "https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/"
 estimated_pages: 9
 status: incomplete
