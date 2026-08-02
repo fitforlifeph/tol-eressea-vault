@@ -9,6 +9,7 @@ source: "https://www.lynalden.com/may-2024-newsletter/"
 estimated_pages: 35
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-28-may-2024-newsletter-the-bond-market-is-the-dumb-mo.pdf"
 tags: []
 ---
 
