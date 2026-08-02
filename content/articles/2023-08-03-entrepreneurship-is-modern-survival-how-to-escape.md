@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/entrepreneurship-is-modern-survival-how-t
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-08-03-entrepreneurship-is-modern-survival-how-to-escape.pdf"
 tags: []
 ---
 
