@@ -10,6 +10,7 @@ estimated_pages: 24
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://ayeshaasiddiqi.substack.com/p/memento-millenial"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-memento-millenial.pdf"
 tags: []
 ---
 
