@@ -9,6 +9,7 @@ source: "https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporatio
 estimated_pages: 29
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-25-a-brief-history-of-the-corporation-1600-to-2100.pdf"
 tags: []
 ---
 
