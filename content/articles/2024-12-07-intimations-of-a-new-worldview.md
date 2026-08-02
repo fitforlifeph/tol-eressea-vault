@@ -9,6 +9,7 @@ source: "https://brettandersen.substack.com/p/intimations"
 estimated_pages: 46
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-intimations-of-a-new-worldview.pdf"
 tags: []
 ---
 
