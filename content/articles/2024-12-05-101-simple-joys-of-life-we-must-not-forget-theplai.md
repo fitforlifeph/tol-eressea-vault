@@ -9,6 +9,7 @@ source: "https://www.theplainsimplelife.com/joys-of-life/"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-05-101-simple-joys-of-life-we-must-not-forget-theplai.pdf"
 tags: []
 ---
 
