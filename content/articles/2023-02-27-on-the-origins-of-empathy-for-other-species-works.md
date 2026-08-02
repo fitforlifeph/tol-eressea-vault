@@ -3,8 +3,8 @@ title: "On the origins of empathy for other species - Works in Progress Magazine
 author: "Wip-Admin"
 publication: "On the origins of empathy for other species - Works in Progress Magazine"
 published: 2023-02-24
-saved: 2023-02-27T00:02:34.937689+00:00
-created: 2023-02-27T00:02:34.937689+00:00
+saved: 2023-02-27T00:00:00+00:00
+created: 2023-02-27T00:00:00+00:00
 source: "https://worksinprogress.co/issue/on-the-origins-of-empathy-for-other-species"
 estimated_pages: 12
 status: incomplete
