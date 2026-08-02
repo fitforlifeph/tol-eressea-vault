@@ -9,6 +9,7 @@ source: "https://www.wired.com/1996/12/ffglass/"
 estimated_pages: 151
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-19-a-global-tour-of-the-biggest-and-best-wire-ever-ma.pdf"
 tags: []
 ---
 
