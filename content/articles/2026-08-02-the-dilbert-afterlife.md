@@ -9,6 +9,7 @@ estimated_pages: 39
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.astralcodexten.com/p/the-dilbert-afterlife"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-the-dilbert-afterlife.pdf"
 tags: []
 ---
 
