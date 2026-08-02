@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-01-17-patricia-lockwood-diary-insane-after-coronavirus.pdf"
+archive_url: "https://web.archive.org/web/https://www.lrb.co.uk/the-paper/v42/n14/patricia-lockwood/diary"
 tags: []
 ---
 
