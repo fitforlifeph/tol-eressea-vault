@@ -9,6 +9,7 @@ source: "https://pmarchive.com/guide_to_personal_productivity.html"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-29-pmarchive-pmarca-guide-to-personal-productivity.pdf"
 tags: []
 ---
 
