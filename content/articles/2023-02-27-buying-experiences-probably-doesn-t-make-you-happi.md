@@ -9,6 +9,7 @@ source: "https://sashachapin.substack.com/p/buying-experiences-probably-doesnt"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-27-buying-experiences-probably-doesn-t-make-you-happi.pdf"
 tags: []
 ---
 
