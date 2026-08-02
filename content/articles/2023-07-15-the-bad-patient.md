@@ -9,6 +9,7 @@ source: "https://www.thedriftmag.com/the-bad-patient/"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-07-15-the-bad-patient.pdf"
 tags: []
 ---
 
