@@ -3,8 +3,8 @@ title: "Resistance Exercise Reverses Aging in Human Skeletal Muscle"
 author: "Simon Melov; Mark A Tarnopolsky; Kenneth Beckman; Krysta Felkey; Alan Hubbard"
 publication: "PLoS ONE"
 published: 2007-05-23
-saved: 2023-12-16T00:29:56.026983+00:00
-created: 2023-12-16T00:29:56.026983+00:00
+saved: 2023-12-16T00:00:00+00:00
+created: 2023-12-16T00:00:00+00:00
 source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1866181/?_kx=_Vce34_Jsxi5HZNCekh3hhN8ytYbyHQVBhR0E1AE3m_uyM-pN2RMW_KQexId0Cf4.HKMsXE"
 estimated_pages: 26
 status: incomplete
