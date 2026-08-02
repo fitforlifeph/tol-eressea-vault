@@ -9,6 +9,7 @@ source: "http://www.theguardian.com/books/2008/sep/20/fiction"
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/http://www.theguardian.com/books/2008/sep/20/fiction"
 tags: []
 ---
 
