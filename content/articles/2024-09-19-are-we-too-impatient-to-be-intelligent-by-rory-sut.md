@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://behavioralscientist.org/are-we-too-impatient-to-be-intelligent/"
+pdf_url: "https://archive.javierpgomez.com/articles/2024-09-19-are-we-too-impatient-to-be-intelligent-by-rory-sut.pdf"
 tags: []
 ---
 
