@@ -10,6 +10,7 @@ estimated_pages: 17
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-rise-of-the-internets-creative-middle-class.pdf"
+archive_url: "https://web.archive.org/web/https://www.newyorker.com/culture/culture-desk/the-rise-of-the-internets-creative-middle-class"
 tags: []
 ---
 
