@@ -9,6 +9,7 @@ source: "https://meaningness.com/an-appetizer-purpose"
 estimated_pages: 4
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-an-appetizer-purpose-meaningness.pdf"
 tags: []
 ---
 
