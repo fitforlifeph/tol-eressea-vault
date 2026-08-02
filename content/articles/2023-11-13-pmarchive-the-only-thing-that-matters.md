@@ -9,6 +9,7 @@ source: "https://pmarchive.com/guide_to_startups_part4.html"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-13-pmarchive-the-only-thing-that-matters.pdf"
 tags: []
 ---
 
