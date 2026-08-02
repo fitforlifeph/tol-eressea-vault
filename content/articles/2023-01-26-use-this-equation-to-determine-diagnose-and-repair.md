@@ -9,6 +9,7 @@ source: "https://review.firstround.com/use-this-equation-to-determine-diagnose-a
 estimated_pages: 22
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-26-use-this-equation-to-determine-diagnose-and-repair.pdf"
 tags: []
 ---
 
