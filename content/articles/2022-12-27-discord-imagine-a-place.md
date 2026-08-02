@@ -10,6 +10,7 @@ estimated_pages: 34
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.notboring.co/p/discord-imagine-a-place"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-discord-imagine-a-place.pdf"
 tags: []
 ---
 
