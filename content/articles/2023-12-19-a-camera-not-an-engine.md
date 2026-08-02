@@ -9,6 +9,7 @@ source: "https://studio.ribbonfarm.com/p/a-camera-not-an-engine"
 estimated_pages: 18
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://studio.ribbonfarm.com/p/a-camera-not-an-engine"
 tags: []
 ---
 
