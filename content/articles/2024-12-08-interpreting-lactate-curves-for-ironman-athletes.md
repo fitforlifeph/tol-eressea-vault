@@ -9,6 +9,7 @@ source: "https://alancouzens.blogspot.com/2007/08/interpreting-lactate-curves-fo
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-08-interpreting-lactate-curves-for-ironman-athletes.pdf"
 tags: []
 ---
 
