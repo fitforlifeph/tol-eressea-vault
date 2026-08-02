@@ -9,6 +9,7 @@ source: "https://imagejournal.org/article/obliqueness-and-extravagance-a-convers
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-17-obliqueness-and-extravagance-a-conversation-with-r.pdf"
 tags: []
 ---
 
