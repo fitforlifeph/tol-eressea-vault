@@ -9,6 +9,7 @@ source: "https://www.newyorker.com/culture/culture-desk/the-rise-of-the-internet
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-rise-of-the-internets-creative-middle-class.pdf"
 tags: []
 ---
 
