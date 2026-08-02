@@ -9,6 +9,7 @@ source: "https://churchlifejournal.nd.edu/articles/heidegger-apocalyptic-philoso
 estimated_pages: 25
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-19-heidegger-apocalyptic-philosophy-and-the-specter-o.pdf"
 tags: []
 ---
 
