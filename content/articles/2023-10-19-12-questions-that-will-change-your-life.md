@@ -9,6 +9,7 @@ source: "https://medium.com/thrive-global/12-questions-that-will-change-your-lif
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-19-12-questions-that-will-change-your-life.pdf"
 tags: []
 ---
 
