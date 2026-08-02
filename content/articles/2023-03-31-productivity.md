@@ -10,6 +10,7 @@ estimated_pages: 8
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-03-31-productivity.pdf"
+archive_url: "https://web.archive.org/web/https://blog.samaltman.com/productivity"
 tags: []
 ---
 
