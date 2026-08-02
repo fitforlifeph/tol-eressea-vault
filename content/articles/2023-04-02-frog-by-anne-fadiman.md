@@ -10,6 +10,7 @@ estimated_pages: 22
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://harpers.org/archive/2023/03/frog-what-happens-to-the-pets-that-happen-to-you/"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-02-frog-by-anne-fadiman.pdf"
 tags: []
 ---
 
