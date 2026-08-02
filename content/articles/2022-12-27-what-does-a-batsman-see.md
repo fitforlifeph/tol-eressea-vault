@@ -10,6 +10,7 @@ estimated_pages: 26
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-what-does-a-batsman-see.pdf"
+archive_url: "https://web.archive.org/web/https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see"
 tags: []
 ---
 
