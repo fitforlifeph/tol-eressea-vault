@@ -9,6 +9,7 @@ source: "https://unchartedterritories.tomaspueyo.com/p/coming-of-age-in-the-21st
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-coming-of-age-in-the-21st-century.pdf"
 tags: []
 ---
 
