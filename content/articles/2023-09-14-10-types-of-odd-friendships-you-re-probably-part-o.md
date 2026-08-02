@@ -9,6 +9,7 @@ source: "https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-14-10-types-of-odd-friendships-you-re-probably-part-o.pdf"
 tags: []
 ---
 
