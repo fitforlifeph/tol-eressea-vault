@@ -8,6 +8,7 @@ source: "https://www.astralcodexten.com/p/the-dilbert-afterlife"
 estimated_pages: 39
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.astralcodexten.com/p/the-dilbert-afterlife"
 tags: []
 ---
 
