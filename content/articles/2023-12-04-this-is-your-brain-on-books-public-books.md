@@ -9,6 +9,7 @@ source: "https://www.publicbooks.org/this-is-your-brain-on-books/"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-04-this-is-your-brain-on-books-public-books.pdf"
 tags: []
 ---
 
