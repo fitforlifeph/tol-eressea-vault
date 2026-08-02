@@ -9,6 +9,7 @@ source: "https://www.bustle.com/wellness/overcoming-burnout-self-care"
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.bustle.com/wellness/overcoming-burnout-self-care"
 tags: []
 ---
 
