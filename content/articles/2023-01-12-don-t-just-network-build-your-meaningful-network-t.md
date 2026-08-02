@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-01-12-don-t-just-network-build-your-meaningful-network-t.pdf"
+archive_url: "https://web.archive.org/web/https://review.firstround.com/dont-just-network-build-your-meaningful-network-to-maximize-your-impact"
 tags: []
 ---
 
