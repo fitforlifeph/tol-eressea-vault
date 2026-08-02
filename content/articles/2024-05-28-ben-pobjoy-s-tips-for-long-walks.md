@@ -3,8 +3,8 @@ title: "Ben Pobjoy's Tips for Long Walks"
 author: "Craig Mod"
 publication: "Craig Mod"
 published: 2025-02-20
-saved: 2024-05-28T12:35:10.393513+00:00
-created: 2024-05-28T12:35:10.393513+00:00
+saved: 2024-05-28T00:00:00+00:00
+created: 2024-05-28T00:00:00+00:00
 source: "https://craigmod.com/ridgeline/187/"
 estimated_pages: 8
 status: incomplete
