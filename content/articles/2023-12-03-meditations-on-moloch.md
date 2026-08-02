@@ -9,6 +9,7 @@ source: "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/"
 estimated_pages: 53
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-03-meditations-on-moloch.pdf"
 tags: []
 ---
 
