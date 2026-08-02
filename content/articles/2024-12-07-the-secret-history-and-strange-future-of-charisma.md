@@ -9,6 +9,7 @@ source: "https://www.noemamag.com/the-secret-history-and-strange-future-of-chari
 estimated_pages: 21
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-the-secret-history-and-strange-future-of-charisma.pdf"
 tags: []
 ---
 
