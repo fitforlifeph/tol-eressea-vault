@@ -9,6 +9,7 @@ source: "https://graymirror.substack.com/p/circling-and-nerd-society"
 estimated_pages: 22
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-circling-and-nerd-society.pdf"
 tags: []
 ---
 
