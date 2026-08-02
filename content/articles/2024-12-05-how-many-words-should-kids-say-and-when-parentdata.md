@@ -9,6 +9,7 @@ source: "https://parentdata.org/kids-words-cribsheet-excerpt/"
 estimated_pages: 5
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-05-how-many-words-should-kids-say-and-when-parentdata.pdf"
 tags: []
 ---
 
