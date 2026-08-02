@@ -9,6 +9,7 @@ source: "https://www.fatherly.com/health/surprising-age-happiest-study-mid-life-
 estimated_pages: 2
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-19-your-happiest-time-in-life-is-still-ahead-of-you-w.pdf"
 tags: []
 ---
 
