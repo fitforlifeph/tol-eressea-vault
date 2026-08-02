@@ -9,6 +9,7 @@ source: "https://www.bitsaboutmoney.com/archive/banking-in-very-uncertain-times/
 estimated_pages: 27
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-19-banking-in-very-uncertain-times.pdf"
 tags: []
 ---
 
