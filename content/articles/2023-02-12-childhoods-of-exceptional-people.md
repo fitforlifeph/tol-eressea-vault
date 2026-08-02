@@ -9,6 +9,7 @@ source: "https://escapingflatland.substack.com/p/childhoods"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-12-childhoods-of-exceptional-people.pdf"
 tags: []
 ---
 
