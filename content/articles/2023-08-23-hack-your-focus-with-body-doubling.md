@@ -3,8 +3,8 @@ title: "Hack Your Focus With Body Doubling"
 author: "Casey Rosengren"
 publication: "Every"
 published: 2023-08-21
-saved: 2023-08-23T23:56:04.694277+00:00
-created: 2023-08-23T23:56:04.694277+00:00
+saved: 2023-08-23T00:00:00+00:00
+created: 2023-08-23T00:00:00+00:00
 source: "https://every.to/no-small-plans/hack-your-focus-with-body-doubling"
 estimated_pages: 4
 status: incomplete
