@@ -9,6 +9,7 @@ source: "https://longform.asmartbear.com/posts/extreme-questions/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-21-extreme-brainstorming-questions-to-trigger-new-bet.pdf"
 tags: []
 ---
 
