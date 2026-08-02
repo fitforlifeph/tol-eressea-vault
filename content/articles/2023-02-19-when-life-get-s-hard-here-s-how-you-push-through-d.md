@@ -9,6 +9,7 @@ source: "https://thedankoe.com/when-life-gets-hard-heres-how-you-push-through/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-19-when-life-get-s-hard-here-s-how-you-push-through-d.pdf"
 tags: []
 ---
 
