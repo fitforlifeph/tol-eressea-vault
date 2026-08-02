@@ -9,6 +9,7 @@ source: "https://emergencemagazine.org/essay/the-understory/"
 estimated_pages: 33
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-12-the-understory-robert-macfarlane.pdf"
 tags: []
 ---
 
