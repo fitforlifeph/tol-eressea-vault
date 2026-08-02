@@ -10,6 +10,7 @@ estimated_pages: 14
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-coming-of-age-in-the-21st-century.pdf"
+archive_url: "https://web.archive.org/web/https://unchartedterritories.tomaspueyo.com/p/coming-of-age-in-the-21st-century?publication_id=347533&post_id=145096556&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
