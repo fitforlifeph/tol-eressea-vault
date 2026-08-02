@@ -3,8 +3,8 @@ title: "Want to Build? Technical Excellence Won’t Be Enough."
 author: "Evan Armstrong"
 publication: "Every"
 published: 2023-12-13
-saved: 2023-12-16T00:27:00.239390+00:00
-created: 2023-12-16T00:27:00.239390+00:00
+saved: 2023-12-16T00:00:00+00:00
+created: 2023-12-16T00:00:00+00:00
 source: "https://every.to/napkin-math/want-to-build-technical-excellence-won-t-be-enough"
 estimated_pages: 3
 status: incomplete
