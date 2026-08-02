@@ -3,8 +3,8 @@ title: "\"I had been hating my body like it was a job for years and I wasn’t h
 author: "Anne Helen Petersen"
 publication: "Culture Study"
 published: 2022-01-06
-saved: 2022-12-27T06:20:49.762305+00:00
-created: 2022-12-27T06:20:49.762305+00:00
+saved: 2022-12-27T00:00:00+00:00
+created: 2022-12-27T00:00:00+00:00
 source: "https://annehelen.substack.com/p/i-had-been-hating-my-body-like-it"
 estimated_pages: 13
 status: incomplete
