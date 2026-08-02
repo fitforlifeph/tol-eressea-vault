@@ -9,6 +9,7 @@ source: "https://eliotpeper.substack.com/p/ray-nayler-dont-be-afraid-of-your"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-27-ray-nayler-don-t-be-afraid-of-your-own-depth.pdf"
 tags: []
 ---
 
