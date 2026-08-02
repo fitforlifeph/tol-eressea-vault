@@ -9,6 +9,7 @@ source: "https://www.mindbodygreen.com/articles/pistachio-benefits"
 estimated_pages: 7
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-20-the-high-protein-low-cal-nut-nutritionists-want-yo.pdf"
 tags: []
 ---
 
