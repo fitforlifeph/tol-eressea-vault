@@ -9,6 +9,7 @@ source: "https://unherd.com/2020/06/let-them-eat-mutton-a-compassionate-carnivor
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://unherd.com/2020/06/let-them-eat-mutton-a-compassionate-carnivores-manifesto/"
 tags: []
 ---
 
