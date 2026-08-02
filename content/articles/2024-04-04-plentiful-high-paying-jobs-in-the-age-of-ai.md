@@ -9,6 +9,7 @@ source: "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the"
 estimated_pages: 6
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-plentiful-high-paying-jobs-in-the-age-of-ai.pdf"
 tags: []
 ---
 
