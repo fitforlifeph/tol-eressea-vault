@@ -3,8 +3,8 @@ title: "TikTok and the Sorting Hat — Remains of the Day"
 author: "Eugene Wei"
 publication: "Remains of the Day"
 published: 2020-08-03
-saved: 2022-12-27T06:20:50.736518+00:00
-created: 2022-12-27T06:20:50.736518+00:00
+saved: 2022-12-27T00:00:00+00:00
+created: 2022-12-27T00:00:00+00:00
 source: "https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat"
 estimated_pages: 26
 status: incomplete
