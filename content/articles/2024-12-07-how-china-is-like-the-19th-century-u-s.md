@@ -10,6 +10,7 @@ estimated_pages: 23
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-how-china-is-like-the-19th-century-u-s.pdf"
+archive_url: "https://web.archive.org/web/https://www.construction-physics.com/p/how-china-is-like-the-19th-century?triedRedirect=true"
 tags: []
 ---
 
