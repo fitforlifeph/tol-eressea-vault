@@ -9,6 +9,7 @@ source: "https://effectiviology.com/shirky-principle/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-the-shirky-principle-institutions-try-to-preserve.pdf"
 tags: []
 ---
 
