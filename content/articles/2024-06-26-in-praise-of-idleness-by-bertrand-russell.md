@@ -9,6 +9,7 @@ source: "https://harpers.org/archive/1932/10/in-praise-of-idleness/"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-26-in-praise-of-idleness-by-bertrand-russell.pdf"
 tags: []
 ---
 
