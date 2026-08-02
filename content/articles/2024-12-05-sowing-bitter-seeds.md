@@ -9,6 +9,7 @@ source: "https://news.thin-ink.net/p/sowing-bitter-seeds?publication_id=265967&p
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-05-sowing-bitter-seeds.pdf"
 tags: []
 ---
 
