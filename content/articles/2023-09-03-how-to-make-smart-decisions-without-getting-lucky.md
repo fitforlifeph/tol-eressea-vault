@@ -9,6 +9,7 @@ source: "https://fs.blog/smart-decisions/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-03-how-to-make-smart-decisions-without-getting-lucky.pdf"
 tags: []
 ---
 
