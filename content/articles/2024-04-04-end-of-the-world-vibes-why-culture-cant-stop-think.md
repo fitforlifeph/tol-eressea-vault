@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/books/2024/mar/23/end-of-the-world-vibes-wh
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-end-of-the-world-vibes-why-culture-cant-stop-think.pdf"
 tags: []
 ---
 
