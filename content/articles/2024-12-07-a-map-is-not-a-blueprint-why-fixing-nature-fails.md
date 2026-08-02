@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-a-map-is-not-a-blueprint-why-fixing-nature-fails.pdf"
+archive_url: "https://web.archive.org/web/https://blog.nateliason.com/p/map-not-a-blueprint?publication_id=882098&post_id=141399725&isFreemail=true&r=m02zp"
 tags: []
 ---
 
