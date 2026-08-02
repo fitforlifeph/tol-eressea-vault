@@ -9,6 +9,7 @@ estimated_pages: 8
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://github.com/readme/guides/publishing-your-work/"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-publishing-your-work-increases-your-luck.pdf"
 tags: []
 ---
 
