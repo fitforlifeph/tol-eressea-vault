@@ -10,6 +10,7 @@ estimated_pages: 16
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-10-19-superlinear-returns.pdf"
+archive_url: "https://web.archive.org/web/http://www.paulgraham.com/superlinear.html"
 tags: []
 ---
 
