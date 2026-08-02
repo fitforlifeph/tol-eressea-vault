@@ -9,6 +9,7 @@ source: "https://www.gssiweb.org/en/sports-science-exchange/Article/making-sense
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-09-making-sense-of-wearables-data-gatorade-sports-sci.pdf"
 tags: []
 ---
 
