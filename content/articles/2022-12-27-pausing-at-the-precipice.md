@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://scholars-stage.org/pausing-at-the-precipice/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-pausing-at-the-precipice.pdf"
 tags: []
 ---
 
