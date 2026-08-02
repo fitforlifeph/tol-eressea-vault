@@ -3,8 +3,8 @@ title: "Thoughts On A Month With Devin – Answer.AI"
 author: "Hamel Husain; Isaac Flath; Johno Whitaker"
 publication: "Answer.AI"
 published: 2025-01-08
-saved: 2025-02-23T07:29:00.787134+00:00
-created: 2025-02-23T07:29:00.787134+00:00
+saved: 2025-02-23T00:00:00+00:00
+created: 2025-02-23T00:00:00+00:00
 source: "https://www.answer.ai/posts/2025-01-08-devin.html"
 estimated_pages: 15
 status: incomplete
