@@ -9,6 +9,7 @@ source: "https://www.md-a.co/p/scarcity-truthers"
 estimated_pages: 33
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-19-scarcity-truthers.pdf"
 tags: []
 ---
 
