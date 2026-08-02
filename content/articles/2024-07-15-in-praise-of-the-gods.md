@@ -9,6 +9,7 @@ source: "https://map.simonsarris.com/p/in-praise-of-the-gods"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-07-15-in-praise-of-the-gods.pdf"
 tags: []
 ---
 
