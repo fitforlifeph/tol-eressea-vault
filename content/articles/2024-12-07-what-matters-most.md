@@ -9,6 +9,7 @@ source: "https://www.wheretheroadbends.co/p/what-matters-most"
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-what-matters-most.pdf"
 tags: []
 ---
 
