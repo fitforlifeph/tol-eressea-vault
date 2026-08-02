@@ -9,6 +9,7 @@ source: "https://tasshin.com/blog/the-practice-of-friendship/"
 estimated_pages: 34
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-24-the-practice-of-friendship-tasshin.pdf"
 tags: []
 ---
 
