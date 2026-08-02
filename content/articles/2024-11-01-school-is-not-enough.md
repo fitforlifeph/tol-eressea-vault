@@ -9,6 +9,7 @@ source: "https://map.simonsarris.com/p/school-is-not-enough?publication_id=53881
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-11-01-school-is-not-enough.pdf"
 tags: []
 ---
 
