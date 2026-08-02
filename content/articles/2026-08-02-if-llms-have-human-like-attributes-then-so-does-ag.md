@@ -9,6 +9,7 @@ estimated_pages: 2
 status: incomplete
 draft: true
 archive_url: "https://web.archive.org/web/https://arxiv.org/abs/2605.31514"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-if-llms-have-human-like-attributes-then-so-does-ag.pdf"
 tags: []
 ---
 
