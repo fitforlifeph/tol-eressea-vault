@@ -3,8 +3,8 @@ title: "Eat beans and scratch your own back – expert advice on how to age bett
 author: "Amy Fleming"
 publication: "The Guardian"
 published: 2023-09-23
-saved: 2023-10-10T00:35:50.786564+00:00
-created: 2023-10-10T00:35:50.786564+00:00
+saved: 2023-10-10T00:00:00+00:00
+created: 2023-10-10T00:00:00+00:00
 source: "https://www.theguardian.com/science/2023/sep/23/eat-beans-and-scratch-your-own-back-expert-advice-on-how-to-age-better-inside-and-out"
 estimated_pages: 10
 status: incomplete
