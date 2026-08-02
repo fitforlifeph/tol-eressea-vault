@@ -10,6 +10,7 @@ estimated_pages: 19
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-dragnet.pdf"
+archive_url: "https://web.archive.org/web/https://fiftytwo.in/story/the-dragnet/"
 tags: []
 ---
 
