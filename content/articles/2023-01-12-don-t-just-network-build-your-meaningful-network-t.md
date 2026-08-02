@@ -9,6 +9,7 @@ source: "https://review.firstround.com/dont-just-network-build-your-meaningful-n
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-12-don-t-just-network-build-your-meaningful-network-t.pdf"
 tags: []
 ---
 
