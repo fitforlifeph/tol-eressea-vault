@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-05-shifting-from-envy-to-appreciation.pdf"
+archive_url: "https://web.archive.org/web/https://www.wheretheroadbends.co/p/shifting-from-envy-to-appreciation?publication_id=1237900&post_id=152163749&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
