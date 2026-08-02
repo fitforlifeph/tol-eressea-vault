@@ -10,6 +10,7 @@ estimated_pages: 14
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-07-09-im-good-i-promise-the-loneliness-of-the-low-rankin.pdf"
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player"
 tags: []
 ---
 
