@@ -9,6 +9,7 @@ source: "https://technosapiens.substack.com/p/your-phone-a-users-guide?publicati
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2025-01-14-your-phone-a-user-s-guide.pdf"
 tags: []
 ---
 
