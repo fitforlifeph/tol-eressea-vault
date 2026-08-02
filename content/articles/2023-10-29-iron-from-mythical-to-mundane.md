@@ -9,6 +9,7 @@ source: "https://rootsofprogress.org/iron-from-mythical-to-mundane"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-29-iron-from-mythical-to-mundane.pdf"
 tags: []
 ---
 
