@@ -10,6 +10,7 @@ estimated_pages: 23
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-ladders-of-wealth-creation-a-step-by-step-road.pdf"
+archive_url: "https://web.archive.org/web/https://nathanbarry.com/wealth-creation/"
 tags: []
 ---
 
