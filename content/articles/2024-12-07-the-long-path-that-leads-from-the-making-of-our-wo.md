@@ -9,6 +9,7 @@ source: "https://www.buildingbeauty.org/resource-center-entries/2019/8/6/christo
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-the-long-path-that-leads-from-the-making-of-our-wo.pdf"
 tags: []
 ---
 
