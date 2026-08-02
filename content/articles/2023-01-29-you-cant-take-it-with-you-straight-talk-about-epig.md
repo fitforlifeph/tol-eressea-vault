@@ -9,6 +9,7 @@ source: "https://razib.substack.com/p/you-cant-take-it-with-you-straight"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-29-you-cant-take-it-with-you-straight-talk-about-epig.pdf"
 tags: []
 ---
 
