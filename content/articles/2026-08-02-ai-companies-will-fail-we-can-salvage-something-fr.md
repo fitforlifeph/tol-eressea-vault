@@ -8,6 +8,7 @@ source: "https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-
 estimated_pages: 19
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur"
 tags: []
 ---
 
