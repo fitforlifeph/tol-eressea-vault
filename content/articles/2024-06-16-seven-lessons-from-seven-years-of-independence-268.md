@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-06-16-seven-lessons-from-seven-years-of-independence-268.pdf"
+archive_url: "https://web.archive.org/web/https://newsletter.pathlesspath.com/p/seven-lessons-from-seven-years-of?publication_id=3915&post_id=145660583&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
