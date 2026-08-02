@@ -3,8 +3,8 @@ title: "Become A Digital Renaissance Man (And Join The New Rich) - Dan Koe"
 author: ""
 publication: "Dan Koe"
 published: 2023-05-16
-saved: 2023-02-13T12:49:56.354404+00:00
-created: 2023-02-13T12:49:56.354404+00:00
+saved: 2023-02-13T00:00:00+00:00
+created: 2023-02-13T00:00:00+00:00
 source: "https://thedankoe.com/become-a-digital-renaissance-man-and-join-the-new-rich/"
 estimated_pages: 9
 status: incomplete
