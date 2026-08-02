@@ -9,6 +9,7 @@ source: "https://grantland.com/features/looking-back-hunter-s-thompson-classic-s
 estimated_pages: 30
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-directors-cut-the-kentucky-derby-is-decadent-and-d.pdf"
 tags: []
 ---
 
