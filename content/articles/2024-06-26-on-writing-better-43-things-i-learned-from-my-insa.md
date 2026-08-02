@@ -10,6 +10,7 @@ estimated_pages: 29
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-06-26-on-writing-better-43-things-i-learned-from-my-insa.pdf"
+archive_url: "https://web.archive.org/web/https://blog.nateliason.com/p/on-writing-better?publication_id=882098&post_id=145986437&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
