@@ -9,6 +9,7 @@ source: "https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/"
 estimated_pages: 46
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-25-the-scientific-virtues.pdf"
 tags: []
 ---
 
