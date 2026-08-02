@@ -10,6 +10,7 @@ estimated_pages: 24
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-08-15-how-awe-can-change-our-lives-for-the-better.pdf"
+archive_url: "https://web.archive.org/web/https://www.noemamag.com/finding-awe-amid-everday-splendor/"
 tags: []
 ---
 
