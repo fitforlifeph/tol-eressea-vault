@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/http://www.theguardian.com/books/2008/sep/20/fiction"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-a-speech-by-the-late-david-foster-wallace.pdf"
 tags: []
 ---
 
