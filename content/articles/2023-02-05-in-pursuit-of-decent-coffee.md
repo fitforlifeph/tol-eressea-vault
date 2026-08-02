@@ -9,6 +9,7 @@ source: "https://worksinprogress.substack.com/p/in-pursuit-of-decent-coffee"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-05-in-pursuit-of-decent-coffee.pdf"
 tags: []
 ---
 
