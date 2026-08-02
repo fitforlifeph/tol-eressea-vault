@@ -3,8 +3,8 @@ title: "Profit, Power, and the Vision Pro"
 author: "Evan Armstrong"
 publication: "Every"
 published: 2024-02-05
-saved: 2024-12-07T21:12:40.622753+00:00
-created: 2024-12-07T21:12:40.622753+00:00
+saved: 2024-12-07T00:00:00+00:00
+created: 2024-12-07T00:00:00+00:00
 source: "https://every.to/napkin-math/profit-power-and-the-vision-pro"
 estimated_pages: 6
 status: incomplete
