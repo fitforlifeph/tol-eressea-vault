@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.bbc.com/future/article/20231208-the-rituals-that-helped-our-ancestors-recover-from-trauma"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-14-how-ancient-civilisations-dealt-with-trauma.pdf"
 tags: []
 ---
 
