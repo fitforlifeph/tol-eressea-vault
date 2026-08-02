@@ -9,6 +9,7 @@ source: "https://www.noemamag.com/modernity-has-made-us-allergic/"
 estimated_pages: 26
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-28-how-modernity-made-us-allergic-noema.pdf"
 tags: []
 ---
 
