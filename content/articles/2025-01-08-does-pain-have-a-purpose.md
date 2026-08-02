@@ -10,6 +10,7 @@ estimated_pages: 10
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2025-01-08-does-pain-have-a-purpose.pdf"
+archive_url: "https://web.archive.org/web/https://toddhargrove.substack.com/p/does-pain-have-a-purpose?publication_id=408952&post_id=152666104&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
