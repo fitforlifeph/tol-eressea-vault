@@ -9,6 +9,7 @@ source: "https://superteam.substack.com/p/how-to-start-earning-in-web3"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-how-to-start-earning-in-web3.pdf"
 tags: []
 ---
 
