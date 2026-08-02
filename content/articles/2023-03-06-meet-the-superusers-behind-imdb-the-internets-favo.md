@@ -9,6 +9,7 @@ source: "https://www.wired.com/story/superusers-behind-imdb-the-internets-favori
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-06-meet-the-superusers-behind-imdb-the-internets-favo.pdf"
 tags: []
 ---
 
