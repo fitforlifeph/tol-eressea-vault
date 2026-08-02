@@ -9,6 +9,7 @@ source: "https://www.construction-physics.com/p/how-china-is-like-the-19th-centu
 estimated_pages: 23
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-how-china-is-like-the-19th-century-u-s.pdf"
 tags: []
 ---
 
