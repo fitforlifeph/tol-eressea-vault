@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.bustle.com/wellness/overcoming-burnout-self-care"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-04-why-self-care-hasn-t-cured-your-burnout.pdf"
 tags: []
 ---
 
