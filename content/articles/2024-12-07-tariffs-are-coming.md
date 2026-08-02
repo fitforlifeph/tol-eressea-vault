@@ -10,6 +10,7 @@ estimated_pages: 12
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-tariffs-are-coming.pdf"
+archive_url: "https://web.archive.org/web/https://www.noahpinion.blog/p/tariffs-are-coming?publication_id=35345&post_id=141259743&isFreemail=true&r=m02zp"
 tags: []
 ---
 
