@@ -9,6 +9,7 @@ source: "https://inboxcollective.com/19-great-newsletter-landing-pages-you-can-l
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-07-19-great-newsletter-landing-pages-you-can-learn-fr.pdf"
 tags: []
 ---
 
