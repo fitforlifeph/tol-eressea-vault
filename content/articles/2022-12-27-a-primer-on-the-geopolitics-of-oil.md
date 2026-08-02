@@ -7,8 +7,8 @@ saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "https://warontherocks.com/2019/01/a-primer-on-the-geopolitics-of-oil/"
 estimated_pages: 14
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
