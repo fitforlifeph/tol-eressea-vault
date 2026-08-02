@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-the-future-belongs-to-those-who-prepare-like-dwark.pdf"
+archive_url: "https://web.archive.org/web/https://meridian.mercury.com/dwarkesh-patel/"
 tags: []
 ---
 
