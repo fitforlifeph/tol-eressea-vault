@@ -3,8 +3,8 @@ title: "The Best Way to Get Things Done"
 author: "Nick Maggiulli"
 publication: "Of Dollars And Data"
 published: 2024-03-19
-saved: 2024-04-04T07:40:59.671774+00:00
-created: 2024-04-04T07:40:59.671774+00:00
+saved: 2024-04-04T00:00:00+00:00
+created: 2024-04-04T00:00:00+00:00
 source: "https://ofdollarsanddata.com/the-best-way-to-get-things-done/"
 estimated_pages: 9
 status: incomplete
