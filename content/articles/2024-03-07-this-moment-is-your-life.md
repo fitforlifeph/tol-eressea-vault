@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-03-07-this-moment-is-your-life.pdf"
+archive_url: "https://web.archive.org/web/https://blog.nateliason.com/p/this-moment?publication_id=882098&post_id=142339324&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
