@@ -10,6 +10,7 @@ estimated_pages: 25
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-lean-canvas-the-fastest-way-to-map-out-your-he.pdf"
+archive_url: "https://web.archive.org/web/https://www.changemakeracademy.com/articles/the-lean-canvas/"
 tags: []
 ---
 
