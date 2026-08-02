@@ -9,6 +9,7 @@ source: "https://www.commonwealmagazine.org/end-life-dreams"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-26-end-of-life-dreams.pdf"
 tags: []
 ---
 
