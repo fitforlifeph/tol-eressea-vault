@@ -9,6 +9,7 @@ source: "https://marcoaltini.substack.com/p/a-framework-to-make-better-use-of"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-07-20-a-framework-to-make-better-use-of-wearables-data.pdf"
 tags: []
 ---
 
