@@ -9,6 +9,7 @@ source: "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-d
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-12-reality-has-a-surprising-amount-of-detail.pdf"
 tags: []
 ---
 
