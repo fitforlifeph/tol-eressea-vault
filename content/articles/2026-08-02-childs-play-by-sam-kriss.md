@@ -9,6 +9,7 @@ estimated_pages: 35
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-childs-play-by-sam-kriss.pdf"
 tags: []
 ---
 
