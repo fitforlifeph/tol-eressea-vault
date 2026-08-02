@@ -9,6 +9,7 @@ source: "https://www.alexmurrell.co.uk/articles/the-age-of-average"
 estimated_pages: 23
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-13-the-age-of-average-alex-murrell.pdf"
 tags: []
 ---
 
