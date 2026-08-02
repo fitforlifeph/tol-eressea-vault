@@ -9,6 +9,7 @@ source: "https://www.newyorker.com/magazine/2012/09/24/the-lie-factory"
 estimated_pages: 24
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-25-how-politics-became-a-business.pdf"
 tags: []
 ---
 
