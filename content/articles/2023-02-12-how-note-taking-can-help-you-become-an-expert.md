@@ -3,12 +3,12 @@ title: "How Note Taking Can Help You Become an Expert"
 author: "Cedric Chin"
 publication: "Commoncog"
 published: 2022-02-08
-saved: 2023-02-12T23:36:50.176103+00:00
-created: 2023-02-12T23:36:50.176103+00:00
+saved: 2023-02-12T00:00:00+00:00
+created: 2023-02-12T00:00:00+00:00
 source: "https://commoncog.com/how-note-taking-can-help-you-become-an-expert/"
 estimated_pages: 23
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
