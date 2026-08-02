@@ -6,6 +6,7 @@ media_url: "https://archive.javierpgomez.com/audio/2026-07-30-among-the-ancients
 archive_url: "https://web.archive.org/web/https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/among-the-ancients-the-odyssey"
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-07-30-among-the-ancients-the-odyssey.pdf"
 tags: [audio]
 ---
 
