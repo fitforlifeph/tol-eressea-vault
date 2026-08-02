@@ -10,6 +10,7 @@ estimated_pages: 12
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://jezebel.com/barbara-ehrenreich-isnt-afraid-to-die-1825477938"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-barbara-ehrenreich-isn-t-afraid-to-die.pdf"
 tags: []
 ---
 
