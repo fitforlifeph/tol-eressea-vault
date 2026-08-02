@@ -9,6 +9,7 @@ source: "https://meaningness.com/geeks-mops-sociopaths"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-08-geeks-mops-and-sociopaths-in-subculture-evolution.pdf"
 tags: []
 ---
 
