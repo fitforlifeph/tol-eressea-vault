@@ -9,6 +9,7 @@ source: "https://technically.substack.com/p/how-do-i-get-more-technical"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-23-how-do-i-get-more-technical.pdf"
 tags: []
 ---
 
