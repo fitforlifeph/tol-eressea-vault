@@ -9,6 +9,7 @@ source: "https://www.secretorum.life/p/ideas-are-alive-and-you-are-dead"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-ideas-are-alive-and-you-are-dead.pdf"
 tags: []
 ---
 
