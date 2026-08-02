@@ -9,6 +9,7 @@ source: "https://www.lrb.co.uk/the-paper/v45/n07/sheila-s.-coronel/diary"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-23-sheila-s-coronel-diary-rewriting-the-marcos-years.pdf"
 tags: []
 ---
 
