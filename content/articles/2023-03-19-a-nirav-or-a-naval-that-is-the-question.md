@@ -9,6 +9,7 @@ source: "https://auren.substack.com/p/a-nirav-or-a-naval-that-is-the-question"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-19-a-nirav-or-a-naval-that-is-the-question.pdf"
 tags: []
 ---
 
