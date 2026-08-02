@@ -3,8 +3,8 @@ title: "Do You Want to Live Near Friends? | #236"
 author: "Paul Millerd"
 publication: "Pathless by Paul Millerd"
 published: 2023-08-19
-saved: 2023-08-23T07:53:20.507287+00:00
-created: 2023-08-23T07:53:20.507287+00:00
+saved: 2023-08-23T00:00:00+00:00
+created: 2023-08-23T00:00:00+00:00
 source: "https://boundless.substack.com/p/do-you-want-to-live-near-friends"
 estimated_pages: 10
 status: incomplete
