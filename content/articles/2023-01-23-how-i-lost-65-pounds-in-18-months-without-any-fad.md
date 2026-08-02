@@ -9,6 +9,7 @@ source: "https://bothsidesofthetable.com/how-i-lost-65-pounds-in-18-months-witho
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-23-how-i-lost-65-pounds-in-18-months-without-any-fad.pdf"
 tags: []
 ---
 
