@@ -9,6 +9,7 @@ source: "https://www.npr.org/sections/health-shots/2023/07/22/1189303227/neat-fi
 estimated_pages: 8
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.npr.org/sections/health-shots/2023/07/22/1189303227/neat-fitness-non-exercise-activity-thermogenesis"
 tags: []
 ---
 
