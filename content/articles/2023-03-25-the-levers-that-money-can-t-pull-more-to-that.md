@@ -9,6 +9,7 @@ source: "https://moretothat.com/the-levers-that-money-cant-pull/"
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-25-the-levers-that-money-can-t-pull-more-to-that.pdf"
 tags: []
 ---
 
