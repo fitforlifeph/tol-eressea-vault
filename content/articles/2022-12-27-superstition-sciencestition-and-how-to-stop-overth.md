@@ -3,8 +3,8 @@ title: "Superstition, Sciencestition, and How to Stop Overthinking Your Food Cho
 author: "John Berardi; PhD; CSCS"
 publication: "Precision Nutrition"
 published: 2021-11-23
-saved: 2022-12-27T06:20:49.803349+00:00
-created: 2022-12-27T06:20:49.803349+00:00
+saved: 2022-12-27T00:00:00+00:00
+created: 2022-12-27T00:00:00+00:00
 source: "https://www.precisionnutrition.com/stop-overthinking-food-choices"
 estimated_pages: 9
 status: incomplete
