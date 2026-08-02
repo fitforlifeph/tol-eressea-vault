@@ -9,6 +9,7 @@ source: "https://collabfund.com/blog/a-few-laws-of-getting-rich/"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-07-a-few-laws-of-getting-rich.pdf"
 tags: []
 ---
 
