@@ -9,6 +9,7 @@ source: "https://www.nateliason.com/blog/one-year"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-05-16-lessons-from-one-year-of-nomadic-passive-income-na.pdf"
 tags: []
 ---
 
