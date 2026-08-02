@@ -9,6 +9,7 @@ source: "https://www.wired.com/1995/06/xanadu/"
 estimated_pages: 74
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-29-the-curse-of-xanadu.pdf"
 tags: []
 ---
 
