@@ -9,6 +9,7 @@ source: "https://thedankoe.com/a-message-from-a-recovering-atheist-how-to-find-g
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-05-a-message-from-a-recovering-atheist-how-to-find-go.pdf"
 tags: []
 ---
 
