@@ -3,8 +3,8 @@ title: "How Builders Think"
 author: "Gena Gorlin"
 publication: "Every"
 published: 2023-07-17
-saved: 2023-07-20T07:20:18.912627+00:00
-created: 2023-07-20T07:20:18.912627+00:00
+saved: 2023-07-20T00:00:00+00:00
+created: 2023-07-20T00:00:00+00:00
 source: "https://every.to/p/the-builder-s-mindset"
 estimated_pages: 3
 status: incomplete
