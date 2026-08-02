@@ -9,6 +9,7 @@ source: "https://collabfund.com/blog/the-art-and-science-of-spending-money/"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-29-the-art-and-science-of-spending-money.pdf"
 tags: []
 ---
 
