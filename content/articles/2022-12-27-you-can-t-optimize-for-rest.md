@@ -9,6 +9,7 @@ source: "https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-you-can-t-optimize-for-rest.pdf"
 tags: []
 ---
 
