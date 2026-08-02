@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-09-24-no-good-alone.pdf"
+archive_url: "https://web.archive.org/web/https://internetprincess.substack.com/p/no-good-alone"
 tags: []
 ---
 
