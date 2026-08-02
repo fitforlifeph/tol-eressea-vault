@@ -10,6 +10,7 @@ estimated_pages: 10
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-07-15-half-assing-it-with-everything-you-ve-got.pdf"
+archive_url: "https://web.archive.org/web/https://mindingourway.com/half-assing-it-with-everything-youve-got/"
 tags: []
 ---
 
