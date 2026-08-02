@@ -9,6 +9,7 @@ source: "https://theanarchistlibrary.org/library/ted-kaczynski-the-system-s-neat
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-systems-neatest-trick.pdf"
 tags: []
 ---
 
