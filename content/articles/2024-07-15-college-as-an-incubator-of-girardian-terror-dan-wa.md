@@ -9,6 +9,7 @@ source: "https://danwang.co/college-girardian-terror/"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-07-15-college-as-an-incubator-of-girardian-terror-dan-wa.pdf"
 tags: []
 ---
 
