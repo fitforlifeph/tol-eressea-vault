@@ -9,6 +9,7 @@ source: "https://meltingasphalt.com/wealth-the-toxic-byproduct/"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-19-wealth-the-toxic-byproduct.pdf"
 tags: []
 ---
 
