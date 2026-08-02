@@ -10,6 +10,7 @@ estimated_pages: 20
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://meltingasphalt.com/ads-dont-work-that-way/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-ads-don-t-work-that-way.pdf"
 tags: []
 ---
 
