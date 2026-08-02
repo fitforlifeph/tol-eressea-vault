@@ -10,6 +10,7 @@ estimated_pages: 23
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-01-17-how-to-write-english-prose.pdf"
+archive_url: "https://web.archive.org/web/https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/"
 tags: []
 ---
 
