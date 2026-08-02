@@ -9,6 +9,7 @@ source: "https://apolloneuro.com/blogs/news/4-vagus-nerve-exercises-to-transform
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-14-vagus-nerve-exercises-4-ways-to-handle-stress.pdf"
 tags: []
 ---
 
