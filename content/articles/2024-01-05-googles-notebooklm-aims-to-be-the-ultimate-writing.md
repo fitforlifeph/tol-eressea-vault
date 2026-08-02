@@ -3,8 +3,8 @@ title: "Google’s NotebookLM Aims to Be the Ultimate Writing Assistant"
 author: "Steven Levy"
 publication: "WIRED"
 published: 2023-12-08
-saved: 2024-01-05T09:59:10.168132+00:00
-created: 2024-01-05T09:59:10.168132+00:00
+saved: 2024-01-05T00:00:00+00:00
+created: 2024-01-05T00:00:00+00:00
 source: "https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/"
 estimated_pages: 9
 status: incomplete
@@ -52,7 +52,7 @@ In one of this year’s Big Interviews, Satya Nadella referred to artificial gen
 
 Happy holidays, and see you in January.
 
-*You can submit questions to* [\[email protected\]](/cdn-cgi/l/email-protection#563b373f3a16213f2433327835393b692523343c3335226b17051d7364661a13000f). Write **ASK LEVY** in the subject line.
+*You can submit questions to* [\[email protected\]](/cdn-cgi/l/email-protection#d2bfb3bbbe92a5bba0b7b6fcb1bdbfeda1a7b0b8b7b1a6ef938199f7e0e29e97848b). Write **ASK LEVY** in the subject line.
 
 The most depressing outcome of the COP28 climate talks so far is the record [number of delegates linked to oil and gas companies](https://www.bbc.com/news/science-environment-67607289).
 
