@@ -10,6 +10,7 @@ estimated_pages: 8
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-03-20-the-brain-needs-animal-fat.pdf"
+archive_url: "https://web.archive.org/web/https://www.psychologytoday.com/us/blog/diagnosis-diet/201903/the-brain-needs-animal-fat"
 tags: []
 ---
 
