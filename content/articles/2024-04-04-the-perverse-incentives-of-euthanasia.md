@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-the-perverse-incentives-of-euthanasia.pdf"
+archive_url: "https://web.archive.org/web/https://www.noahpinion.blog/p/the-perverse-incentives-of-euthanasia?publication_id=35345&post_id=143121135&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
