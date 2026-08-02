@@ -9,6 +9,7 @@ source: "http://markforster.squarespace.com/autofocus-system/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-08-11-autofocus-system-get-everything-done.pdf"
 tags: []
 ---
 
