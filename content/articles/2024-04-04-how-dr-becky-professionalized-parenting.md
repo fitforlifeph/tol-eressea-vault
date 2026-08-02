@@ -9,6 +9,7 @@ source: "https://www.thecut.com/article/dr-becky-kennedy-good-inside-parenting-c
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-how-dr-becky-professionalized-parenting.pdf"
 tags: []
 ---
 
