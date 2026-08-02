@@ -9,6 +9,7 @@ source: "https://meltingasphalt.com/here-be-sermons/"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-here-be-sermons.pdf"
 tags: []
 ---
 
