@@ -10,6 +10,7 @@ estimated_pages: 18
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-creator-economy-guide-trends-tools-monetization.pdf"
+archive_url: "https://web.archive.org/web/https://signalfire.com/blog/creator-economy/"
 tags: []
 ---
 
