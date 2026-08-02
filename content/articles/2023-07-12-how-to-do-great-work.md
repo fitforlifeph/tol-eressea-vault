@@ -9,6 +9,7 @@ source: "http://paulgraham.com/greatwork.html"
 estimated_pages: 44
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-07-12-how-to-do-great-work.pdf"
 tags: []
 ---
 
