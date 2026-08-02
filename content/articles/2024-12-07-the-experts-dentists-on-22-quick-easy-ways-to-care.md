@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.theguardian.com/lifeandstyle/2024/oct/31/experts-dentists-22-quick-easy-ways-to-care-for-your-teeth"
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-the-experts-dentists-on-22-quick-easy-ways-to-care.pdf"
 tags: []
 ---
 
