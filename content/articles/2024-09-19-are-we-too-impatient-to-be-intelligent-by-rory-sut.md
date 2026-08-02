@@ -9,6 +9,7 @@ source: "https://behavioralscientist.org/are-we-too-impatient-to-be-intelligent/
 estimated_pages: 13
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://behavioralscientist.org/are-we-too-impatient-to-be-intelligent/"
 tags: []
 ---
 
