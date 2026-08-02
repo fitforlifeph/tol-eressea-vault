@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-08-16-wes-anderson-s-chafings-against-the-immanent-frame.pdf"
+archive_url: "https://web.archive.org/web/https://churchlifejournal.nd.edu/articles/an-addendum-wes-anderson-chafings-against-the-immanent-frame/"
 tags: []
 ---
 
