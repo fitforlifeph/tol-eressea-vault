@@ -10,6 +10,7 @@ estimated_pages: 18
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://studio.ribbonfarm.com/p/a-camera-not-an-engine"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-19-a-camera-not-an-engine.pdf"
 tags: []
 ---
 
