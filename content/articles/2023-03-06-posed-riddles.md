@@ -9,6 +9,7 @@ source: "https://www.thedriftmag.com/posed-riddles/"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-06-posed-riddles.pdf"
 tags: []
 ---
 
