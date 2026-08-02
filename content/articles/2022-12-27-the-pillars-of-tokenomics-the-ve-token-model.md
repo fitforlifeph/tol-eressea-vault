@@ -10,6 +10,7 @@ estimated_pages: 10
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-pillars-of-tokenomics-the-ve-token-model.pdf"
+archive_url: "https://web.archive.org/web/https://captainbtc.substack.com/p/the-pillars-of-tokenomics-and-the"
 tags: []
 ---
 
