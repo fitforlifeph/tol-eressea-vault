@@ -9,6 +9,7 @@ source: "https://jasminewang.substack.com/p/attending-to-the-other"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-06-attending-to-the-other.pdf"
 tags: []
 ---
 
