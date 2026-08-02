@@ -9,6 +9,7 @@ source: "https://www.theringer.com/2022/03/03/health/fatherhood-cancer-jonathan-
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-does-my-son-know-you.pdf"
 tags: []
 ---
 
