@@ -3,8 +3,8 @@ title: "Association between consumption of small fish and all-cause mortality am
 author: "Chinatsu Kasahara; Takashi Tamura; Kenji Wakai; Yudai Tamada; Yasufumi Kato; Yoko Kubo; Rieko Okada; Mako Nagayoshi; Asahi Hishida; Nahomi Imaeda; Chiho Goto; Jun Otonari; Hiroaki Ikezaki; Yuichiro Nishida; Chisato Shimanoe; Isao Oze; Yuriko N Koyanagi; Yohko Nakamura; Miho Kusakabe; Daisaku Nishimoto; Ippei Shimoshikiryo; Sadao Suzuki; Miki Watanabe; Etsuko Ozaki; Chie Omichi; Kiyonori Kuriki; Naoyuki Takashima; Naoko Miyagawa; Kokichi Arisawa; Sakurako Katsuura-Kamano; Kenji Takeuchi; Keitaro Matsuo; For The J-Micc Study Group"
 publication: "Cambridge Core"
 published: 2024-01-02
-saved: 2024-08-11T01:04:57.485693+00:00
-created: 2024-08-11T01:04:57.485693+00:00
+saved: 2024-08-11T00:00:00+00:00
+created: 2024-08-11T00:00:00+00:00
 source: "https://www.cambridge.org/core/journals/public-health-nutrition/article/association-between-consumption-of-small-fish-and-allcause-mortality-among-japanese-the-japan-multiinstitutional-collaborative-cohort-study/47E8745FA2D52366394DF85A6A9A0674"
 estimated_pages: 27
 status: incomplete
