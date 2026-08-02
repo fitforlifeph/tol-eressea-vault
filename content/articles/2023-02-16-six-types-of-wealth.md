@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-02-16-six-types-of-wealth.pdf"
+archive_url: "https://web.archive.org/web/https://www.youngmoney.co/p/six-types-wealth"
 tags: []
 ---
 
