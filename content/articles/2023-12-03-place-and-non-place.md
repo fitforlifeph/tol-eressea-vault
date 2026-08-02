@@ -3,8 +3,8 @@ title: "Place and Non-Place"
 author: ""
 publication: "newworldeconomics.com"
 published: 2009-10-11
-saved: 2023-12-03T05:22:40.901581+00:00
-created: 2023-12-03T05:22:40.901581+00:00
+saved: 2023-12-03T00:00:00+00:00
+created: 2023-12-03T00:00:00+00:00
 source: "https://newworldeconomics.com/place-and-non-place/"
 estimated_pages: 14
 status: incomplete
