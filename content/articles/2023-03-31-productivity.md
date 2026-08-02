@@ -9,6 +9,7 @@ source: "https://blog.samaltman.com/productivity"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-31-productivity.pdf"
 tags: []
 ---
 
