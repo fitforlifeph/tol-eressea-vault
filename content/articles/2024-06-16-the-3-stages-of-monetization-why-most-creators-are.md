@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-06-16-the-3-stages-of-monetization-why-most-creators-are.pdf"
+archive_url: "https://web.archive.org/web/https://thedankoe.com/letters/the-3-stages-of-monetization-why-most-creators-are-actually-broke/?lid=84362"
 tags: []
 ---
 
