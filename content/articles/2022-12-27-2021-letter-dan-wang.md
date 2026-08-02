@@ -9,6 +9,7 @@ source: "https://danwang.co/2021-letter/"
 estimated_pages: 56
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://danwang.co/2021-letter/"
 tags: []
 ---
 
