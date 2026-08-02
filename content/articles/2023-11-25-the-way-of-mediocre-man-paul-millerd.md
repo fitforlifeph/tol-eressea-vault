@@ -9,6 +9,7 @@ source: "https://think-boundless.com/mediocre/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-25-the-way-of-mediocre-man-paul-millerd.pdf"
 tags: []
 ---
 
