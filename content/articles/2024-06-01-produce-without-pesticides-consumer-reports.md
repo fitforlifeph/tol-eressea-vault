@@ -3,8 +3,8 @@ title: "Produce Without Pesticides - Consumer Reports"
 author: "Catherine Roberts"
 publication: "Consumer Reports"
 published: 2024-04-18
-saved: 2024-06-01T13:03:09.771205+00:00
-created: 2024-06-01T13:03:09.771205+00:00
+saved: 2024-06-01T00:00:00+00:00
+created: 2024-06-01T00:00:00+00:00
 source: "https://www.consumerreports.org/health/food-contaminants/produce-without-pesticides-a5260230325/"
 estimated_pages: 13
 status: incomplete
