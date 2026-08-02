@@ -9,6 +9,7 @@ source: "https://meltingasphalt.com/ads-dont-work-that-way/"
 estimated_pages: 20
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://meltingasphalt.com/ads-dont-work-that-way/"
 tags: []
 ---
 
