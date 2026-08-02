@@ -9,6 +9,7 @@ source: "https://the-ask.uk/blog/how-to-improve-your-thinking-and-enjoy-better-r
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-19-how-to-improve-your-thinking-and-enjoy-better-resu.pdf"
 tags: []
 ---
 
