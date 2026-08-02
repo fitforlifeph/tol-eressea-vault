@@ -9,6 +9,7 @@ source: "https://www.noahpinion.blog/p/tariffs-are-coming?publication_id=35345&p
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-tariffs-are-coming.pdf"
 tags: []
 ---
 
