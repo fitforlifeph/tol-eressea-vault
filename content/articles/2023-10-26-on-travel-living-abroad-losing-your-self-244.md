@@ -3,8 +3,8 @@ title: "On Travel, Living Abroad & Losing Your Self | #244"
 author: "Paul Millerd"
 publication: "Pathless by Paul Millerd"
 published: 2023-10-21
-saved: 2023-10-26T06:56:29.488456+00:00
-created: 2023-10-26T06:56:29.488456+00:00
+saved: 2023-10-26T00:00:00+00:00
+created: 2023-10-26T00:00:00+00:00
 source: "https://newsletter.pathlesspath.com/p/on-travel-living-abroad-and-losing?publication_id=3915&post_id=138121019&isFreemail=true&r=1owzhk"
 estimated_pages: 14
 status: incomplete
