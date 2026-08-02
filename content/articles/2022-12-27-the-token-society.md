@@ -10,6 +10,7 @@ estimated_pages: 16
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.drorpoleg.com/the-token-society/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-token-society.pdf"
 tags: []
 ---
 
