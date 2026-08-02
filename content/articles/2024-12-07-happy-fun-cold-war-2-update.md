@@ -9,6 +9,7 @@ source: "https://www.noahpinion.blog/p/happy-fun-cold-war-2-update?publication_i
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-happy-fun-cold-war-2-update.pdf"
 tags: []
 ---
 
