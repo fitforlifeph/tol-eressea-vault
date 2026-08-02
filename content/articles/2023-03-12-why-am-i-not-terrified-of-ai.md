@@ -9,6 +9,7 @@ source: "https://scottaaronson.blog/?p=7064"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-12-why-am-i-not-terrified-of-ai.pdf"
 tags: []
 ---
 
