@@ -9,6 +9,7 @@ source: "https://technosapiens.substack.com/p/are-screen-time-limits-backfiring"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-07-12-are-screen-time-limits-backfiring.pdf"
 tags: []
 ---
 
