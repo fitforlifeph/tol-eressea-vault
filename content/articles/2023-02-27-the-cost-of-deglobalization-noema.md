@@ -9,6 +9,7 @@ source: "https://www.noemamag.com/the-cost-of-deglobalization/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-27-the-cost-of-deglobalization-noema.pdf"
 tags: []
 ---
 
