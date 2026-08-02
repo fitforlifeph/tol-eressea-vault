@@ -9,6 +9,7 @@ source: "https://www.youngmoney.co/p/six-types-wealth"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-16-six-types-of-wealth.pdf"
 tags: []
 ---
 
