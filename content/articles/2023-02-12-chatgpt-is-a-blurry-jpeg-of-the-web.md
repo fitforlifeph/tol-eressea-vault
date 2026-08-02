@@ -9,6 +9,7 @@ source: "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-12-chatgpt-is-a-blurry-jpeg-of-the-web.pdf"
 tags: []
 ---
 
