@@ -9,6 +9,7 @@ source: "https://tim.blog/2024/02/09/harajuku-moment/"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-you-don-t-need-more-how-to-advice-you-need-a-beaut.pdf"
 tags: []
 ---
 
