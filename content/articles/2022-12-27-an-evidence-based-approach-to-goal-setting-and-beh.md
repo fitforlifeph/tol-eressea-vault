@@ -9,6 +9,7 @@ source: "https://www.strongerbyscience.com/goal-setting/"
 estimated_pages: 31
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.strongerbyscience.com/goal-setting/"
 tags: []
 ---
 
