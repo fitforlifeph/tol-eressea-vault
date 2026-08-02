@@ -9,6 +9,7 @@ source: "https://blog.nateliason.com/p/on-writing-better?publication_id=882098&p
 estimated_pages: 29
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-26-on-writing-better-43-things-i-learned-from-my-insa.pdf"
 tags: []
 ---
 
