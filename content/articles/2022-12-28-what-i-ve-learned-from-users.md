@@ -10,6 +10,7 @@ estimated_pages: 8
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-28-what-i-ve-learned-from-users.pdf"
+archive_url: "https://web.archive.org/web/http://www.paulgraham.com/users.html"
 tags: []
 ---
 
