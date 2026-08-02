@@ -9,6 +9,7 @@ source: "https://www.henrikkarlsson.xyz/p/childhoods"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-childhoods-of-exceptional-people.pdf"
 tags: []
 ---
 
