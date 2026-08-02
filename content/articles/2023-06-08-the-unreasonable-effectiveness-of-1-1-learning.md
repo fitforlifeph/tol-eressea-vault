@@ -3,8 +3,8 @@ title: "The Unreasonable Effectiveness of 1-1 Learning"
 author: "Dan Shipper"
 publication: "Every"
 published: 2023-05-18
-saved: 2023-06-08T07:36:53.861731+00:00
-created: 2023-06-08T07:36:53.861731+00:00
+saved: 2023-06-08T00:00:00+00:00
+created: 2023-06-08T00:00:00+00:00
 source: "https://every.to/chain-of-thought/the-unreasonable-effectiveness-of-1-1-learning-9713d7d6-e2d2-44cc-b3d6-25c982bf523f"
 estimated_pages: 3
 status: incomplete
