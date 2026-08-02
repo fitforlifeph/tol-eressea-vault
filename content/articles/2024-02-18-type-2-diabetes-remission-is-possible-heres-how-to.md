@@ -9,6 +9,7 @@ source: "https://time.com/6158372/type-2-diabetes-remission/"
 estimated_pages: 7
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-02-18-type-2-diabetes-remission-is-possible-heres-how-to.pdf"
 tags: []
 ---
 
