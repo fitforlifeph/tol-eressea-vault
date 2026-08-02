@@ -9,6 +9,7 @@ source: "https://davidepstein.substack.com/p/the-science-of-uncertainty?publicat
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-20-the-science-of-uncertainty.pdf"
 tags: []
 ---
 
