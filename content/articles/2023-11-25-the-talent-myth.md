@@ -9,6 +9,7 @@ source: "https://www.newyorker.com/magazine/2002/07/22/the-talent-myth"
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-25-the-talent-myth.pdf"
 tags: []
 ---
 
