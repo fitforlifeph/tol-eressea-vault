@@ -9,6 +9,7 @@ source: "https://positivepsychology.com/exercise-neurological-benefits/"
 estimated_pages: 25
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-02-08-10-neurological-benefits-of-exercise-positivepsych.pdf"
 tags: []
 ---
 
