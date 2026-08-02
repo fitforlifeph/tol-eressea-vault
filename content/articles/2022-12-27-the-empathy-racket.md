@@ -9,6 +9,7 @@ source: "https://alicegribbin.substack.com/p/the-empathy-racket"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-empathy-racket.pdf"
 tags: []
 ---
 
