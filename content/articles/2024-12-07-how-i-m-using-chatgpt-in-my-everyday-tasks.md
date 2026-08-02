@@ -9,6 +9,7 @@ source: "https://hulry.com/how-to-use-chatgpt/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-how-i-m-using-chatgpt-in-my-everyday-tasks.pdf"
 tags: []
 ---
 
