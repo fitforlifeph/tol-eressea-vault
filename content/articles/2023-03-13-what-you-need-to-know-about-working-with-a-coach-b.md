@@ -9,6 +9,7 @@ source: "https://the-ask.uk/blog/what-you-should-know-about-working-with-a-coach
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-13-what-you-need-to-know-about-working-with-a-coach-b.pdf"
 tags: []
 ---
 
