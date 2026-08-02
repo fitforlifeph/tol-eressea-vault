@@ -9,6 +9,7 @@ source: "https://experimentalhistory.substack.com/p/brain-training-begins-in-the
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-02-brain-training-begins-in-the-hips.pdf"
 tags: []
 ---
 
