@@ -9,6 +9,7 @@ source: "https://web.archive.org/web/20230406232457/https://www.nytimes.com/2023
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-07-opinion-the-problem-with-everything-bagel-liberali.pdf"
 tags: []
 ---
 
