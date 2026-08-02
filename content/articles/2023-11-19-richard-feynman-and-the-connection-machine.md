@@ -9,6 +9,7 @@ source: "https://longnow.org/essays/richard-feynman-connection-machine/"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-19-richard-feynman-and-the-connection-machine.pdf"
 tags: []
 ---
 
