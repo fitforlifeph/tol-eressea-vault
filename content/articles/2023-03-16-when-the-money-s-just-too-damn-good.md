@@ -9,6 +9,7 @@ source: "https://blog.nateliason.com/p/money-too-good"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-16-when-the-money-s-just-too-damn-good.pdf"
 tags: []
 ---
 
