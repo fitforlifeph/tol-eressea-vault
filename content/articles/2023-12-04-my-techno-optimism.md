@@ -9,6 +9,7 @@ source: "https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html"
 estimated_pages: 36
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-04-my-techno-optimism.pdf"
 tags: []
 ---
 
