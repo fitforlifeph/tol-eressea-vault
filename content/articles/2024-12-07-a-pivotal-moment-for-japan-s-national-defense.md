@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-a-pivotal-moment-for-japan-s-national-defense.pdf"
+archive_url: "https://web.archive.org/web/https://www.noahpinion.blog/p/a-pivotal-moment-for-japans-national?publication_id=35345&post_id=144984004&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
