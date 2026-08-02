@@ -9,6 +9,7 @@ source: "https://www.palladiummag.com/2023/06/06/school-is-not-enough/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-school-is-not-enough.pdf"
 tags: []
 ---
 
