@@ -9,6 +9,7 @@ source: "https://kk.org/thetechnium/better-than-fre/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-10-better-than-free.pdf"
 tags: []
 ---
 
