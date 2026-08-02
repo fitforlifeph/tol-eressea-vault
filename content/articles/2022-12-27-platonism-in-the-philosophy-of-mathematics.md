@@ -9,6 +9,7 @@ source: "https://plato.stanford.edu/entries/platonism-mathematics/"
 estimated_pages: 32
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-platonism-in-the-philosophy-of-mathematics.pdf"
 tags: []
 ---
 
