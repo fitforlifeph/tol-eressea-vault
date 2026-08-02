@@ -9,6 +9,7 @@ source: "https://theamericanscholar.org/solitude-and-leadership/"
 estimated_pages: 22
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-25-solitude-and-leadership-the-american-scholar.pdf"
 tags: []
 ---
 
