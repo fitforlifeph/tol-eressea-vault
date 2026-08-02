@@ -9,6 +9,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-thoughts-on-slowing-the-fuck-down.pdf"
+archive_url: "https://web.archive.org/web/https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/"
 tags: []
 ---
 
