@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up
 estimated_pages: 17
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet"
 tags: []
 ---
 
