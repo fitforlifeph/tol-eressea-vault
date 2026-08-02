@@ -9,6 +9,7 @@ source: "https://www.drorpoleg.com/the-token-society/"
 estimated_pages: 16
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.drorpoleg.com/the-token-society/"
 tags: []
 ---
 
