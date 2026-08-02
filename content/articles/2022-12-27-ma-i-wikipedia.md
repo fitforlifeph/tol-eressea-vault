@@ -9,6 +9,7 @@ source: "https://en.wikipedia.org/wiki/Ma-i"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-ma-i-wikipedia.pdf"
 tags: []
 ---
 
