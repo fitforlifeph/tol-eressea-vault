@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-06-20-the-science-of-uncertainty.pdf"
+archive_url: "https://web.archive.org/web/https://davidepstein.substack.com/p/the-science-of-uncertainty?publication_id=1024339&post_id=145692771&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
