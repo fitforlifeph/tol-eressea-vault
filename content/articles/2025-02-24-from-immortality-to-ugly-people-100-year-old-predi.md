@@ -9,6 +9,7 @@ source: "https://www.beaconjournal.com/story/news/2024/12/30/predictions-about-2
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2025-02-24-from-immortality-to-ugly-people-100-year-old-predi.pdf"
 tags: []
 ---
 
