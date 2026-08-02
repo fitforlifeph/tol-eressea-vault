@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/lifeandstyle/ng-interactive/2024/jan/03/wha
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-06-everyone-is-on-their-phones-but-are-we-actually-ad.pdf"
 tags: []
 ---
 
