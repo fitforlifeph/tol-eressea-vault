@@ -9,6 +9,7 @@ source: "https://www.rebuildingcivilization.com/index.php/2013/04/17/lets-say-yo
 estimated_pages: 37
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-23-lets-say-youve-gone-back-in-time-fixed.pdf"
 tags: []
 ---
 
