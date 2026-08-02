@@ -10,6 +10,7 @@ estimated_pages: 56
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://danwang.co/2021-letter/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-2021-letter-dan-wang.pdf"
 tags: []
 ---
 
