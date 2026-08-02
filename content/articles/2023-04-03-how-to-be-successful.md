@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://blog.samaltman.com/how-to-be-successful"
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-03-how-to-be-successful.pdf"
 tags: []
 ---
 
