@@ -10,6 +10,7 @@ estimated_pages: 26
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://lostworldsnfts.medium.com/the-ultimate-beginners-guide-to-avalanche-9b533551bd0d"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-ultimate-beginners-guide-to-avalanche.pdf"
 tags: []
 ---
 
