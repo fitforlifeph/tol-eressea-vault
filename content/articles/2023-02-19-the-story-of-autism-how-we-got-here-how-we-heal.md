@@ -9,6 +9,7 @@ source: "https://www.marsreview.org/issue2/the-story-of-autism-how-we-got-here-h
 estimated_pages: 34
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-19-the-story-of-autism-how-we-got-here-how-we-heal.pdf"
 tags: []
 ---
 
