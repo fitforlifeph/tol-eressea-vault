@@ -10,6 +10,7 @@ estimated_pages: 28
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-09-17-do-people-really-have-fast-metabolisms-or-slow-met.pdf"
+archive_url: "https://web.archive.org/web/https://macrofactorapp.com/metabolism/?ck_subscriber_id=2101000053"
 tags: []
 ---
 
