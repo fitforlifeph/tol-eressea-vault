@@ -3,8 +3,8 @@ title: "Unlocking the Power of Fasting—Your Practical Guide to Longevity and H
 author: "Mark Hyman; MD"
 publication: "Mark Hyman, MD"
 published: 2024-08-09
-saved: 2024-12-05T07:05:57.346654+00:00
-created: 2024-12-05T07:05:57.346654+00:00
+saved: 2024-12-05T00:00:00+00:00
+created: 2024-12-05T00:00:00+00:00
 source: "https://drhyman.com/blogs/content/unlocking-the-power-of-fasting"
 estimated_pages: 8
 status: incomplete
