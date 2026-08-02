@@ -9,6 +9,7 @@ source: "https://toddhargrove.substack.com/p/does-pain-have-a-purpose?publicatio
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2025-01-08-does-pain-have-a-purpose.pdf"
 tags: []
 ---
 
