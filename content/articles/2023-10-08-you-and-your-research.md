@@ -9,6 +9,7 @@ source: "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html"
 estimated_pages: 53
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-08-you-and-your-research.pdf"
 tags: []
 ---
 
