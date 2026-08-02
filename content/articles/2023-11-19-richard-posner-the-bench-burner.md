@@ -9,6 +9,7 @@ source: "https://www.newyorker.com/magazine/2001/12/10/the-bench-burner"
 estimated_pages: 32
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-19-richard-posner-the-bench-burner.pdf"
 tags: []
 ---
 
