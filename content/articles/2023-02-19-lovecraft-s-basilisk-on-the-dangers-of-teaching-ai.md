@@ -9,6 +9,7 @@ source: "https://www.jonstokes.com/p/lovecrafts-basilisk-on-the-dangers"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-19-lovecraft-s-basilisk-on-the-dangers-of-teaching-ai.pdf"
 tags: []
 ---
 
