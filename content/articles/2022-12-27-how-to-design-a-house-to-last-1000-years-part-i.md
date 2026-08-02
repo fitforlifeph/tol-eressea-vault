@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-how-to-design-a-house-to-last-1000-years-part-i.pdf"
+archive_url: "https://web.archive.org/web/https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000"
 tags: []
 ---
 
