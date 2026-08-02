@@ -9,6 +9,7 @@ source: "http://news.trust.org/package/death-by-diet/"
 estimated_pages: 11
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/http://news.trust.org/package/death-by-diet/"
 tags: []
 ---
 
