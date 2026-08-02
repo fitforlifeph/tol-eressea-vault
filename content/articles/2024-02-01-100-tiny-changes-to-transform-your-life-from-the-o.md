@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-t
 estimated_pages: 18
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-to-transform-your-life-from-the-one-minute-rule-to-pyjama-yoga"
 tags: []
 ---
 
