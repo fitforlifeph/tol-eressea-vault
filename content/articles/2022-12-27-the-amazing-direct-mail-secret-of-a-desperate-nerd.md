@@ -10,6 +10,7 @@ estimated_pages: 24
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-amazing-direct-mail-secret-of-a-desperate-nerd.pdf"
+archive_url: "https://web.archive.org/web/http://www.thegaryhalbertletter.com/nerd/"
 tags: []
 ---
 
