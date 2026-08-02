@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/why-micro-education-businesses-are-the-fu
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-14-micro-education-businesses-are-the-future-zero-dol.pdf"
 tags: []
 ---
 
