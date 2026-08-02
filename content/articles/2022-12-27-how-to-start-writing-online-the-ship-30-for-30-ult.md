@@ -9,6 +9,7 @@ source: "https://www.ship30for30.com/post/how-to-start-writing-online-the-ship-3
 estimated_pages: 48
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-how-to-start-writing-online-the-ship-30-for-30-ult.pdf"
 tags: []
 ---
 
