@@ -10,6 +10,7 @@ estimated_pages: 41
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-book-review-seeing-like-a-state.pdf"
+archive_url: "https://web.archive.org/web/https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/"
 tags: []
 ---
 
