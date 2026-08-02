@@ -9,6 +9,7 @@ source: "https://meltingasphalt.com/crony-beliefs/"
 estimated_pages: 20
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-01-crony-beliefs.pdf"
 tags: []
 ---
 
