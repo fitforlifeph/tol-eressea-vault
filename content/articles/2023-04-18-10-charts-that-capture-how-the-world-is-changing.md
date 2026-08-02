@@ -9,6 +9,7 @@ source: "https://digitalnative.substack.com/p/10-charts-that-capture-how-the-wor
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-04-18-10-charts-that-capture-how-the-world-is-changing.pdf"
 tags: []
 ---
 
