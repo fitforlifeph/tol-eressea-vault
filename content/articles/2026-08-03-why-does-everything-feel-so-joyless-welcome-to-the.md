@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-d
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-03-why-does-everything-feel-so-joyless-welcome-to-the.pdf"
 tags: []
 ---
 
