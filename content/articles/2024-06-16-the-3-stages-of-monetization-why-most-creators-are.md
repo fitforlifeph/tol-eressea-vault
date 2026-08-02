@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/the-3-stages-of-monetization-why-most-cre
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-16-the-3-stages-of-monetization-why-most-creators-are.pdf"
 tags: []
 ---
 
