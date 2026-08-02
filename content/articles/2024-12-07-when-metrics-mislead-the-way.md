@@ -9,6 +9,7 @@ source: "https://hulry.com/goodharts-law/"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-when-metrics-mislead-the-way.pdf"
 tags: []
 ---
 
