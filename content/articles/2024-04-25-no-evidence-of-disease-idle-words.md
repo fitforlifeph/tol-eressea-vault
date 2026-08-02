@@ -9,6 +9,7 @@ source: "https://idlewords.com/2012/09/no_evidence_of_disease.htm"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-25-no-evidence-of-disease-idle-words.pdf"
 tags: []
 ---
 
