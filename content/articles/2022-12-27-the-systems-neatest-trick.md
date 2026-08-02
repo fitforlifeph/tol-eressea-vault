@@ -10,6 +10,7 @@ estimated_pages: 19
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-the-systems-neatest-trick.pdf"
+archive_url: "https://web.archive.org/web/https://theanarchistlibrary.org/library/ted-kaczynski-the-system-s-neatest-trick"
 tags: []
 ---
 
