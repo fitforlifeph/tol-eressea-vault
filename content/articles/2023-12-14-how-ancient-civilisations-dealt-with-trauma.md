@@ -9,6 +9,7 @@ source: "https://www.bbc.com/future/article/20231208-the-rituals-that-helped-our
 estimated_pages: 9
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://www.bbc.com/future/article/20231208-the-rituals-that-helped-our-ancestors-recover-from-trauma"
 tags: []
 ---
 
