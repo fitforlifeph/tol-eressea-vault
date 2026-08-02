@@ -3,8 +3,8 @@ title: "Absolute values of Heart Rate Variability (HRV)"
 author: "Marco Altini"
 publication: "Marco Altini’s Substack"
 published: 2024-05-08
-saved: 2024-05-23T06:33:06.821064+00:00
-created: 2024-05-23T06:33:06.821064+00:00
+saved: 2024-05-23T00:00:00+00:00
+created: 2024-05-23T00:00:00+00:00
 source: "https://marcoaltini.substack.com/p/absolute-values-of-heart-rate-variability"
 estimated_pages: 9
 status: incomplete
