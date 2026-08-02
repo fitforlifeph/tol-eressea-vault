@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-07-09-im-good-i-promise-the-loneliness-of-the-low-rankin.pdf"
 tags: []
 ---
 
