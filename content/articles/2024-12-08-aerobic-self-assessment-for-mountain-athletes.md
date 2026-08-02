@@ -9,6 +9,7 @@ source: "https://uphillathlete.com/aerobic-training/aerobic-anaerobic-threshold-
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-08-aerobic-self-assessment-for-mountain-athletes.pdf"
 tags: []
 ---
 
