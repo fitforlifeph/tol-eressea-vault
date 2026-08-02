@@ -6,8 +6,8 @@ published: 2026-05-29
 saved: 2026-08-02T03:24:40.292942+00:00
 source: "https://arxiv.org/abs/2605.31514"
 estimated_pages: 2
-status: incomplete
-draft: true
+status: complete
+draft: false
 archive_url: "https://web.archive.org/web/https://arxiv.org/abs/2605.31514"
 pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-if-llms-have-human-like-attributes-then-so-does-ag.pdf"
 tags: []
