@@ -9,6 +9,7 @@ source: "https://escapingflatland.substack.com/p/death"
 estimated_pages: 22
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-27-where-to-go-to-sleep-after-all-of-this.pdf"
 tags: []
 ---
 
