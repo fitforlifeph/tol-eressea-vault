@@ -10,6 +10,7 @@ estimated_pages: 11
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-08-school-is-not-enough.pdf"
+archive_url: "https://web.archive.org/web/https://map.simonsarris.com/p/school-is-not-enough?publication_id=53881&post_id=150514154&isFreemail=true&r=1owzhk&triedRedirect=true&__readwiseLocation="
 tags: []
 ---
 
