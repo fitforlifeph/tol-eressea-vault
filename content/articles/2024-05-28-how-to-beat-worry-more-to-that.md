@@ -9,6 +9,7 @@ source: "https://moretothat.com/how-to-beat-worry/"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-28-how-to-beat-worry-more-to-that.pdf"
 tags: []
 ---
 
