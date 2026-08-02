@@ -9,6 +9,7 @@ source: "https://visakanv.substack.com/p/are-you-serious"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-25-are-you-serious.pdf"
 tags: []
 ---
 
