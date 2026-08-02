@@ -9,6 +9,7 @@ source: "https://substack.com/home/post/p-143987982"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-07-15-how-to-think-in-writing.pdf"
 tags: []
 ---
 
