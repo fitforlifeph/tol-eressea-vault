@@ -9,6 +9,7 @@ source: "https://hulry.com/what-is-perplexity-ai/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-07-how-i-research-everything-with-perplexity.pdf"
 tags: []
 ---
 
