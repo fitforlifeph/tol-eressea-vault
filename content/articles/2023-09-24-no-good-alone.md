@@ -9,6 +9,7 @@ source: "https://internetprincess.substack.com/p/no-good-alone"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-24-no-good-alone.pdf"
 tags: []
 ---
 
