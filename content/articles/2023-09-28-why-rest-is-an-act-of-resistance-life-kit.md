@@ -9,6 +9,7 @@ source: "https://www.npr.org/transcripts/1127470930"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-09-28-why-rest-is-an-act-of-resistance-life-kit.pdf"
 tags: []
 ---
 
