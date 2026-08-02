@@ -9,6 +9,7 @@ source: "https://foundersatwork.posthaven.com/grow-the-puzzle-around-you/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-14-grow-the-puzzle-around-you.pdf"
 tags: []
 ---
 
