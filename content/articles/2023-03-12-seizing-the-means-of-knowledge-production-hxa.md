@@ -9,6 +9,7 @@ source: "https://heterodoxacademy.org/blog/seizing-means-knowledge-production/"
 estimated_pages: 22
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-12-seizing-the-means-of-knowledge-production-hxa.pdf"
 tags: []
 ---
 
