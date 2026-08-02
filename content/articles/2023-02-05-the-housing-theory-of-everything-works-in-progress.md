@@ -10,6 +10,7 @@ estimated_pages: 20
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-02-05-the-housing-theory-of-everything-works-in-progress.pdf"
+archive_url: "https://web.archive.org/web/https://www.worksinprogress.co/issue/the-housing-theory-of-everything/"
 tags: []
 ---
 
