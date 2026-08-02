@@ -9,6 +9,7 @@ source: "https://www.noemamag.com/finding-awe-amid-everday-splendor/"
 estimated_pages: 24
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-08-15-how-awe-can-change-our-lives-for-the-better.pdf"
 tags: []
 ---
 
