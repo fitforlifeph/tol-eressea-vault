@@ -9,6 +9,7 @@ source: "https://www.henrikkarlsson.xyz/p/search-query"
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-11-13-a-blog-post-is-a-very-long-and-complex-search-quer.pdf"
 tags: []
 ---
 
