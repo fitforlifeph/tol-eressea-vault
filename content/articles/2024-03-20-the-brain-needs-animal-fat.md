@@ -9,6 +9,7 @@ source: "https://www.psychologytoday.com/us/blog/diagnosis-diet/201903/the-brain
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-20-the-brain-needs-animal-fat.pdf"
 tags: []
 ---
 
