@@ -9,6 +9,7 @@ source: "https://thedankoe.com/letters/the-death-of-the-personal-brand-and-what-
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-10-02-the-death-of-the-personal-brand-and-what-comes-nex.pdf"
 tags: []
 ---
 
