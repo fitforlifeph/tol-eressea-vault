@@ -9,6 +9,7 @@ source: "https://lithub.com/karl-ove-knausgaard-on-the-genius-of-ingmar-bergman/
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-12-karl-ove-knausgaard-on-the-genius-of-ingmar-bergma.pdf"
 tags: []
 ---
 
