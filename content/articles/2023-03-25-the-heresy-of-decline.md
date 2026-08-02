@@ -9,6 +9,7 @@ source: "https://longnow.org/ideas/the-heresy-of-decline/"
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-25-the-heresy-of-decline.pdf"
 tags: []
 ---
 
