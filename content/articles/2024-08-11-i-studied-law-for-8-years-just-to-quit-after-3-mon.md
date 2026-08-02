@@ -9,6 +9,7 @@ source: "https://matthiasfrank.de/career-change/"
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-08-11-i-studied-law-for-8-years-just-to-quit-after-3-mon.pdf"
 tags: []
 ---
 
