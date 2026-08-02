@@ -9,6 +9,7 @@ source: "https://www.wheretheroadbends.co/p/shifting-from-envy-to-appreciation?p
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-08-shifting-from-envy-to-appreciation.pdf"
 tags: []
 ---
 
