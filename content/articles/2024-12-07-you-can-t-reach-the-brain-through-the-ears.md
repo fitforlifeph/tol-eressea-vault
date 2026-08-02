@@ -9,6 +9,7 @@ source: "https://www.experimental-history.com/p/you-cant-reach-the-brain-through
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-you-can-t-reach-the-brain-through-the-ears.pdf"
 tags: []
 ---
 
