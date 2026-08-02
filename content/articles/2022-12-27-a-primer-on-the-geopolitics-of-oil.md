@@ -3,8 +3,8 @@ title: "A Primer on the Geopolitics of Oil"
 author: "Anand Toprani"
 publication: "War on the Rocks"
 published: 2019-01-17
-saved: 2022-12-27T06:20:49.079151+00:00
-created: 2022-12-27T06:20:49.079151+00:00
+saved: 2022-12-27T00:00:00+00:00
+created: 2022-12-27T00:00:00+00:00
 source: "https://warontherocks.com/2019/01/a-primer-on-the-geopolitics-of-oil/"
 estimated_pages: 14
 status: incomplete
