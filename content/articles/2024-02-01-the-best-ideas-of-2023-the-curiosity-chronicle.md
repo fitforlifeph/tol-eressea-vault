@@ -3,8 +3,8 @@ title: "The Best Ideas of 2023 | The Curiosity Chronicle"
 author: "Sahil Bloom December ; Growth"
 publication: "Sahil Bloom"
 published: 2023-12-29
-saved: 2024-02-01T08:46:49.855654+00:00
-created: 2024-02-01T08:46:49.855654+00:00
+saved: 2024-02-01T00:00:00+00:00
+created: 2024-02-01T00:00:00+00:00
 source: "https://www.sahilbloom.com/newsletter/the-best-ideas-of-2023"
 estimated_pages: 10
 status: incomplete
