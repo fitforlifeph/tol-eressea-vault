@@ -10,6 +10,7 @@ estimated_pages: 15
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-climate-is-just-one-piece-of-industrial-policy.pdf"
+archive_url: "https://web.archive.org/web/https://www.noahpinion.blog/p/climate-is-just-one-piece-of-industrial?publication_id=35345&post_id=145139348&isFreemail=true&r=m02zp&triedRedirect=true"
 tags: []
 ---
 
