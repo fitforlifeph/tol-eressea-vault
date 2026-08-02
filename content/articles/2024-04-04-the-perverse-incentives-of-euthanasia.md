@@ -9,6 +9,7 @@ source: "https://www.noahpinion.blog/p/the-perverse-incentives-of-euthanasia?pub
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-the-perverse-incentives-of-euthanasia.pdf"
 tags: []
 ---
 
