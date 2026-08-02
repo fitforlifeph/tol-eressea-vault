@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2025-01-08-the-m5-medical-manifesto-talkin-bout-a-systems-rev.pdf"
+archive_url: "https://web.archive.org/web/https://www.nitajain.com/p/m5-medical-manifesto?publication_id=15792&post_id=154294146&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
