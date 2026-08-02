@@ -9,6 +9,7 @@ source: "https://review.firstround.com/unexpected-anti-patterns-for-engineering-
 estimated_pages: 21
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-12-unexpected-anti-patterns-for-engineering-leaders.pdf"
 tags: []
 ---
 
