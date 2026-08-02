@@ -9,6 +9,7 @@ source: "https://ayeshaasiddiqi.substack.com/p/memento-millenial"
 estimated_pages: 24
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://ayeshaasiddiqi.substack.com/p/memento-millenial"
 tags: []
 ---
 
