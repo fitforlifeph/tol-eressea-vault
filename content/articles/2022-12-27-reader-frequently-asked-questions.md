@@ -10,6 +10,7 @@ estimated_pages: 66
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-reader-frequently-asked-questions.pdf"
+archive_url: "https://web.archive.org/web/https://blog.readwise.io/p/f8c0f71c-fe5f-4025-af57-f9f65c53fed7/"
 tags: []
 ---
 
