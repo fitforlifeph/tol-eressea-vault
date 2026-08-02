@@ -9,6 +9,7 @@ source: "https://www.growbyginkgo.com/2024/08/30/an-oral-history-of-the-future/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-an-oral-history-of-the-future.pdf"
 tags: []
 ---
 
