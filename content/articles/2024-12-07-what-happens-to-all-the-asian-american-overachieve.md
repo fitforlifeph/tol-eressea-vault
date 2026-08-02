@@ -9,6 +9,7 @@ source: "https://nymag.com/news/features/asian-americans-2011-5/"
 estimated_pages: 33
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-12-07-what-happens-to-all-the-asian-american-overachieve.pdf"
 tags: []
 ---
 
