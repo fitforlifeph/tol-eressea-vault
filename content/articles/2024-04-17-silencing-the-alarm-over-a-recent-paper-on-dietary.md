@@ -9,6 +9,7 @@ source: "https://peterattiamd.com/protein-and-ascvd/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-17-silencing-the-alarm-over-a-recent-paper-on-dietary.pdf"
 tags: []
 ---
 
