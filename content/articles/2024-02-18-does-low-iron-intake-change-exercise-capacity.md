@@ -9,6 +9,7 @@ source: "https://peterattiamd.com/iron-deficiency-and-exercise/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-02-18-does-low-iron-intake-change-exercise-capacity.pdf"
 tags: []
 ---
 
