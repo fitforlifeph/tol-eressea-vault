@@ -3,8 +3,8 @@ title: "How People Think"
 author: "Morgan Housel"
 publication: "Collaborative Fund"
 published: 2022-03-22
-saved: 2022-12-27T06:20:38.180455+00:00
-created: 2022-12-27T06:20:38.180455+00:00
+saved: 2022-12-27T00:00:00+00:00
+created: 2022-12-27T00:00:00+00:00
 source: "http://www.collaborativefund.com/blog/think/"
 estimated_pages: 16
 status: incomplete
