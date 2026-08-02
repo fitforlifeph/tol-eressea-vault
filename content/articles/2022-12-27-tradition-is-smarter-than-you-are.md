@@ -10,6 +10,7 @@ estimated_pages: 13
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://scholars-stage.org/tradition-is-smarter-than-you-are/"
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-tradition-is-smarter-than-you-are.pdf"
 tags: []
 ---
 
