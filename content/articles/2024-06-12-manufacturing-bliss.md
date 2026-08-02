@@ -9,6 +9,7 @@ source: "https://asteriskmag.com/issues/06/manufacturing-bliss"
 estimated_pages: 20
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-12-manufacturing-bliss.pdf"
 tags: []
 ---
 
