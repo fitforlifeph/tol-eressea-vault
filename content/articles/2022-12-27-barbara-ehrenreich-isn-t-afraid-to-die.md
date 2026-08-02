@@ -9,6 +9,7 @@ source: "https://jezebel.com/barbara-ehrenreich-isnt-afraid-to-die-1825477938"
 estimated_pages: 12
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://jezebel.com/barbara-ehrenreich-isnt-afraid-to-die-1825477938"
 tags: []
 ---
 
