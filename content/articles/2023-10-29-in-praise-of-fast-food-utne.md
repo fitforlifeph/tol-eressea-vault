@@ -9,6 +9,7 @@ source: "https://www.utne.com/Environment/Fast-Food-Culinary-Ethos"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-29-in-praise-of-fast-food-utne.pdf"
 tags: []
 ---
 
