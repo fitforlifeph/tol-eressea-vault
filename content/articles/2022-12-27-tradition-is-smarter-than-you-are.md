@@ -9,6 +9,7 @@ source: "https://scholars-stage.org/tradition-is-smarter-than-you-are/"
 estimated_pages: 13
 status: complete
 draft: false
+archive_url: "https://web.archive.org/web/https://scholars-stage.org/tradition-is-smarter-than-you-are/"
 tags: []
 ---
 
