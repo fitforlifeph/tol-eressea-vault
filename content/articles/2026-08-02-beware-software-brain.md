@@ -9,6 +9,7 @@ estimated_pages: 12
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-beware-software-brain.pdf"
 tags: []
 ---
 
