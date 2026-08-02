@@ -9,6 +9,7 @@ source: "https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-03-14-why-children-need-risk-fear-and-excitement-in-play.pdf"
 tags: []
 ---
 
