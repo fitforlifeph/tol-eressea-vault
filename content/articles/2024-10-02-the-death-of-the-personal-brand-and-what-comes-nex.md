@@ -10,6 +10,7 @@ estimated_pages: 14
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-10-02-the-death-of-the-personal-brand-and-what-comes-nex.pdf"
+archive_url: "https://web.archive.org/web/https://thedankoe.com/letters/the-death-of-the-personal-brand-and-what-comes-next/?kuid=58dc9c04-64e2-4795-98e5-ae2a70122f91&lid=84362"
 tags: []
 ---
 
