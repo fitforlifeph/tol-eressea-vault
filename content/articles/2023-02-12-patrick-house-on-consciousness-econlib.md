@@ -9,6 +9,7 @@ source: "https://www.econtalk.org/patrick-house-on-consciousness/"
 estimated_pages: 52
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-12-patrick-house-on-consciousness-econlib.pdf"
 tags: []
 ---
 
