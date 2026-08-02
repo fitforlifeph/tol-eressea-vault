@@ -9,6 +9,7 @@ source: "https://www.exurbe.com/on-progress-and-historical-change/"
 estimated_pages: 34
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-25-on-progress-and-historical-change.pdf"
 tags: []
 ---
 
