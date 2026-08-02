@@ -9,6 +9,7 @@ source: "https://evaparish.com/blog/how-i-edit/"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-25-what-i-think-about-when-i-edit-eva-parish.pdf"
 tags: []
 ---
 
