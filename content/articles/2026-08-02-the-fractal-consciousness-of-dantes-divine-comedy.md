@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/the-fractal-consciousness-of-dantes-divine-comed
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-the-fractal-consciousness-of-dantes-divine-comedy.pdf"
 tags: []
 ---
 
