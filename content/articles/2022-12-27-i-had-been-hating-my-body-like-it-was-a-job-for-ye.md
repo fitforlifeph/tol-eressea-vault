@@ -1,130 +1,75 @@
 ---
 title: "\"I had been hating my body like it was a job for years and I wasn’t happier, healthier, or thinner. I was just…tired.\""
 author: "Anne Helen Petersen"
-publication: "Culture Study"
-published: 2022-01-06
+publication: ""
+published: 
 saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "https://annehelen.substack.com/p/i-had-been-hating-my-body-like-it"
 estimated_pages: 13
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
-# "I had been hating my body like it was a job for years and I wasn’t happier, healthier, or thinner. I was just…tired."
-
-### An interview with Ragen Chastain
-
-**If you read this newsletter every week, value the labor that goes into it, and haven’t become a paid subscriber — [think about it!](https://annehelen.substack.com/subscribe?utm_medium=web&utm_source=subscribe-widget)** Many of the people who read this newsletter the most are people who haven’t paid — and I get it, I really do, I’m constantly saying I’m going to pay for things and take weeks to actually do it. But maybe today is your day.
-
-Unlearning any ideology — any understanding of how the world just *is*, and how it should *be* — takes a really long time. You’re effectively deprogramming yourself, and it takes time and grace and a lot of patience. That’s how I feel about unlearning fatphobia: I’m on the road, but I still get stuck at these places where, as the feminist philosopher Kate Manne [described earlier this week](https://www.nytimes.com/2022/01/03/opinion/dieting-resolutions-weight-loss.html), you’re great about encouraging *others* to let go of fatphobia, and the desire to control and regime and otherwise change your body to align with others’ standards, but struggle to let go of those compulsions yourself. 
-
-Here’s a stopping point I hear a lot amongst people who are thin or actively dieting: *I don’t judge anyone who’s bigger, but, you know, there are real health considerations!* And I get it: this is what so many of us have absorbed from trusted forms (media, medical, and otherwise) for so long. But a huge part of letting go of fatphobia is coming to understand the ways in which the medical community, science communication, and even the very construction of various studies, is *itself* fatphobic. Some of it is straight-up junk science. Some of it is adherence to existing media narratives. Some of it is just refusing to let go of the equation of fatness with moral failure. 
-
-Like many of you readers, I’ve come to understand a lot of this from listening to [Maintenance Phase](https://www.maintenancephase.com/). But Ragen Chastain’s newsletter, which really digs into the intersection of weight stigma, fatphobia, and healthcare, does even more. Her work helps illuminate the specific ways in which the existing health infrastructure fails fat people — and asks us to imagine (and implement) what weight *neutral* healthcare could look like in practice. I have learned so much her — particularly on “[Does Losing 5-10% of Your Weight Really Improve Health](https://weightandhealthcare.substack.com/p/does-losing-5-10-of-body-weight-really),” on the [history of vaccines and fat people](https://weightandhealthcare.substack.com/p/vaccines-and-fat-people-a-history), on [the history of failed weight loss interventions](https://weightandhealthcare.substack.com/p/who-says-dieting-fails-the-majority), and most recently, what a size inclusive healthcare office [actually looks like](https://weightandhealthcare.substack.com/p/creating-a-size-inclusive-healthcare). 
-
-I love Regan’s work, and I love what she has to say below (make sure to stick with the conversation through when she talks about trolls). **If her writing resonates with you, please share it or this post —and if you’d like to support it, [here’s how](https://weightandhealthcare.substack.com/subscribe).**  
-
-**I like to start pretty broad. Can you tell us about your road to writing and thinking about the things you write and think about all the time?**
-
+"I had been hating my body like it was a job for years and I wasn’t happier, healthier, or thinner. I was just…tired."
+An interview with Ragen Chastain
+If you read this newsletter every week, value the labor that goes into it, and haven’t become a paid subscriber — think about it! Many of the people who read this newsletter the most are people who haven’t paid — and I get it, I really do, I’m constantly saying I’m going to pay for things and take weeks to actually do it. But maybe today is your day.
+Unlearning any ideology — any understanding of how the world just is, and how it should be — takes a really long time. You’re effectively deprogramming yourself, and it takes time and grace and a lot of patience. That’s how I feel about unlearning fatphobia: I’m on the road, but I still get stuck at these places where, as the feminist philosopher Kate Manne described earlier this week, you’re great about encouraging others to let go of fatphobia, and the desire to control and regime and otherwise change your body to align with others’ standards, but struggle to let go of those compulsions yourself.
+Here’s a stopping point I hear a lot amongst people who are thin or actively dieting: I don’t judge anyone who’s bigger, but, you know, there are real health considerations! And I get it: this is what so many of us have absorbed from trusted forms (media, medical, and otherwise) for so long. But a huge part of letting go of fatphobia is coming to understand the ways in which the medical community, science communication, and even the very construction of various studies, is itself fatphobic. Some of it is straight-up junk science. Some of it is adherence to existing media narratives. Some of it is just refusing to let go of the equation of fatness with moral failure.
+Like many of you readers, I’ve come to understand a lot of this from listening to Maintenance Phase. But Ragen Chastain’s newsletter, which really digs into the intersection of weight stigma, fatphobia, and healthcare, does even more. Her work helps illuminate the specific ways in which the existing health infrastructure fails fat people — and asks us to imagine (and implement) what weight neutral healthcare could look like in practice. I have learned so much her — particularly on “Does Losing 5-10% of Your Weight Really Improve Health,” on the history of vaccines and fat people, on the history of failed weight loss interventions, and most recently, what a size inclusive healthcare office actually looks like.
+I love Regan’s work, and I love what she has to say below (make sure to stick with the conversation through when she talks about trolls). If her writing resonates with you, please share it or this post —and if you’d like to support it, here’s how.
+I like to start pretty broad. Can you tell us about your road to writing and thinking about the things you write and think about all the time?
 After years of yo-yo dieting (much of it prescribed by doctors) I was in a medical weight loss program and despite following the (severely restrictive) rules precisely, I was still gaining weight. When I went in to quit they tried to convince me to stay, saying “aren’t you tired of hating your body?”
-
-I realized that yes, I *was* tired of hating my body. I was exhausted from hating my body. I had been hating my body like it was a job for years and I wasn’t happier, healthier, or thinner. I was just…tired.
-
+I realized that yes, I was tired of hating my body. I was exhausted from hating my body. I had been hating my body like it was a job for years and I wasn’t happier, healthier, or thinner. I was just…tired.
 So I walked out of there and decided that I was going to do this whole health thing in two parts. First, I was going to learn to love my body no matter what, then I was going to find the best diet so that I could lose weight (which, at the time, I thought I needed to do to be healthy.)
-
 I went through a process of discovering gratitude for my amazing body, and getting pissed off at the industries who had so effectively sold me body hatred for so long. When I felt like I was at a good place in my relationship with my body, I decided to put my background in research methods and statistics to work to find the best diet. I did my own literature review and was so shocked by what I found that I did the entire review again. What I found was that there wasn’t a single study where more than a tiny group of people were successful at significant, long-term weight loss. Almost everyone had the same experiences as me: losing some weight short term, and gaining it back long-term. That set me on a path of learning what the research actually said about weight and health.
-
 As I was going through this process, I also started competing in ballroom dance. After one competition, a judge tracked me down to tell me, repeatedly, that she “couldn’t stand to look at” me because my dress showed my bare arms.
-
 In that moment, dealing with that dance judge, I had a realization: I wanted to be a fat dancer, but I was going to have to be a fat activist to get it done. So I started my first blog, Dances with Fat. I started it to write about my personal journey and then, pretty quickly, began writing more about general fat civil rights and the research around weight health. I had been doing social justice work, including as an out queer woman, since college, but I had never thought about fat people as a group of people who faced systemic oppression until then. At the time, I didn’t know about the amazing fat activism community that had existed for decades — but soon I was introduced and I am honored to be part of a vibrant community of people doing this work.
-
 I started my study of weight science in the early 2000’s and they continue to this day. I started speaking and writing about these things in 2009 and transitioned to full time in 2012. Now I speak and write for college, corporate, and healthcare audiences about weight stigma, weight science, and their intersections with health and healthcare.
-
-**Your newsletter is called “[Weight and Healthcare](https://weightandhealthcare.substack.com/),” and one of many things that I appreciate about your work is that it is very straightforward and accessible — you are very clear communicator, which, when it comes to communicating the realities of weight and healthcare, feels *incredibly* important. How do you think about your writing style, down to the way that you craft sentences? (And can you talk more about why you chose ‘Weight and Healthcare” for the title of the newsletter?)** 
-
+Your newsletter is called “Weight and Healthcare,” and one of many things that I appreciate about your work is that it is very straightforward and accessible — you are very clear communicator, which, when it comes to communicating the realities of weight and healthcare, feels *incredibly* important. How do you think about your writing style, down to the way that you craft sentences? (And can you talk more about why you chose ‘Weight and Healthcare” for the title of the newsletter?)
 Thank you! I’ve always had kind of a weird gift for being able to explain complicated concepts in a way that is more accessible, my brain automatically tends to distill things down, conceptualize in metaphors, etc. When I’m writing about healthcare it can literally be a matter of life and death, so making sure that my writing is clear is even more important. The fact that I write professionally in my own forums often means that I can be more focused on being understood than sounding “academic.” While I’ve done my share of academic writing (and, of course, a lot of good work is done in academic writing) I find that being outside of those strictures makes it easier to focus on writing more accessibly.
-
-I chose Weight And Healthcare for the name because Weight Stigma, Weight Science, and Healthcare was too long (seriously!) Since I started my blog in 2009 the most common (and often the most heart-wrenching) requests I get are around these topics. They can also be the topics that are most triggering for people to read about. I wanted a name that was clear about the topic both to help those who are looking for this kind of information to find it *and* to let people know what they could expect. 
-
-**Regular readers of this newsletter know that I am actively unlearning a whole lot of [pernicious fatphobia](https://annehelen.substack.com/p/the-millennial-vernacular-of-fatphobia) I internalized growing up in the ‘90s and 2000s, and I know a lot of readers are in that same boat. It sounds corny to call it a journey, but it really is — something prompts you to revisit the way you’ve thought about fatness and the body, and then, at least for me, it was almost like someone had flipped a switch. Everything was illuminated!!! And once it happens, you want to keep unlearning things — I think this is a very real part of why people go through episodes of [Maintenance Phase](https://www.maintenancephase.com/) so quickly, for example, once they’ve discovered it.** 
-
-**In your work and writing and speaking and general experience, what feels like the hardest thing, even for people on this journey, to let go of?** 
-
+I chose Weight And Healthcare for the name because Weight Stigma, Weight Science, and Healthcare was too long (seriously!) Since I started my blog in 2009 the most common (and often the most heart-wrenching) requests I get are around these topics. They can also be the topics that are most triggering for people to read about. I wanted a name that was clear about the topic both to help those who are looking for this kind of information to find it and to let people know what they could expect.
+Regular readers of this newsletter know that I am actively unlearning a whole lot of pernicious fatphobia I internalized growing up in the ‘90s and 2000s, and I know a lot of readers are in that same boat. It sounds corny to call it a journey, but it really is — something prompts you to revisit the way you’ve thought about fatness and the body, and then, at least for me, it was almost like someone had flipped a switch. Everything was illuminated!!! And once it happens, you want to keep unlearning things — I think this is a very real part of why people go through episodes of Maintenance Phase so quickly, for example, once they’ve discovered it.
+In your work and writing and speaking and general experience, what feels like the hardest thing, even for people on this journey, to let go of?
 First of all, same! I’m definitely on the same journey.
-
-For many people the most difficult thing to give up is what [Kate Harding](https://twitter.com/KateHarding) called “the Fantasy of Being Thin.” Fat people are encouraged to believe that being thin will solve everything that is wrong in our lives. We dream of the day we hit our “goal weight” and make lists of all the things we’re going to do when we are finally there. Weight stigma is real and does real harm, and so becoming thin literally means moving oneself out of an oppressed group (at least until you gain the weight back.) Once I understood that, I realized I had spent years fighting my body *on behalf of weight stigma* to try to move myself out of the oppressed group. What I decided to do instead was to fight weight stigma *on behalf of my body* and to be part of ending oppression for all fat people.
-
+For many people the most difficult thing to give up is what Kate Harding called “the Fantasy of Being Thin.” Fat people are encouraged to believe that being thin will solve everything that is wrong in our lives. We dream of the day we hit our “goal weight” and make lists of all the things we’re going to do when we are finally there. Weight stigma is real and does real harm, and so becoming thin literally means moving oneself out of an oppressed group (at least until you gain the weight back.) Once I understood that, I realized I had spent years fighting my body on behalf of weight stigma to try to move myself out of the oppressed group. What I decided to do instead was to fight weight stigma on behalf of my body and to be part of ending oppression for all fat people.
 For others, the hardest thing happens after they leave the fantasy of being thin behind. They are doing well on their body acceptance and weight-neutral health journey…and then they get a health diagnosis. And even though they understand that thin people also get that diagnosis (so being/becoming thin can neither be a sure preventative nor a sure cure) and that the research is clear that weight loss is almost certain to fail, there is still massive pressure to try weight loss again. That pressure often comes from healthcare providers who are more steeped in weight stigma than in the actual research. This adds healthism and ableism to fatphobia and harms fat people in multiple ways.
-
 In addition to another failed weight loss attempt (and the negative health impacts that weight cycling can have) it can also cause a delay in getting actual healthcare, disengagement from healthcare (driven by a need to avoid fat-shaming from healthcare professionals or shame that accompanies the almost inevitable weight regain after short-term weight loss) and a separation from fat-positive community. In some cases, folks even end up harming others in the fat community by bringing weight loss and diet talk into spaces that are supposed to be safe from those things.
-
 Weight loss fails the vast majority of the time and it doesn’t get any more likely to succeed after a healthcare diagnosis. Weight-neutral healthcare is by far the most evidence-based, ethical model for people of all sizes.
-
-**You write a lot about the “Good Fatty/Bad Fatty” dichotomy and the privileges that accompany it, particularly for fat athletes like yourself. Can you talk more about how you see the dichotomy manifesting today in HAES (Health At Any Size) positive exercise spaces like Peloton?** 
-
+You write a lot about the “Good Fatty/Bad Fatty” dichotomy and the privileges that accompany it, particularly for fat athletes like yourself. Can you talk more about how you see the dichotomy manifesting today in HAES (Health At Any Size) positive exercise spaces like Peloton?
 The GFBFD encourages people (including fat people themselves) to believe that fat people who participate in fitness are better than those who don’t — and that they deserve better treatment and less oppression. In that way, it privileges fat people who participate in fitness, including me, which is why it’s important that fat people who participate in fitness speak out against it.
-
 This is part of a more general message, perpetuated by toxic fitness culture, that people who participate in fitness are better than those who don’t. That, in turn, is part of a greater culture of healthism and ableism that suggests that “health” and “ability” are barometers of worthiness and morality.
-
 In order to make sure that weight-neutral concepts of health (including HAES) are not tools for oppression, we have to constantly do three things:
-
 We must acknowledge that health is an amorphous, multi-factorial concept that is not an obligation, barometer of worthiness, or entirely within our control, and that nobody, of any size, owes anybody else “health” or “healthy behaviors” by any definition.
-
 We must ensure that weight-neutral health concepts are not separated from intersectional fat liberation principles - and that they are actively anti-fatphobia, anti-racism, anti-healthism, and anti-ableism.
-
 We must focus our concepts of “health,” “healthcare,” and “public health,” on bringing down barriers to health (including oppression,) increasing access to resources and information, and respecting individual’s priorities.
-
-**In one of your recent newsletters on [vaccines, needle lengths, and higher-weight people](https://weightandhealthcare.substack.com/p/do-fat-people-need-longer-needles), you write that “fat people are harmed because we are left out of research, then our bodies get blamed for that harm.”** 
-
-**This feels central to so much of the pathologization of larger bodies, of women, and of bodies that are don’t adhere to normative ideals in any way. Conceive of something as non-normative in whatever way (not worthy of inclusion in testing, not part of the conversation) and, well, you continue to conceive of that thing in non-normative ways. Can you unpack the cyclical and reinforcing nature of this more?** 
-
+In one of your recent newsletters on vaccines, needle lengths, and higher-weight people, you write that “fat people are harmed because we are left out of research, then our bodies get blamed for that harm.”
+This feels central to so much of the pathologization of larger bodies, of women, and of bodies that are don’t adhere to normative ideals in any way. Conceive of something as non-normative in whatever way (not worthy of inclusion in testing, not part of the conversation) and, well, you continue to conceive of that thing in non-normative ways. Can you unpack the cyclical and reinforcing nature of this more?
 This really is at the center of so much of the oppression that is created by the healthcare system. When I point this out in talks I give to healthcare providers, they often tell me it’s an “aha” moment for them, which is a good reminder that it’s difficult to see the cycle when you’re in it.
-
 The current healthcare system excludes fat people at every level. We are often left out of research, and then when the pharmaceuticals, tools, and best practices that are developed from that research don’t work as well for us, our bodies are blamed. The healthcare system often fails to accommodate us in everything from chairs in the waiting room, to gowns, to MRIs, beds, durable medical equipment and more. Medical training is often steeped in weight stigma and perpetuates practitioner bias against their fat patients.
-
 The system even made up scientific-sounding terms like “ob*se” and “overw*ight,” and scientific-sounding scales like the “Body Mass Index (BMI)” to pathologize and medicalize larger bodies, driving massive profit to the weight loss industry and massive harm to the people put into those categories.
-
-It’s also important to know that all of this stems from a history of racism, including specifically anti-Blackness -  I highly recommend reading Sabrina Strings’ ***[Fearing the Black Body – the Racial Origins of Fat Phobia](https://www.sabrinastrings.com/books)*** and Da’Shaun Harrison’s ***[Belly of the Beast: The Politics of Anti-Fatness as Anti-Blackness](https://dashaunharrison.com/shop/belly-of-the-beast/)*** for more on that critical intersection.
-
+It’s also important to know that all of this stems from a history of racism, including specifically anti-Blackness - I highly recommend reading Sabrina Strings’ Fearing the Black Body – the Racial Origins of Fat Phobia and Da’Shaun Harrison’s Belly of the Beast: The Politics of Anti-Fatness as Anti-Blackness for more on that critical intersection.
 Finally, our healthcare system continues to recommend intentional weight loss even though it has a failure rate of 95% and the subsequent weight cycling (yo-yo dieting) has been correlated with negative health outcomes.
-
-**So the cycle goes like this:**
-
-- The healthcare system creates weight stigma, weight cycling, and healthcare inequalities.
-- The healthcare system blames fat bodies for the negative health outcomes that result from weight stigma, weight cycling, and healthcare inequalities.
-- The healthcare system uses those negative outcomes to justify more weight stigma, weight cycling, and healthcare inequalities.
-
+So the cycle goes like this:
+- The healthcare system creates weight stigma, weight cycling, and healthcare inequalities. 
+- The healthcare system blames fat bodies for the negative health outcomes that result from weight stigma, weight cycling, and healthcare inequalities. 
+- The healthcare system uses those negative outcomes to justify more weight stigma, weight cycling, and healthcare inequalities. 
 It is a vicious cycle that does the greatest harm to those at the highest weights and those with multiple marginalized identities. We can break the cycle by moving to a weight-neutral healthcare paradigm which, the research is clear, not only does less harm, but does more good in terms of supporting bodies of all sizes.
-
-**Our mutual pal [Virginia Sole-Smith](https://virginiasolesmith.substack.com/) told me that you’re a real role model for her in terms of handling trolls. How do you set boundaries around your online presentation of self that make you feel mentally and physically safe? What still makes you feel vulnerable, and what makes you feel powerful?** 
-
+Our mutual pal Virginia Sole-Smith told me that you’re a real role model for her in terms of handling trolls. How do you set boundaries around your online presentation of self that make you feel mentally and physically safe? What still makes you feel vulnerable, and what makes you feel powerful?
 Before I get into anything else, I want to acknowledge that a lot of my ability to deal with trolls is wrapped up in privilege and luck-of-the-draw personality stuff. That said, there are a few principles that I think have helped me deal with this over time.
-
 First of all, I view trolling as a sign that the work that I do is important, and that I’m doing a good job of getting that work out there. Given who these people are, I want them to hate me — that tells me I’m doing what I want to be doing in the world. Also, because of my privilege and personality, I would rather they troll me, because every minute they spend bothering me is a minute they aren’t spending bothering someone with less privilege than I have.
-
 Next is approach. Common advice for dealing with bullies includes things like:
-
-- Ignore them and they’ll go away.
-- You have to stick up for yourself or they’ll never stop.
-- If you take that tone with them then you should expect them to escalate.
-- This is a teaching moment. If you don’t teach them how will they ever learn?
-
+- Ignore them and they’ll go away. 
+- You have to stick up for yourself or they’ll never stop. 
+- If you take that tone with them then you should expect them to escalate. 
+- This is a teaching moment. If you don’t teach them how will they ever learn? 
 All of that advice centers the trolls’ reaction/feeling/education. It’s important to realize that we aren’t obligated to center our trolls needs and wants in our responses to them. We can choose how to react to our mistreatment based on what is best for us. If we want to educate, we can do that. If we want to tell them to fuck off, we can do that. If we want to delete their troll treatise without even reading the whole thing, we can do that. And how we decide to react may change from day to day or even minute to minute based on how we are feeling. Our choices to center ourselves in these interactions are completely valid.
-
 I also realized that I work hard to create spaces online, and I don’t have to hand those spaces over to anyone who can figure out how to work the comment function. My online spaces are heavily moderated and that has helped me tremendously — and has also helped those who interact in those spaces to feel safer knowing that I will not tolerate nonsense. We should always remember that someone calling for our oppression and us fighting back against that is not simply two sides of the “free speech” coin. The former is an act of violence; the latter a demand for basic human respect. They are not the same and they should not be treated the same.
-
 In terms of feeling vulnerable, I’ve been dealing with serious trolling for over a decade, but it’s still scary to get threats of harm and death. My trolls have doxxed me, shown up at events, harassed me in public, and once set off a fire alarm to try to get a talk cancelled (it wasn’t, and the drama they created attracted more people to the talk than were going to attend originally!)
-
 The conclusion I finally came to was that if trolls discover something that will stop me, then that’s exactly what they’ll do. So, if I cancel a talk due to death threats, I can expect death threats every time I plan to take the stage. It’s unlikely that they will follow through, but it is a possibility. I thought long and hard about it, and decided that it’s ultimately worth the risk to do this work.
-
-**You can subscribe to Ragen’s newsletter [here](https://weightandhealthcare.substack.com/) —****and find her website, filled with so much more information on her work, monthly workshops, and a lot more, [here](https://danceswithfat.org/).**
-
-**If you read this newsletter every week and value the labor that goes into it, consider subscribing.** Subscribing is how you’ll also be able to comment on posts, and participate in the heart of the Culture Study Community: in the weirdly fun/interesting/generative **weekly discussion threads**, plus the **Culture Study Discord**, where there’s dedicated space for the discussion of this piece, and equally excellent threads for discussion of Job Searching, You Used to Be a Christian, Brooklyn & Bailey Hive, Spinsters, Fat Space, K-Pop, Non-Toxic Childfree, Doing the Work of Building Community, WTF is Crypto, So Your Parents Are Aging, HIGH PEOPLE ONLY, and *a lot* more. 
-
-**If you’ve never been part of a Discord: I promise it’s much easier and less intimidating than you imagine**. Finally, you’ll also receive free access to audio version of the newsletter via Curio. 
-
-**As always, if you are a contingent worker or un- or under-employed, just email and I’ll give you a free subscription, no questions asked**. If you’d like to underwrite one of those subscriptions, you can donate one [here](https://annehelen.substack.com/subscribe?donate=true).
-
-If you’re reading this in your inbox, you can find a shareable version online [here](https://annehelen.substack.com/). You can follow me on Twitter [here](https://twitter.com/annehelen), and Instagram [here](https://www.instagram.com/annehelenpetersen/) — and you can always reach me at annehelenpetersen@gmail.com.
+You can subscribe to Ragen’s newsletter here — and find her website, filled with so much more information on her work, monthly workshops, and a lot more, here.
+If you read this newsletter every week and value the labor that goes into it, consider subscribing. Subscribing is how you’ll also be able to comment on posts, and participate in the heart of the Culture Study Community: in the weirdly fun/interesting/generative weekly discussion threads, plus the Culture Study Discord, where there’s dedicated space for the discussion of this piece, and equally excellent threads for discussion of Job Searching, You Used to Be a Christian, Brooklyn & Bailey Hive, Spinsters, Fat Space, K-Pop, Non-Toxic Childfree, Doing the Work of Building Community, WTF is Crypto, So Your Parents Are Aging, HIGH PEOPLE ONLY, and a lot more.
+If you’ve never been part of a Discord: I promise it’s much easier and less intimidating than you imagine. Finally, you’ll also receive free access to audio version of the newsletter via Curio.
+As always, if you are a contingent worker or un- or under-employed, just email and I’ll give you a free subscription, no questions asked. If you’d like to underwrite one of those subscriptions, you can donate one here.
+If you’re reading this in your inbox, you can find a shareable version online here. You can follow me on Twitter here, and Instagram here — and you can always reach me at annehelenpetersen@gmail.com.
