@@ -9,6 +9,7 @@ source: "https://psyche.co/guides/how-to-relax-your-own-rules-and-build-psycholo
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-relax-your-own-rules.pdf"
 tags: []
 ---
 
