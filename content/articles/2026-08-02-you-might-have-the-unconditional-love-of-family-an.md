@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/how-is-it-possible-to-be-loved-and-yet-to-feel-d
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-you-might-have-the-unconditional-love-of-family-an.pdf"
 tags: []
 ---
 
