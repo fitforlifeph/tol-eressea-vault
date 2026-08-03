@@ -7,8 +7,8 @@ saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "https://www.precisionnutrition.com/stop-overthinking-food-choices"
 estimated_pages: 9
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
