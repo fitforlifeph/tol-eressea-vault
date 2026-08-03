@@ -9,6 +9,7 @@ source: "https://www.twopct.com/p/how-to-save-money-on-healthy-food"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-save-money-on-healthy-food.pdf"
 tags: []
 ---
 
