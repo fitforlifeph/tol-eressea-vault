@@ -9,6 +9,7 @@ source: "https://www.nature.com/articles/s41598-024-71073-3"
 estimated_pages: 36
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-pasture-finishing-of-cattle-in-western-u-s-rangela.pdf"
 tags: []
 ---
 
