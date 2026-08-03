@@ -9,6 +9,7 @@ source: "https://parabola.org/2024/10/25/longing-for-being/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-longing-for-being.pdf"
 tags: []
 ---
 
