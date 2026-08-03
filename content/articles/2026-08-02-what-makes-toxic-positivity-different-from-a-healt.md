@@ -9,6 +9,7 @@ source: "https://psyche.co/ideas/what-makes-toxic-positivity-different-from-a-he
 estimated_pages: 7
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-what-makes-toxic-positivity-different-from-a-healt.pdf"
 tags: []
 ---
 
