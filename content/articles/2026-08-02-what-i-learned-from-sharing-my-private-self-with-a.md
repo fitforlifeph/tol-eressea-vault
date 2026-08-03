@@ -9,6 +9,7 @@ source: "https://psyche.co/ideas/what-i-learned-from-sharing-my-private-self-wit
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-what-i-learned-from-sharing-my-private-self-with-a.pdf"
 tags: []
 ---
 
