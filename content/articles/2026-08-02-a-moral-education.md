@@ -9,6 +9,7 @@ source: "https://yalereview.org/article/garth-greenwell-philip-roth"
 estimated_pages: 33
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-a-moral-education.pdf"
 tags: []
 ---
 
