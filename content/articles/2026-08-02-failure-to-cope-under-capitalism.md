@@ -9,6 +9,7 @@ source: "https://www.gawker.com/culture/failure-to-cope-under-capitalism"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-failure-to-cope-under-capitalism.pdf"
 tags: []
 ---
 
