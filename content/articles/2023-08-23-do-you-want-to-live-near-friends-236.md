@@ -9,6 +9,7 @@ source: "https://boundless.substack.com/p/do-you-want-to-live-near-friends"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-08-23-do-you-want-to-live-near-friends-236.pdf"
 tags: []
 ---
 
