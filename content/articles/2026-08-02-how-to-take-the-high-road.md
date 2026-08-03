@@ -9,6 +9,7 @@ source: "https://psyche.co/guides/how-to-use-compassion-focused-techniques-to-ta
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-take-the-high-road.pdf"
 tags: []
 ---
 
