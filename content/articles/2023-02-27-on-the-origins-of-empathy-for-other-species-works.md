@@ -9,6 +9,7 @@ source: "https://worksinprogress.co/issue/on-the-origins-of-empathy-for-other-sp
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-27-on-the-origins-of-empathy-for-other-species-works.pdf"
 tags: []
 ---
 
