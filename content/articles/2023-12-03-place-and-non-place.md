@@ -9,6 +9,7 @@ source: "https://newworldeconomics.com/place-and-non-place/"
 estimated_pages: 14
 status: incomplete
 draft: true
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-03-place-and-non-place.pdf"
 tags: []
 ---
 
