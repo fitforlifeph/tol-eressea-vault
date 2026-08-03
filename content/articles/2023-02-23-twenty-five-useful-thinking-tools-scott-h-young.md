@@ -7,8 +7,8 @@ saved: 2023-02-23T00:00:00+00:00
 created: 2023-02-23T00:00:00+00:00
 source: "https://www.scotthyoung.com/blog/2018/12/04/25-thinking-tools/"
 estimated_pages: 17
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
