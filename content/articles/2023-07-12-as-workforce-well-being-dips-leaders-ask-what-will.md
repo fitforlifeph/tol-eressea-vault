@@ -7,8 +7,8 @@ saved: 2023-07-12T00:00:00+00:00
 created: 2023-07-12T00:00:00+00:00
 source: "https://www2.deloitte.com/us/en/insights/topics/talent/workplace-well-being-research.html"
 estimated_pages: 10
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
