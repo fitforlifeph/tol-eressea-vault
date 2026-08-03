@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-the-play-deficit.pdf"
 tags: []
 ---
 
