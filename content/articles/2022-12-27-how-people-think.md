@@ -7,8 +7,8 @@ saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "http://www.collaborativefund.com/blog/think/"
 estimated_pages: 16
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
