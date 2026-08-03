@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/where-do-children-s-earliest-memories-go"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-the-great-forgetting.pdf"
 tags: []
 ---
 
