@@ -1,110 +1,64 @@
 ---
 title: "Absolute values of Heart Rate Variability (HRV)"
 author: "Marco Altini"
-publication: "Marco Altini’s Substack"
-published: 2024-05-08
+publication: ""
+published: 
 saved: 2024-05-23T00:00:00+00:00
 created: 2024-05-23T00:00:00+00:00
 source: "https://marcoaltini.substack.com/p/absolute-values-of-heart-rate-variability"
 estimated_pages: 9
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
-# Absolute values of Heart Rate Variability (HRV)
-
-### Ignore or pay attention?
-
-I often stress how **HRV is, in my opinion,** **more useful when we look at it in relative terms**, as opposed to its absolute value.
-
+Absolute values of Heart Rate Variability (HRV)
+Ignore or pay attention?
+I often stress how HRV is, in my opinion, more useful when we look at it in relative terms, as opposed to its absolute value.
 I saw people obsess over their values in ways that led to dysfunctional behaviors, and I am concerned that overly focusing on our numbers, comparing them with others, etc. can be unhelpful and make things worse. I am also not a believer that everything is under our control and you just need to make this or that change for things to go well. Sure, at times, that is the case, but for many, that’s not how things work.
-
-In the past, I had a few exchanges with Andrew Flatt, who is a person I admire and from whom I learned a lot over the past 10 years in the context of HRV, and who has a different opinion on the topic. Specifically, **Andrew often mentions how we can (and possibly should) improve our HRV.**
-
-This conversation started in response to an article I shared (titled "Different heart rate variability profile during sleep in mid-later life adults with remitted early-onset versus late-onset depression" and published in the Journal of Affective Disorders), in which, once again, significant differences were found in some HRV indices between people with a specific condition (depression in this case) and healthy controls. If we look at the data though, we will see that **there is an almost perfect overlap between categories**: 
-
-- **rMSSD for early onset of depression** : mean: 35 ms, standard deviation: 17 ms. rMSSD is not normally distributed, but this data shows**a pretty broad range, probably in the order of ~10ms to ~80ms.**
-- **rMSSD for healthy controls** : mean: 40 ms, standard deviation: 18 ms. As you can imagine, **this is pretty much the exact same range** , as the mean is slightly higher, but the standard deviation is as well. This means**there are many healthy controls with an rMSSD that must be around ~10ms.**
-
-The headline is always about "the lower HRV" of a certain group, and how "higher HRV is better" **but the reality of the data is that HRV is pretty much the exact same between groups**: **given an HRV value, you can never tell to which group a person belongs**, healthy or not. Hence my conclusion was that we should use HRV in relative terms, and ignore the absolute values. 
-
-[Andrew replied](https://twitter.com/andrew_flatt/status/1786809155690414206): “*I think one extreme is to be overly worried about it. But the other is to suggest that low values have no health implications*“ and followed up with more insights. 
-
-As a result, I have been thinking about this more, trying to reconcile our views in a meaningful way. It wouldn’t be the first time that my thought has been influenced by Andrew (for example, regarding measurement position, it took me years to fully grasp **the importance of the orthostatic stressor and measuring our HRV in the morning while sitting, as opposed to lying down**, something Andrew has been saying for a long time, and that I discuss in more detail [here](https://marcoaltini.substack.com/p/heart-rate-variability-hrv-measurement-49e)).
-
-The question then becomes the following: **can we improve our HRV? and if so, how?**
-
-For healthy individuals, **I’d argue for common sense in terms of behavior: exercise / move regularly, a decent diet, get the sleep you need, and try to balance important stressors** (work, relationships, etc). Keep in mind that the way you live matters: **it’s not just exercise and diet, it is stress**. It’s also about you. Some of us might thrive in a stressful environment, and some of us might not (I don’t, for example).
-
-If we look at absolute values, **we must consider first population-level differences, something I have covered in a study I published with Daniel Plews a few years ago, looking at 9 million HRV measurements collected over many years** (see “What Is behind Changes in Resting Heart Rate and Heart Rate Variability? A Large-Scale Analysis of Longitudinal Measurements Acquired in Free-Living“, [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8659706/)). 
-
-**Broadly speaking, age is against you** and values will lower over decades. Heart rate won’t be impacted this way and therefore remains a better marker of your fitness (probably another reason why it’s worth looking at both your resting heart rate and HRV, as they are not the same thing, especially as we age). **In the figure above, you can also see again how broad categories are and how much overlap there is between groups of people that are quite different**. Sure, the average HRV of people in their 20s that exercise every day is different from the average HRV of people in their 50s that exercise occasionally. However, at least half of the distribution covers the same range, meaning that many people in these two, very different categories, have the same HRV.
-
-**The difficulty I have with overly stressing behavior is that a strong component comes from your genetics, and might still anchor your HRV to a low value despite your best efforts**. What then? The rhetoric that you can always improve, is a bit dangerous. Consider that when looking at a very homogenous sample of people (same age, sex, profession, behavior), you can have HRVs that range between e.g. 15-20ms to 200ms or more. If the absolute value is so important and linked to our behavior, how is that even possible?
-
+In the past, I had a few exchanges with Andrew Flatt, who is a person I admire and from whom I learned a lot over the past 10 years in the context of HRV, and who has a different opinion on the topic. Specifically, Andrew often mentions how we can (and possibly should) improve our HRV.
+This conversation started in response to an article I shared (titled "Different heart rate variability profile during sleep in mid-later life adults with remitted early-onset versus late-onset depression" and published in the Journal of Affective Disorders), in which, once again, significant differences were found in some HRV indices between people with a specific condition (depression in this case) and healthy controls. If we look at the data though, we will see that there is an almost perfect overlap between categories:
+- rMSSD for early onset of depression: mean: 35 ms, standard deviation: 17 ms. rMSSD is not normally distributed, but this data shows a pretty broad range, probably in the order of ~10ms to ~80ms. 
+- rMSSD for healthy controls: mean: 40 ms, standard deviation: 18 ms. As you can imagine, this is pretty much the exact same range, as the mean is slightly higher, but the standard deviation is as well. This means there are many healthy controls with an rMSSD that must be around ~10ms. 
+The headline is always about "the lower HRV" of a certain group, and how "higher HRV is better" but the reality of the data is that HRV is pretty much the exact same between groups: given an HRV value, you can never tell to which group a person belongs, healthy or not. Hence my conclusion was that we should use HRV in relative terms, and ignore the absolute values.
+Andrew replied: “I think one extreme is to be overly worried about it. But the other is to suggest that low values have no health implications“ and followed up with more insights.
+As a result, I have been thinking about this more, trying to reconcile our views in a meaningful way. It wouldn’t be the first time that my thought has been influenced by Andrew (for example, regarding measurement position, it took me years to fully grasp the importance of the orthostatic stressor and measuring our HRV in the morning while sitting, as opposed to lying down, something Andrew has been saying for a long time, and that I discuss in more detail here).
+The question then becomes the following: can we improve our HRV? and if so, how?
+For healthy individuals, I’d argue for common sense in terms of behavior: exercise / move regularly, a decent diet, get the sleep you need, and try to balance important stressors (work, relationships, etc). Keep in mind that the way you live matters: it’s not just exercise and diet, it is stress. It’s also about you. Some of us might thrive in a stressful environment, and some of us might not (I don’t, for example).
+If we look at absolute values, we must consider first population-level differences, something I have covered in a study I published with Daniel Plews a few years ago, looking at 9 million HRV measurements collected over many years (see “What Is behind Changes in Resting Heart Rate and Heart Rate Variability? A Large-Scale Analysis of Longitudinal Measurements Acquired in Free-Living“, here).
+Broadly speaking, age is against you and values will lower over decades. Heart rate won’t be impacted this way and therefore remains a better marker of your fitness (probably another reason why it’s worth looking at both your resting heart rate and HRV, as they are not the same thing, especially as we age). In the figure above, you can also see again how broad categories are and how much overlap there is between groups of people that are quite different. Sure, the average HRV of people in their 20s that exercise every day is different from the average HRV of people in their 50s that exercise occasionally. However, at least half of the distribution covers the same range, meaning that many people in these two, very different categories, have the same HRV.
+The difficulty I have with overly stressing behavior is that a strong component comes from your genetics, and might still anchor your HRV to a low value despite your best efforts. What then? The rhetoric that you can always improve, is a bit dangerous. Consider that when looking at a very homogenous sample of people (same age, sex, profession, behavior), you can have HRVs that range between e.g. 15-20ms to 200ms or more. If the absolute value is so important and linked to our behavior, how is that even possible?
 As a random anecdote, consider my brother, who is a smoker, drinks regularly, doesn't exercise, and is a bit overweight. His rMSSD is ~55ms. Mine is ~65ms. I am a bit older than he is, and as you might know, I do not drink, exercise regularly, etc. I suspect me and him are pulled towards ~60ms, genetically speaking, and slightly move it from there with our behavior, which has a marginal role here, it seems. This doesn't mean there is no influence of behavior on HRV but I want to stress that there is more to it, and just like in most other things, genetics plays a role (and it does so from different angles: the value itself, how the value changes in response to a certain behavior, etc.).
-
-I find this similar to what happens with training. **You do the work and can make enormous changes with respect to where you have started from, but still, you’ll have a genetic ceiling that might be quite mediocre in absolute terms** (just like me with running, [I have made great progress](https://marcoaltini.substack.com/p/how-to-turn-the-worst-running-economy) but I am still not getting anywhere meaningful if we look at it in absolute terms - and of course, I never will no matter how I train. You need different genetics to run a sub-2 hour marathon).
-
+I find this similar to what happens with training. You do the work and can make enormous changes with respect to where you have started from, but still, you’ll have a genetic ceiling that might be quite mediocre in absolute terms (just like me with running, I have made great progress but I am still not getting anywhere meaningful if we look at it in absolute terms - and of course, I never will no matter how I train. You need different genetics to run a sub-2 hour marathon).
 Andrew also mentions that HRV is impacted by health conditions (history of trauma, concussions, sleep apnea, etc,) medications, environment, etc. and all of these can be important aspects to look into before concluding genetics.
-
-[A recent study by his group](https://pubmed.ncbi.nlm.nih.gov/42405474/), led by González-Fimbres provides a useful addition to this discussion. In particular, the researchers asked 67 adults to take **[a seated, one-minute measurement after waking](https://marcoaltini.substack.com/p/monitoring-hrv-why-the-orthostatic)** for seven consecutive days. They then examined the relationship between average resting heart rate, LnRMSSD, and the number of metabolic syndrome components present.
-
-Initially, the results seemed to support the usual interpretation of HRV and health: a higher LnRMSSD was associated with fewer metabolic syndrome components. However, things changed when heart rate and HRV were included in the same model. **The association between HRV and metabolic burden was substantially attenuated and was no longer significant, while resting heart rate remained the stronger predictor.** HRV corrected for its relationship with heart rate was also not associated with metabolic burden.
-
-Hence, it seems that when it comes to health, much of the cross-sectional information contained in absolute HRV may overlap with the information already provided by resting heart rate. The findings are also consistent with our previous large-scale analysis of 28,175 people and 9 million measurements. **In our paper, resting heart rate was more strongly associated with physical activity level than HRV, whereas HRV showed larger relative changes in response to acute stressors such as training, sickness and alcohol intake**.
-
-To me, these findings highlight that the best metric depends on the question. Resting heart rate may be more informative when looking at stable differences in fitness or cardiometabolic health between people. **HRV can be more useful when tracking how the same person responds to stress over time.**
-
+A recent study by his group, led by González-Fimbres provides a useful addition to this discussion. In particular, the researchers asked 67 adults to take a seated, one-minute measurement after waking for seven consecutive days. They then examined the relationship between average resting heart rate, LnRMSSD, and the number of metabolic syndrome components present.
+Initially, the results seemed to support the usual interpretation of HRV and health: a higher LnRMSSD was associated with fewer metabolic syndrome components. However, things changed when heart rate and HRV were included in the same model. The association between HRV and metabolic burden was substantially attenuated and was no longer significant, while resting heart rate remained the stronger predictor. HRV corrected for its relationship with heart rate was also not associated with metabolic burden.
+Hence, it seems that when it comes to health, much of the cross-sectional information contained in absolute HRV may overlap with the information already provided by resting heart rate. The findings are also consistent with our previous large-scale analysis of 28,175 people and 9 million measurements. In our paper, resting heart rate was more strongly associated with physical activity level than HRV, whereas HRV showed larger relative changes in response to acute stressors such as training, sickness and alcohol intake.
+To me, these findings highlight that the best metric depends on the question. Resting heart rate may be more informative when looking at stable differences in fitness or cardiometabolic health between people. HRV can be more useful when tracking how the same person responds to stress over time.
 Where does this bring us?
-
-Given what I mention above, I still have a hard time with chasing high numbers. **It doesn’t mean you shouldn’t look at what can be improved, but possibly a healthy behavior is more important than a higher HRV**. 
-
+Given what I mention above, I still have a hard time with chasing high numbers. It doesn’t mean you shouldn’t look at what can be improved, but possibly a healthy behavior is more important than a higher HRV.
 A way I can think of this is that maybe - and just maybe - it can be worth focusing on increasing HRV if we are young (say < 30-35 years old) and your HRV is particularly low (say < 20 ms in rMSSD).
-
-**Just like with most other markers, we gain the most when we get out of the lowest quantile**. If we start taking a few steps per day, we already get to a much better place with respect to when we are not doing so. Taking 10 times those steps, won’t get us 10 times the benefits. Maybe with HRV we could also think that way (even though I’d always want to also look at this independently of heart rate, as **a lower heart rate, which is more strongly associated with physical activity behavior, maybe remains ‘protective’ regardless of a lower HRV**). Just some thoughts, **but otherwise, there might be more to lose with the obsessive chase for higher numbers (where does that even end?)**. I do know people with a lifestyle and life history similar to mine, with values that are below 20 ms. Maybe it is not so simple or controllable (or important?). 
-
-**A lot of this conversation probably can be simplified by adding context**: **if I am thinking about the broad population, sure, there is no doubt HRV can be improved in most people**. But is that about HRV? or is it just the basics of a healthy lifestyle? Do we need HRV for that or could we do that regardless? **Is a low HRV in the population just indicative of something obvious**, like modern issues with lack of exercise and a poor diet (obesity, diabetes, etc.) and the alienation with the rat race, **or is there something more to it? I don’t think we know**. If I instead think about “people like me”, I still have my doubts that we can improve our HRV, if lifestyle and other aspects discussed here are already taken care of. If my HRV is anchored around the 60ms for rMSSD, genetically speaking, sure thing I can sink it if I stop exercising, eat poorly, drink alcohol, etc. - but there is nothing I can do to get it to 100ms. **Context is key, as always!**
-
-Finally, it is different to look at population-level values (differences between groups of people), and to look at the individual. **We cannot translate these studies into something that has meaning or with a certain outcome for an individual**. **It is just group statistics**. Just like I showed above with the example of this recent study about depression, the fact that you have a difference between groups and that a lower HRV might be present in the group with a health condition, on average, means nothing in terms of diagnostics for the individual. However, the individual (me, you, etc.) will always translate that study into “my HRV is low and I should really be worried”, which might not be the case. **People with an HRV that is the same as yours or lower, were also present in the control or healthy group.**
-
-**It is probably true that HRV is not just relative**, but using it in relative terms is something anyone can do, and therefore worth stressing for practical utility, I believe.
-
-**Look at differences with respect to your own normal range**, to determine if you are responding poorly to the current stressors you are up against, or not. **In the [HRV4Training](https://www.hrv4training.com/) app we use the past two months of your measurements to determine your normal range**, and show you where you stand on any given day. It doesn't matter if your HRV is in the 20s or in the 100s in terms of rMSSD. **As long as HRV is within your normal range when measured at the right time** (e.g. first thing in the morning) **it means you are bouncing back quickly from stressors and can likely proceed as planned.**
-
-If you feel like there is room for improvement in your life, by all means try to get there and this might be reflected in a higher HRV. However, I would still recommend to **focus on relative changes, and not to take your absolute HRV value too seriously**, or it might quickly get counterproductive. 
-
-**Getting anxious about your HRV is no good way to improve it.**
-
-# **Personal Coaching for Runners**
-
-Please apply [here](https://docs.google.com/forms/d/1X-deb1EQCa7t4eO-zxllEIR3LO-g6HBeiB97vdX2rMM/edit) should you be interested in working with me.
-
-You can also learn more about my coaching, [here](https://marcoaltini.substack.com/p/coachcorner-my-training-philosophy).
-
+Just like with most other markers, we gain the most when we get out of the lowest quantile. If we start taking a few steps per day, we already get to a much better place with respect to when we are not doing so. Taking 10 times those steps, won’t get us 10 times the benefits. Maybe with HRV we could also think that way (even though I’d always want to also look at this independently of heart rate, as a lower heart rate, which is more strongly associated with physical activity behavior, maybe remains ‘protective’ regardless of a lower HRV). Just some thoughts, but otherwise, there might be more to lose with the obsessive chase for higher numbers (where does that even end?). I do know people with a lifestyle and life history similar to mine, with values that are below 20 ms. Maybe it is not so simple or controllable (or important?).
+A lot of this conversation probably can be simplified by adding context: if I am thinking about the broad population, sure, there is no doubt HRV can be improved in most people. But is that about HRV? or is it just the basics of a healthy lifestyle? Do we need HRV for that or could we do that regardless? Is a low HRV in the population just indicative of something obvious, like modern issues with lack of exercise and a poor diet (obesity, diabetes, etc.) and the alienation with the rat race, or is there something more to it? I don’t think we know. If I instead think about “people like me”, I still have my doubts that we can improve our HRV, if lifestyle and other aspects discussed here are already taken care of. If my HRV is anchored around the 60ms for rMSSD, genetically speaking, sure thing I can sink it if I stop exercising, eat poorly, drink alcohol, etc. - but there is nothing I can do to get it to 100ms. Context is key, as always!
+Finally, it is different to look at population-level values (differences between groups of people), and to look at the individual. We cannot translate these studies into something that has meaning or with a certain outcome for an individual. It is just group statistics. Just like I showed above with the example of this recent study about depression, the fact that you have a difference between groups and that a lower HRV might be present in the group with a health condition, on average, means nothing in terms of diagnostics for the individual. However, the individual (me, you, etc.) will always translate that study into “my HRV is low and I should really be worried”, which might not be the case. People with an HRV that is the same as yours or lower, were also present in the control or healthy group.
+It is probably true that HRV is not just relative, but using it in relative terms is something anyone can do, and therefore worth stressing for practical utility, I believe.
+Look at differences with respect to your own normal range, to determine if you are responding poorly to the current stressors you are up against, or not. In the HRV4Training app we use the past two months of your measurements to determine your normal range, and show you where you stand on any given day. It doesn't matter if your HRV is in the 20s or in the 100s in terms of rMSSD. As long as HRV is within your normal range when measured at the right time (e.g. first thing in the morning) it means you are bouncing back quickly from stressors and can likely proceed as planned.
+If you feel like there is room for improvement in your life, by all means try to get there and this might be reflected in a higher HRV. However, I would still recommend to focus on relative changes, and not to take your absolute HRV value too seriously, or it might quickly get counterproductive.
+Getting anxious about your HRV is no good way to improve it.
+Personal Coaching for Runners
+Please apply here should you be interested in working with me.
+You can also learn more about my coaching, here.
 Thank you!
-
-# **The Book**
-
-Our book is out and available for purchase from Human Kinetics’ website, [here](https://us.humankinetics.com/products/heart-rate-variability?srsltid=AfmBOoqgL-RSa3BBf6erjCqniOTpJOYqBmPRe0lykDQerItbRZWhNHF2) (or on [Amazon](https://www.amazon.com/Heart-Rate-Variability-Strategies-Performance/dp/1718236093)).
-
-# **How to Show Your Support**
-
+The Book
+Our book is out and available for purchase from Human Kinetics’ website, here (or on Amazon).
+How to Show Your Support
 No paywalls here. All my content is and will remain free.
-
-As a [HRV4Training](https://hrv4training.com/) user, the best way to help is to sign up for [HRV4Training Pro](https://hrv4training.web.app/).
-
+As a HRV4Training user, the best way to help is to sign up for HRV4Training Pro.
 Thank you for supporting my work.
-
-Marco holds a PhD cum laude in applied machine learning, a M.Sc. cum laude in computer science engineering, and a M.Sc. cum laude in human movement sciences and high-performance coaching. He is a [certified Ultrarunning Coach](https://marcoaltini.substack.com/p/coachcorner-my-training-philosophy).
-
-Marco [has published](https://www.researchgate.net/profile/Marco_Altini?source=post_page---------------------------) more than 50 papers and patents at the intersection between physiology, health, technology, and human performance.
-
-He is co-founder of [HRV4Training](https://www.hrv4training.com/), [Endurance Coach](https://marcoaltini.substack.com/p/coachcorner-my-training-philosophy) at Destination Unknown, advisor at [Oura](https://ouraring.com) and [augo](https://augotraining.com/en), guest lecturer at VU Amsterdam, and editor for IEEE Pervasive Computing Magazine. He loves running.
-
-**Social**:
-
-- Personal [Substack](https://marcoaltini.substack.com/)
-- **Strava**
-- **Instagram**
+Marco holds a PhD cum laude in applied machine learning, a M.Sc. cum laude in computer science engineering, and a M.Sc. cum laude in human movement sciences and high-performance coaching. He is a certified Ultrarunning Coach.
+Marco has published more than 50 papers and patents at the intersection between physiology, health, technology, and human performance.
+He is co-founder of HRV4Training, Endurance Coach at Destination Unknown, advisor at Oura and augo, guest lecturer at VU Amsterdam, and editor for IEEE Pervasive Computing Magazine. He loves running.
+Social:
+- Personal Substack 
+- Strava 
+- Instagram
