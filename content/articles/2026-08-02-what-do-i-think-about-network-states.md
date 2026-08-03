@@ -9,6 +9,7 @@ source: "https://vitalik.ca/general/2022/07/13/networkstates.html"
 estimated_pages: 26
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-what-do-i-think-about-network-states.pdf"
 tags: []
 ---
 
