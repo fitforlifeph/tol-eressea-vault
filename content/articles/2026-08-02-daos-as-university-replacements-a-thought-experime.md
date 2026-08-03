@@ -9,6 +9,7 @@ source: "https://kassen.substack.com/p/daos-as-university-replacements-a"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-daos-as-university-replacements-a-thought-experime.pdf"
 tags: []
 ---
 
