@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/for-simone-weil-our-capacity-to-suffer-united-us
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-for-simone-weil-our-capacity-to-suffer-united-us-a.pdf"
 tags: []
 ---
 
