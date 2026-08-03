@@ -7,8 +7,8 @@ saved: 2024-04-04T00:00:00+00:00
 created: 2024-04-04T00:00:00+00:00
 source: "https://ofdollarsanddata.com/the-best-way-to-get-things-done/"
 estimated_pages: 9
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
