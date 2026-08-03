@@ -7,8 +7,8 @@ saved: 2024-08-11T00:00:00+00:00
 created: 2024-08-11T00:00:00+00:00
 source: "https://www.cambridge.org/core/journals/public-health-nutrition/article/association-between-consumption-of-small-fish-and-allcause-mortality-among-japanese-the-japan-multiinstitutional-collaborative-cohort-study/47E8745FA2D52366394DF85A6A9A0674"
 estimated_pages: 27
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
