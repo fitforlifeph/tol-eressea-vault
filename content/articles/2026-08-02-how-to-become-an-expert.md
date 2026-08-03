@@ -9,6 +9,7 @@ source: "https://psyche.co/guides/how-to-become-an-expert-and-navigate-the-bumps
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-become-an-expert.pdf"
 tags: []
 ---
 
