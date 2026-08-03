@@ -9,6 +9,7 @@ source: "https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-review
 estimated_pages: 5
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-diet-review-mediterranean-diet.pdf"
 tags: []
 ---
 
