@@ -7,8 +7,8 @@ saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "http://womenintheology.org/2014/04/20/rowan-williams-teresa-of-avila-and-an-easter-spirituality/"
 estimated_pages: 8
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
