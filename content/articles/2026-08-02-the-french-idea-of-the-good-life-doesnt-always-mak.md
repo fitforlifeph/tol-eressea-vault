@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/chartreuse-economic-theology-and-the-french-spir
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-the-french-idea-of-the-good-life-doesnt-always-mak.pdf"
 tags: []
 ---
 
