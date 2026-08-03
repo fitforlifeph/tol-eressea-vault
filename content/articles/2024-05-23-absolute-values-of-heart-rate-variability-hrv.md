@@ -9,6 +9,7 @@ source: "https://marcoaltini.substack.com/p/absolute-values-of-heart-rate-variab
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-23-absolute-values-of-heart-rate-variability-hrv.pdf"
 tags: []
 ---
 
