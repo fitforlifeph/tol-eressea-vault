@@ -9,6 +9,7 @@ source: "https://www.sahilbloom.com/newsletter/the-best-ideas-of-2023"
 estimated_pages: 10
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-02-01-the-best-ideas-of-2023-the-curiosity-chronicle.pdf"
 tags: []
 ---
 
