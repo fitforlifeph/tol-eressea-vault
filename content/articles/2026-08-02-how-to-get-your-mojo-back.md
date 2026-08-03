@@ -9,6 +9,7 @@ source: "https://psyche.co/guides/how-to-get-your-mojo-back"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-get-your-mojo-back.pdf"
 tags: []
 ---
 
