@@ -7,8 +7,8 @@ saved: 2022-12-27T00:00:00+00:00
 created: 2022-12-27T00:00:00+00:00
 source: "https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat"
 estimated_pages: 26
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
