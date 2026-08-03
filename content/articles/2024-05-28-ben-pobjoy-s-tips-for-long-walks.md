@@ -9,6 +9,7 @@ source: "https://craigmod.com/ridgeline/187/"
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-05-28-ben-pobjoy-s-tips-for-long-walks.pdf"
 tags: []
 ---
 
