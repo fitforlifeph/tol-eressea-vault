@@ -9,6 +9,7 @@ source: "https://www.answer.ai/posts/2025-01-08-devin.html"
 estimated_pages: 15
 status: incomplete
 draft: true
+pdf_url: "https://archive.javierpgomez.com/articles/2025-02-23-thoughts-on-a-month-with-devin-answer-ai.pdf"
 tags: []
 ---
 
