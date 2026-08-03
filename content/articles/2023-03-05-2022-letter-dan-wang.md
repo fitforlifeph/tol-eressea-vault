@@ -7,8 +7,8 @@ saved: 2023-03-05T00:00:00+00:00
 created: 2023-03-05T00:00:00+00:00
 source: "https://danwang.co/2022-letter/"
 estimated_pages: 40
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
