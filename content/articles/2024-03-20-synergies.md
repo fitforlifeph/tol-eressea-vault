@@ -10,6 +10,7 @@ estimated_pages: 12
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2024-03-20-synergies.pdf"
+archive_url: "https://web.archive.org/web/https://toddhargrove.substack.com/p/synergies?publication_id=408952&post_id=142365560&isFreemail=true&r=1owzhk&triedRedirect=true"
 tags: []
 ---
 
