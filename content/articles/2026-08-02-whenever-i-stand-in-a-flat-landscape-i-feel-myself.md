@@ -9,6 +9,7 @@ source: "https://aeon.co/essays/flat-places-are-the-ground-that-my-mind-is-built
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-whenever-i-stand-in-a-flat-landscape-i-feel-myself.pdf"
 tags: []
 ---
 
