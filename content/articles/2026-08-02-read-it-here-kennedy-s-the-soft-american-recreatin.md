@@ -9,6 +9,7 @@ source: "http://www.recreatingwithkids.com/news/read-it-here-kennedys-the-soft-a
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-read-it-here-kennedy-s-the-soft-american-recreatin.pdf"
 tags: []
 ---
 
