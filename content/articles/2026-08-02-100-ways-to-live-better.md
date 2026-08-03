@@ -9,6 +9,7 @@ source: "https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-bett
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-100-ways-to-live-better.pdf"
 tags: []
 ---
 
