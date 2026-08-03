@@ -9,6 +9,7 @@ source: "https://newsletter.pathlesspath.com/p/on-travel-living-abroad-and-losin
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-10-26-on-travel-living-abroad-losing-your-self-244.pdf"
 tags: []
 ---
 
