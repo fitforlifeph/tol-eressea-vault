@@ -9,6 +9,7 @@ source: "https://psyche.co/guides/how-to-appreciate-buildings-by-tuning-into-the
 estimated_pages: 19
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-how-to-appreciate-buildings.pdf"
 tags: []
 ---
 
