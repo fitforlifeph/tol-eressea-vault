@@ -9,6 +9,7 @@ source: "https://annehelen.substack.com/p/i-had-been-hating-my-body-like-it"
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-i-had-been-hating-my-body-like-it-was-a-job-for-ye.pdf"
 tags: []
 ---
 
