@@ -7,8 +7,8 @@ saved: 2023-01-17T00:00:00+00:00
 created: 2023-01-17T00:00:00+00:00
 source: "https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/"
 estimated_pages: 9
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
