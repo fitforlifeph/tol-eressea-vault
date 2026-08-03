@@ -9,6 +9,7 @@ source: "https://orionmagazine.org/article/interstitium-scientific-discovery-ana
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-invisible-landscapes.pdf"
 tags: []
 ---
 
