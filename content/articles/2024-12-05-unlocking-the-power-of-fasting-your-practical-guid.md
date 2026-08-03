@@ -7,8 +7,8 @@ saved: 2024-12-05T00:00:00+00:00
 created: 2024-12-05T00:00:00+00:00
 source: "https://drhyman.com/blogs/content/unlocking-the-power-of-fasting"
 estimated_pages: 8
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
