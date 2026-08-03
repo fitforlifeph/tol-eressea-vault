@@ -7,8 +7,8 @@ saved: 2023-10-10T00:00:00+00:00
 created: 2023-10-10T00:00:00+00:00
 source: "https://www.theguardian.com/science/2023/sep/23/eat-beans-and-scratch-your-own-back-expert-advice-on-how-to-age-better-inside-and-out"
 estimated_pages: 10
-status: incomplete
-draft: true
+status: complete
+draft: false
 tags: []
 ---
 
