@@ -10,7 +10,6 @@ estimated_pages: 40
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2023-03-05-2022-letter-dan-wang.pdf"
-archive_url: "https://web.archive.org/web/20260710125029/https://danwang.co/2022-letter/"
 tags: []
 ---
 
