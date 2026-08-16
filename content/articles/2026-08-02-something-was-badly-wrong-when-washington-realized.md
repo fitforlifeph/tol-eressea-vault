@@ -9,6 +9,7 @@ source: "https://www.politico.com/news/magazine/2023/02/24/russia-ukraine-war-or
 estimated_pages: 92
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-something-was-badly-wrong-when-washington-realized.pdf"
 tags: []
 ---
 
