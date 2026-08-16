@@ -9,6 +9,7 @@ source: "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-wha
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-16-i-hate-what-ai-is-doing-to-the-minds-and-happiness.pdf"
 tags: []
 ---
 
