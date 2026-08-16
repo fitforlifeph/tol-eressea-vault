@@ -9,6 +9,7 @@ source: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)0075
 estimated_pages: 30
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-effectiveness-and-cost-effectiveness-of-an-individ.pdf"
 tags: []
 ---
 
