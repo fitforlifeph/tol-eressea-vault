@@ -9,6 +9,7 @@ source: "https://journals.sagepub.com/doi/full/10.1177/01461672221143783"
 estimated_pages: 28
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-lets-enjoy-an-evening-on-the-couch-a-daily-life-in.pdf"
 tags: []
 ---
 
