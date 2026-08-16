@@ -3,10 +3,10 @@ title: "Exposure to sugar rationing in the first 1000 days of life protected aga
 author: "Gracner, Tadeja; Boone, Claire; Gertler, Paul J."
 publication: "Science"
 published: 2024-11-29
-saved: 2026-08-16T07:59:47.232205+00:00
-created: 2026-08-16T07:59:47.232205+00:00
+saved: 2026-08-16T08:00:49.379600+00:00
+created: 2026-08-16T08:00:49.379600+00:00
 source: "https://www.science.org/doi/10.1126/science.adn5421"
-estimated_pages: 20
+estimated_pages: 21
 status: complete
 draft: false
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 We examined the impact of exposure to sugar restrictions within 1000 days after conception on type 2 diabetes and hypertension, leveraging quasi-experimental variation from the end of the United Kingdom’s sugar rationing in September 1953. Rationing restricted sugar intake to levels within current dietary guidelines, and consumption nearly doubled immediately after rationing ended. Using an event study design with UK Biobank data comparing adults conceived just before or after rationing ended, we found that early-life rationing reduced type 2 diabetes and hypertension risk by about 35 and 20% and delayed disease onset by 4 and 2 years, respectively. Protection was evident with in utero exposure and increased with postnatal sugar restriction, especially after 6 months, when eating of solid foods likely began. In utero sugar rationing alone accounted for about one-third of the risk reduction.
 
-## Introduction
+## INTRODUCTION
 
 The first 1000 days after conception – from gestation until age 2 (early life) - is a critical window during which poor diet can negatively affect adult health.(1, 2) Current dietary guidelines recommend zero added sugars during this period,(3) but in the United States, many children are exposed to excessive sugar through maternal diet in utero and while breastfeeding and then, directly, by consuming infant formula and solids.(4) Pregnant and lactating women consume, on average, more than triple the recommended amount of added sugar, surpassing 80 grams per day,(5) and most infants and toddlers consume sweetened foods and beverages daily.(6)
 
@@ -26,9 +26,9 @@ This study leveraged a natural experiment: the end of a decade-long sugar and sw
 
 To assess the effects of early-life sugar exposure on T2DM and hypertension, we used an event study approach to compare adults conceived shortly before rationing ended, with probable lower early-life sugar intake, against those conceived shortly after, with likely exposure to excessive sugar early in life. We hypothesized that exposure to sugar rationing in utero and early childhood reduced the risk and delayed the onset of T2DM and hypertension, with longer exposure having stronger effects.
 
-## Results
+## RESULTS
 
-Dietary patterns during and after sugar and sweets rationing
+## Dietary patterns during and after sugar and sweets rationing
 
 Fig. 1A describes percentage changes in average daily consumption of sugar in the UK from quarter 1 of 1950 (1950 q1) to 1958 q4, compared with average consumption levels during rationing, along with the intake of produce (fruits and vegetables), and total protein and fats over the same period. A vertical line marks the end of sugar rationing in September 1953. For an average adult, daily sugar consumption sharply increased from 41 g in 1953 q1 to about 80 g by 1954 q3; this similarly high level was sustained for several years. These data are for adults, but other research has shown that sugar intake for children more than doubled postrationing and that their oral health deteriorated as well.(21, 23). Relatively higher added sugar consumption for those conceived postrationing was maintained into the sixth decade of life.(24)
 
@@ -38,7 +38,7 @@ Although sugar was not the only food derationed during our study period, and all
 
 In summary, the quick and sharp response in consumption and sales of sugar and sweets consumption immediately after the derationing, unlike for other foods, strengthens our research design. We examined whether there are differences in outcomes among individuals born within a few months of each other – specifically, cohorts conceived or born just before compared to just after sugar and sweets rationing ended.
 
-Study population characteristics
+## Study population characteristics
 
 The sample included 60,183 participants born between October 1951 and March 1956, aged 51 to 66 when surveyed. Adults conceived in the 1000 days before September 1953 were classified as “rationed” (born October 1951 to June 1954, n=38,155), and adults conceived after were classified as “never-rationed” (born July 1954 to March 1956, n=22,028). Figure 1B shows a timeline of exposure to rationing by calendar birth month. See Table S1 for a sample distribution of births.
 
@@ -47,37 +47,21 @@ Table 1 shows balance in time-invariant characteristics between rationed and nev
 Table 1: Characteristics of survey participants born between October 1951 and March 1956.
 
 | Rationed (n=38,155) | Not Rationed (n=22,028) | Total n = 60,183 | |
-
 |---|---|---|---|
-
 | Characteristic | n (Mean in %) | n (Mean in %) | Difference (percentage points) |
-
 | Age at the latest survey | 57.24 (SD=3.24) | 55.04 (SD=3.37) | 2.19*** (years) |
-
-## | Sex | |||
-
+| Sex | |||
 | Male | 16,754 (43.91) | 9,633 (43.73) | 0.19 |
-
 | Female | 21,401 (56.09) | 12,395 (56.28) | - |
-
 | Place of birth | |||
-
 | England | 32,745 (85.82) | 18,743 (85.09) | 0.73* |
-
 | Wales | 1,927 (5.05) | 1,082 (4.91) | 0.14 |
-
 | Scotland | 3,483 (9.13) | 2,203 (10.00) | - |
-
-## | Race/Ethnicity | |||
-
+| Race/Ethnicity | |||
 | Non-white | 2,606 (6.83) | 1,507 (6.84) | −0.01 |
-
 | White | 35,549 (93.17) | 20,521 (93.16) | - |
-
 | BMI polygenic z-score (SD) | 0.000 (SD=1.003) | 0.002 (SD=0.996) | −0.00 |
-
 | Parents diagnosed with CVD1 | 22,227 (62.69) | 12,872 (63.22) | −0.53 |
-
 | Parents diagnosed with diabetes | 5,967 (16.83) | 3,671 (18.03) | −1.20 |
 
 Asterisks indicate significant difference as follows: * p < 0.05, ** p < 0.01, *** p< 0.001. Romano-Wolf step-down adjusted p values. Because of rounding, reported percentages may not total 100. BMI, body mass index.
@@ -99,65 +83,35 @@ Guided by HRs suggesting a similar disease risk between cohorts in the absence o
 Table 2. The effect of rationing on disease risk and age of disease onset by duration of exposure to rationing.
 
 | Type 2 diabetes | Hypertension | |
-
 |---|---|---|
-
 | A: Disease Hazard Ratio | (n=60,183) | (n=60,183) |
-
 | 1954 m7–1956 m3 | 1954 m7–1956 m3 | |
-
 | Rationing exposure: | (reference group) | (reference group) |
-
 | In utero vs 0 | 0.87 *** | 0.92 ** |
-
 | SE | (0.03) | (0.02) |
-
 | 95% CI | 0.81 – 0.94 | 0.88 – 0.97 |
-
 | p-value | (0.000) | (0.001) |
-
 | In utero + up to 1 year vs 0 | 0.75 *** | 0.85 *** |
-
 | SE | (0.04) | (0.02) |
-
 | 95% CI | 0.68 – 0.84 | 0.81 – 0.89 |
-
 | p-value | (0.000) | (0.000) |
-
 | In utero + up to 2 years vs 0 | 0.64 *** | 0.81 *** |
-
 | SE | (0.02) | (0.02) |
-
 | 95% CI | 0.60 – 0.69 | 0.77 – 0.84 |
-
 | p-value | (0.000) | (0.000) |
-
 | B: Delay in age of onset (years) | ||
-
 | Rationing exposure: | ||
-
 | In utero vs 0 | 1.46 ** | 0.53 * |
-
 | SE | (0.52) | (0.24) |
-
 | 95% CI | 0.45– 2.48 | 0.07 – 1.00 |
-
 | p-value | (0.005) | (0.028) |
-
 | In utero + up to 1 year vs 0 | 2.80 *** | 1.47 *** |
-
 | SE | (0.61) | (0.28) |
-
 | 95% CI | 1.61 – 4.00 | 0.93 – 2.01 |
-
 | p-value | (0.000) | (0.000) |
-
 | In utero + up to 2 years vs 0 | 4.17 *** | 2.12 *** |
-
 | SE | (0.55) | (0.24) |
-
 | 95% CI | 3.10 – 5.24 | 1.65– 2.60 |
-
 | p-value | (0.000) | (0.000) |
 
 Asterisks indicate significance as follows: *p< 0.05, **p < 0.01, ***p < 0.001.
@@ -168,7 +122,7 @@ Figure S9 illustrates a roughly 30% decrease in risk of obesity as first diagnos
 
 Figure S11 and Table S5 describe goodness of fit for parametric hazard models with Gompertz baseline parametrization and the criteria for these findings. Figure S12 presents a test of proportionality assumptions. Results remained robust across various model specifications (Table S6) including adjusting models for changes in food affordability (Figure S13).
 
-## Discussion
+## DISCUSSION
 
 We examined the impact of exposure to sugar restrictions during the first 1000 days after conception on T2DM and hypertension, leveraging quasi-experimental variation from the UK’s end of sugar and sweets rationing in September 1953. Derationing nearly doubled sugar consumption. We found that early-life exposure to sugar rationing led to a reduction in T2DM and hypertension risk by about 35 and 20% and delayed the onset of these diseases by about 4 and 2 years, respectively. In utero sugar rationing alone was protective, but most risk reduction occurred when rationing lasted beyond the age of six months.
 
@@ -198,7 +152,7 @@ This research was conducted using the UK Biobank Resource under application numb
 
 ## Funding:
 
-National Institutes of Health - R01AG065482 (Tadeja Gracner)
+## National Institutes of Health - R01AG065482 (Tadeja Gracner)
 
 National Institutes of Health - P30AG012815 (pilot PI Tadeja Gracner)
 
@@ -208,11 +162,11 @@ National Institutes of Health - P30AG012839 (Will Dow).
 
 ## Footnotes
 
-Data and materials availability:
+## Data and materials availability:
 
 UK Biobank data are available to obtain directly through the UK Biobank data application process. UK Biobank data were made available to us under a material transfer agreement with RAND, the University of Southern California, the University of California, Berkeley, and the University of Chicago. STATA code and all other study data, such as data on quarterly food prices, food consumption, and annual sugar and sweet sales, are available in the Dryad and Zenodo repositories.(46, 47)
 
-## References And Notes
+## REFERENCES AND NOTES
 
 - 1.Schwarzenberg SJ et al. , Advocacy for improving nutrition in the first 1000 days to support childhood development and adult health. Pediatrics 141, (2018). [DOI] [PubMed] [Google Scholar]
 
