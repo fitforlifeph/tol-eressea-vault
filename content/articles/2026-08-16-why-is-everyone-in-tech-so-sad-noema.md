@@ -9,6 +9,7 @@ source: "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-16-why-is-everyone-in-tech-so-sad-noema.pdf"
 tags: []
 ---
 
