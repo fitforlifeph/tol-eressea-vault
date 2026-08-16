@@ -3,10 +3,10 @@ title: "Exposure to sugar rationing in the first 1000 days of life protected aga
 author: "Gracner, Tadeja; Boone, Claire; Gertler, Paul J."
 publication: "Science"
 published: 2024-11-29
-saved: 2026-08-16T08:00:49.379600+00:00
-created: 2026-08-16T08:00:49.379600+00:00
+saved: 2026-08-16T08:05:17.804156+00:00
+created: 2026-08-16T08:05:17.804156+00:00
 source: "https://www.science.org/doi/10.1126/science.adn5421"
-estimated_pages: 21
+estimated_pages: 14
 status: complete
 draft: false
 tags: []
@@ -143,131 +143,3 @@ Another limitation was that UK Biobank is not nationally representative and skew
 This study has several strengths. A quasi-experimental assignment to higher or lower early-life sugar exposure strengthens the likely causal nature of our findings. We accounted for confounding factors and consistently observed a protective effect of sugar rationing across various analytical specifications. We provided strong evidence that the health impacts observed were likely due to changes in sugar calorie consumption rather than shifts in consumption of other nutrient consumption. Finally, our large sample enabled separate identification of in utero and in utero/postnatal effects while still using a narrow analytic window, and subgroup analyses by sex.
 
 We conclude that limiting exposure to sugar in utero and in early life can protect against T2DM and hypertension. Further research is needed to understand the optimal levels of added sugar consumption during pregnancy, lactation, and after the introduction of solids, as well as their pathways to influencing long-term health.
-
-## Supplementary Material
-
-## Acknowledgements:
-
-This research was conducted using the UK Biobank Resource under application number 58599. Data were made available to us under a material transfer agreement with RAND, the University of Southern California, the University of California, Berkeley, and the University of Chicago. This work used data provided by patients and collected by the National Health Service as part of their care and support. Research reported in this publication was supported by the National Institute on Aging of the National Institutes of Health under award numbers R01AG065482, P30AG012815, P30AG012839, and T32AG000243. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. We are grateful to L. Bai for valuable contributions to our early discussions and assistance with the initial collection of consumption data from historical reports. We also thank attendees of the American Society of Health Economists (ASHEcon) and academic seminars for helpful input on the paper.
-
-## Funding:
-
-## National Institutes of Health - R01AG065482 (Tadeja Gracner)
-
-National Institutes of Health - P30AG012815 (pilot PI Tadeja Gracner)
-
-National Institutes of Health - T32AG000243 (David Meltzer).
-
-National Institutes of Health - P30AG012839 (Will Dow).
-
-## Footnotes
-
-## Data and materials availability:
-
-UK Biobank data are available to obtain directly through the UK Biobank data application process. UK Biobank data were made available to us under a material transfer agreement with RAND, the University of Southern California, the University of California, Berkeley, and the University of Chicago. STATA code and all other study data, such as data on quarterly food prices, food consumption, and annual sugar and sweet sales, are available in the Dryad and Zenodo repositories.(46, 47)
-
-## REFERENCES AND NOTES
-
-- 1.Schwarzenberg SJ et al. , Advocacy for improving nutrition in the first 1000 days to support childhood development and adult health. Pediatrics 141, (2018). [DOI] [PubMed] [Google Scholar]
-
-- 2.Gluckman PD, Hanson MA, Cooper C, Thornburg KL, Effect of in utero and early-life conditions on adult health and disease. New England journal of medicine 359, 61–73 (2008). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 3.Snetselaar LG, de Jesus JM, DeSilva DM, Stoody EE, Dietary guidelines for Americans, 2020–2025: understanding the scientific process, guidelines, and key recommendations. Nutrition today 56, 287 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 4.Walker RW, Goran MI, Laboratory determined sugar content and composition of commercial infant formulas, baby foods and common grocery items targeted to children. Nutrients 7, 5850–5867 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 5.Cioffi CE, Figueroa J, Welsh JA, Added sugar intake among pregnant women in the United States: National Health and nutrition examination survey 2003–2012. Journal of the Academy of Nutrition and Dietetics 118, 886–895. e881 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 6.Herrick KA, Fryar CD, Hamner HC, Park S, Ogden CL, Added sugars intake among US infants and toddlers. Journal of the Academy of Nutrition and Dietetics 120, 23–32 (2020). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 7.Archibald AJ, Dolinsky VW, Azad MB, Early-life exposure to non-nutritive sweeteners and the developmental origins of childhood obesity: global evidence from human and rodent studies. Nutrients 10, 194 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 8.Samuelsson A-M et al. , Diet-induced obesity in female mice leads to offspring hyperphagia, adiposity, hypertension, and insulin resistance: a novel murine model of developmental programming. Hypertension 51, 383–392 (2008). [DOI] [PubMed] [Google Scholar]
-
-- 9.Noble EE et al. , Early-life sugar consumption affects the rat microbiome independently of obesity. The Journal of nutrition 147, 20–28 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 10.Kaiser KA, Shikany JM, Keating KD, Allison DB, Will reducing sugar-sweetened beverage consumption reduce obesity? Evidence supporting conjecture is strong, but evidence when testing effect is weak. Obesity Reviews 14, 620–633 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 11.Almond D, Currie J, Duque V, Childhood circumstances and adult outcomes: Act II. Journal of Economic Literature 56, 1360–1446 (2018). [Google Scholar]
-
-- 12.Almond D, Currie J, Killing me softly: The fetal origins hypothesis. Journal of economic perspectives 25, 153–172 (2011). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 13.Poston L, Gestational weight gain: influences on the long-term health of the child. Current Opinion in Clinical Nutrition & Metabolic Care 15, 252–257 (2012). [DOI] [PubMed] [Google Scholar]
-
-- 14.Hiersch L, Yogev Y, Impact of gestational hyperglycemia on maternal and child health. Current Opinion in Clinical Nutrition & Metabolic Care 17, 255–260 (2014). [DOI] [PubMed] [Google Scholar]
-
-- 15.Basu S, McKee M, Galea G, Stuckler D, Relationship of soft drink consumption to global overweight, obesity, and diabetes: a cross-national analysis of 75 countries. American journal of public health 103, 2071–2077 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 16.Bray GA, Popkin BM, Dietary sugar and body weight: have we reached a crisis in the epidemic of obesity and diabetes? Health be damned! Pour on the sugar. Diabetes care 37, 950–956 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 17.W. H. Organization, Guideline: sugars intake for adults and children. (World Health Organization, 2015). [PubMed] [Google Scholar]
-
-- 18.Te Morenga L, Mallard S, Mann J, Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies. Bmj 346, (2013). [DOI] [PubMed] [Google Scholar]
-
-- 19.Hollingsworth DF, in Nutrients and Energy. (Karger Publishers, 1983), vol. 42, pp. 191–218. [Google Scholar]
-
-- 20.Zweiniger-Bargielowska I, Austerity in Britain: rationing, controls, and consumption, 1939–1955. (OUP Oxford, 2000). [Google Scholar]
-
-- 21.Prynne C et al. , Food and nutrient intake of a national sample of 4-year-old children in 1950: comparison with the 1990s. Public health nutrition 2, 537–547 (1999). [DOI] [PubMed] [Google Scholar]
-
-- 22.Foster R, Lunn J, 40th Anniversary Briefing Paper: Food availability and our changing diet. Nutrition Bulletin 32, 187–249 (2007). [Google Scholar]
-
-- 23.Jackson D, Caries experience in english children and young adults during the years 1947–1972. Brit. Dent. J 137, 91–98 (1974). [DOI] [PubMed] [Google Scholar]
-
-- 24.Gertler P, Gracner T, “The Sweet Life: The Long-Term Effects of a Sugar-Rich Early Childhood,” (National Bureau of Economic Research, 2022). [Google Scholar]
-
-- 25.DEFRA, Family Food historic reports. 2024, (2016). URL: https://www.gov.uk/government/statistics/family-food-historic-reports. Accessed August 19th, 2024.
-
-- 26.Sadler MJ et al. , Dried fruit and public health–what does the evidence tell us? International journal of food sciences and nutrition 70, 675–687 (2019). [DOI] [PubMed] [Google Scholar]
-
-- 27.Martyn C, Barker D, The maternal and fetal origins of cardiovascular disease. Vascular Medicine Review, 129–137 (1994). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 28.Whisner C et al. , Maternal diet but not gestational weight gain predicts central adiposity accretion in utero among pregnant adolescents. International Journal of Obesity 39, 565–570 (2015). [DOI] [PubMed] [Google Scholar]
-
-- 29.Fazzino TL, Kong KL, A new paradigm for investigating the etiology of obesity in early childhood: Exposure to added sugars and hyper-palatable foods in infancy and dysregulation of food reinforcement processes. Obesity Reviews 24, e13526 (2023). [DOI] [PubMed] [Google Scholar]
-
-- 30.Rose CM, Birch LL, Savage JS, Dietary patterns in infancy are associated with child diet and weight outcomes at 6 years. International journal of obesity 41, 783–788 (2017). [DOI] [PubMed] [Google Scholar]
-
-- 31.Birch LL, Development of food preferences. Annual review of nutrition 19, 41–62 (1999). [DOI] [PubMed] [Google Scholar]
-
-- 32.A. A. o. Pediatrics, Bright futures guidelines for health supervision of infants, children, and adolescents. (American Academy of Pediatrics, 2017). [Google Scholar]
-
-- 33.Wei S, Hertle S, Spanagel R, Bilbao A, Female mice are more prone to develop an addictive-like phenotype for sugar consumption. Scientific Reports 11, 7364 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 34.Dearden L, Bouret SG, Ozanne SE, Sex and gender differences in developmental programming of metabolism. Molecular metabolism 15, 8–19 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 35.Khan I et al. , Surrogate adiposity markers and mortality. JAMA Network Open 6, e2334836–e2334836 (2023). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 36.Drewnowski A, The real contribution of added sugars and fats to obesity. Epidemiologic reviews 29, 160–171 (2007). [DOI] [PubMed] [Google Scholar]
-
-- 37.Rippe J, Angelopoulos T, Added sugars and risk factors for obesity, diabetes and heart disease. International Journal of Obesity 40, S22–S27 (2016). [DOI] [PubMed] [Google Scholar]
-
-- 38.Vos MB et al. , Added sugars and cardiovascular disease risk in children: a scientific statement from the American Heart Association. Circulation 135, e1017–e1034 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 39.Group DPPR, 10-year follow-up of diabetes incidence and weight loss in the Diabetes Prevention Program Outcomes Study. The Lancet 374, 1677–1686 (2009). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 40.Kaptoge S et al. , Life expectancy associated with different ages at diagnosis of type 2 diabetes in high-income countries: 23 million person-years of observation. The Lancet Diabetes & Endocrinology 11, 731–742 (2023). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 41.Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC, The scientific basis of guideline recommendations on sugar intake: a systematic review. Annals of internal medicine 166, 257–267 (2017). [DOI] [PubMed] [Google Scholar]
-
-- 42.Grummon AH, Lockwood BB, Taubinsky D, Allcott H, Designing better sugary drink taxes. Science 365, 989–990 (2019). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 43.Pomeranz JL, Harris JL, Federal regulation of infant and toddler food and drink marketing and labeling. American journal of law & medicine 45, 32–56 (2019). [DOI] [PubMed] [Google Scholar]
-
-- 44.Fry A et al. , Comparison of sociodemographic and health-related characteristics of UK Biobank participants with those of the general population. American journal of epidemiology 186, 1026–1034 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 45.Julian Buxton ET, Rozee Stephen, Morgan Ed, Mortality in England and Wales: past and projected trends in average lifespan. 2022.
-
-- 46.Gracner T, Boone C, Gertler PJ, Exposure to Rationing of Added Sugars in the First 1000 Days of Life Protected Against Type 2 Diabetes and Hypertension. [Software]. Zeynodo. Science, (2024). DOI: 10.5281/zenodo.11243443 [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 47.Gracner T, Boone C, Gertler PJ, Exposure to Rationing of Added Sugars in the First 1000 Days of Life Protected Against Type 2 Diabetes and Hypertension. [Database]. Dryad. Science, (2024). DOI: 10.5061/dryad.2v6wwpzwm [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 48.Sudlow C et al. , UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. PLoS medicine 12, e1001779 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-- 49.Thomas NJ et al. , Identifying type 1 and 2 diabetes in research datasets where classification biomarkers are unavailable: assessing the accuracy of published approaches. Journal of clinical epidemiology 153, 34–44 (2023). [DOI] [PubMed] [Google Scholar]
-
-- 50.Becker J et al. , Resource profile and user guide of the Polygenic Index Repository. Nature human behaviour 5, 1744–1758 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-## Associated Data
-
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
