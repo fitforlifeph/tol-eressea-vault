@@ -9,6 +9,7 @@ source: "https://www.tandfonline.com/doi/full/10.1080/1028415X.2023.2298098"
 estimated_pages: 30
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-potential-of-dietary-polyphenols-for-protection-fr.pdf"
 tags: []
 ---
 
