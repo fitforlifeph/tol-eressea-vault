@@ -9,6 +9,7 @@ source: "https://danwang.co/2022-letter/"
 estimated_pages: 40
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-03-05-2022-letter-dan-wang.pdf"
 tags: []
 ---
 
