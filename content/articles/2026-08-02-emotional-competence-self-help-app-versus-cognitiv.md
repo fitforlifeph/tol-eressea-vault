@@ -9,6 +9,7 @@ source: "https://www.sciencedirect.com/science/article/pii/S2589750024001481"
 estimated_pages: 26
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-emotional-competence-self-help-app-versus-cognitiv.pdf"
 tags: []
 ---
 
