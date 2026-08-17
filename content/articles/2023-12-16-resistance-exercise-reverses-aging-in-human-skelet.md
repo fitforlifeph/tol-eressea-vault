@@ -9,6 +9,7 @@ source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1866181/"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-12-16-resistance-exercise-reverses-aging-in-human-skelet.pdf"
 tags: []
 ---
 
