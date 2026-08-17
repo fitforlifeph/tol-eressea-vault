@@ -9,6 +9,7 @@ source: "https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat"
 estimated_pages: 26
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-tiktok-and-the-sorting-hat-remains-of-the-day.pdf"
 tags: []
 ---
 
