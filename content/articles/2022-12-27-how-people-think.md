@@ -9,6 +9,7 @@ source: "http://www.collaborativefund.com/blog/think/"
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-how-people-think.pdf"
 tags: []
 ---
 
