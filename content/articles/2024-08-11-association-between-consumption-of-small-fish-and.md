@@ -9,6 +9,7 @@ source: "https://www.cambridge.org/core/journals/public-health-nutrition/article
 estimated_pages: 27
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-08-11-association-between-consumption-of-small-fish-and.pdf"
 tags: []
 ---
 
