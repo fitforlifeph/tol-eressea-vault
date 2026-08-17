@@ -10,6 +10,7 @@ estimated_pages: 9
 status: complete
 draft: false
 pdf_url: "https://archive.javierpgomez.com/articles/2026-08-16-i-hate-what-ai-is-doing-to-the-minds-and-happiness.pdf"
+archive_url: "https://web.archive.org/web/https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom"
 tags: []
 ---
 
