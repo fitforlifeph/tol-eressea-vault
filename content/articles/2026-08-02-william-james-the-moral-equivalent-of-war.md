@@ -9,6 +9,7 @@ source: "https://www.uky.edu/~eushe2/Pajares/moral.html"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-william-james-the-moral-equivalent-of-war.pdf"
 tags: []
 ---
 
