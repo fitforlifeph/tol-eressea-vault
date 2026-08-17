@@ -9,6 +9,7 @@ source: "https://jnnp.bmj.com/content/early/2023/01/24/jnnp-2022-329955"
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-physical-activity-and-later-life-cognition.pdf"
 tags: []
 ---
 
