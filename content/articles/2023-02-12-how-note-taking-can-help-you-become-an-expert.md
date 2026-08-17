@@ -9,6 +9,7 @@ source: "https://commoncog.com/how-note-taking-can-help-you-become-an-expert/"
 estimated_pages: 23
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-12-how-note-taking-can-help-you-become-an-expert.pdf"
 tags: []
 ---
 
