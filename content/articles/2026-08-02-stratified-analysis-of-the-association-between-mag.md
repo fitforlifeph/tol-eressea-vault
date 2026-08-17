@@ -9,6 +9,7 @@ source: "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae07
 estimated_pages: 15
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-stratified-analysis-of-the-association-between-mag.pdf"
 tags: []
 ---
 
