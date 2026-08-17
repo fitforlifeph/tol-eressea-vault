@@ -9,6 +9,7 @@ source: "https://www.sciencedirect.com/science/article/pii/S2161831322004641"
 estimated_pages: 16
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-higher-mushroom-consumption-is-associated-with-low.pdf"
 tags: []
 ---
 
