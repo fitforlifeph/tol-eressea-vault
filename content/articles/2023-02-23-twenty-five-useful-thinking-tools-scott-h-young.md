@@ -9,6 +9,7 @@ source: "https://www.scotthyoung.com/blog/2018/12/04/25-thinking-tools/"
 estimated_pages: 17
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-23-twenty-five-useful-thinking-tools-scott-h-young.pdf"
 tags: []
 ---
 
