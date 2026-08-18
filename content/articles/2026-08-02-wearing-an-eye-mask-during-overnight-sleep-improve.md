@@ -9,6 +9,7 @@ source: "https://academic.oup.com/sleep/article/46/3/zsac305/6912219"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-wearing-an-eye-mask-during-overnight-sleep-improve.pdf"
 tags: []
 ---
 
