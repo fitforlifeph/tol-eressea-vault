@@ -9,6 +9,7 @@ source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9173848/"
 estimated_pages: 11
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-02-18-functional-medicine-past-present-and-future.pdf"
 tags: []
 ---
 
