@@ -9,6 +9,7 @@ source: "https://warontherocks.com/2019/01/a-primer-on-the-geopolitics-of-oil/"
 estimated_pages: 14
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-a-primer-on-the-geopolitics-of-oil.pdf"
 tags: []
 ---
 
