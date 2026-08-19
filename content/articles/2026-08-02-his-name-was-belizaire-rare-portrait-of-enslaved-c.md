@@ -10,6 +10,7 @@ video_url: "https://archive.javierpgomez.com/video/2026-08-02-belizaire-frey-chi
 estimated_pages: 5
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-his-name-was-belizaire-rare-portrait-of-enslaved-c.pdf"
 tags: []
 ---
 
