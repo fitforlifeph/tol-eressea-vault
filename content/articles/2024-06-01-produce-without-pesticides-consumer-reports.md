@@ -9,6 +9,7 @@ source: "https://www.consumerreports.org/health/food-contaminants/produce-withou
 estimated_pages: 13
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-06-01-produce-without-pesticides-consumer-reports.pdf"
 tags: []
 ---
 
