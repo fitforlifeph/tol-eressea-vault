@@ -9,6 +9,7 @@ source: "https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-yo
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-01-17-the-most-profitable-niche-is-you-how-to-create-you.pdf"
 tags: []
 ---
 
