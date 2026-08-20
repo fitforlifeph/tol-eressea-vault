@@ -9,6 +9,7 @@ source: "https://www.precisionnutrition.com/stop-overthinking-food-choices"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-superstition-sciencestition-and-how-to-stop-overth.pdf"
 tags: []
 ---
 
