@@ -9,6 +9,7 @@ source: "https://www.rogerebert.com/roger-ebert/go-gentle-into-that-good-night"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-go-gentle-into-that-good-night.pdf"
 tags: []
 ---
 
