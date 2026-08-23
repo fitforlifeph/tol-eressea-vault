@@ -9,6 +9,7 @@ source: "https://www.everydayhealth.com/photogallery/soda-alternatives.aspx"
 estimated_pages: 3
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-thirsty-try-one-of-these-11-refreshing-alternative.pdf"
 tags: []
 ---
 
