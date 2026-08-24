@@ -9,6 +9,7 @@ source: "https://ofdollarsanddata.com/the-best-way-to-get-things-done/"
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2024-04-04-the-best-way-to-get-things-done.pdf"
 tags: []
 ---
 
