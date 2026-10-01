@@ -10,6 +10,7 @@ estimated_pages: 20
 status: complete
 draft: false
 archive_url: "https://web.archive.org/web/https://www.abc.net.au/religion/anna-rowlands-hannah-arendt-simone-weil-catholic-social-teaching/107217964"
+pdf_url: "https://archive.javierpgomez.com/articles/2026-10-01-hannah-arendt-simone-weil-and-their-dialogue-with.pdf"
 tags: []
 ---
 
