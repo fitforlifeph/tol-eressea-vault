@@ -9,6 +9,7 @@ source: "http://womenintheology.org/2014/04/20/rowan-williams-teresa-of-avila-an
 estimated_pages: 8
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2022-12-27-rowan-williams-teresa-of-avila-and-an-easter-spiri.pdf"
 tags: []
 ---
 
