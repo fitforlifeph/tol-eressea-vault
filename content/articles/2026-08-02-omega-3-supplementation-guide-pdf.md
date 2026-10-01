@@ -9,6 +9,7 @@ source: "https://drive.google.com/file/d/1KVHY8oUjIAfxPrk7zLI79GZZQP6bcrIR/view"
 estimated_pages: 12
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-omega-3-supplementation-guide-pdf.pdf"
 tags: []
 ---
 
