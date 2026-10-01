@@ -9,6 +9,7 @@ source: "https://www.edge.org/adversarial-collaboration-daniel-kahneman"
 estimated_pages: 18
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2026-08-02-adversarial-collaboration-an-edge-lecture-by-danie.pdf"
 tags: []
 ---
 
