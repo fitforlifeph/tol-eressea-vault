@@ -9,6 +9,7 @@ source: "https://thedankoe.com/become-a-digital-renaissance-man-and-join-the-new
 estimated_pages: 9
 status: complete
 draft: false
+pdf_url: "https://archive.javierpgomez.com/articles/2023-02-13-become-a-digital-renaissance-man-and-join-the-new.pdf"
 tags: []
 ---
 
